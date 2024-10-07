@@ -21,11 +21,11 @@ Right now we are still looking for the connections between datasets, but we did 
 
 However, skimming over a data we hope to try to build neighborhood ranking and house ranking to try to track changes in off-campus student housing. Possibly identifying any correlations and visualizing them to analyze. 
 
-<i>Notebook for merging:</i> <a href="fa24-team-b/data_prep_phase/data_prep.ipynb"><code>fa24-team-b/data_prep_phase/data_prep.ipynb</code></a>
+<i>Notebook for merging:</i> <a href="data_prep.ipynb"><code>fa24-team-b/data_prep_phase/data_prep.ipynb</code></a>
 
-<i>Script for address_parser:</i> <a href="fa24-team-b/data_prep_phase/address_parser.py"><code>fa24-team-b/data_prep_phase/address_parser.py</code></a>
+<i>Script for address_parser:</i> <a href="address_parser.py"><code>fa24-team-b/data_prep_phase/address_parser.py</code></a>
 
-<i>Notebook for data cleaning:</i> <a href="fa24-team-b/data_prep_phase/merge_and_clean.ipynb"><code>fa24-team-b/data_prep_phase/merge_and_clean.ipynb</code></a>
+<i>Notebook for data cleaning:</i> <a href="merge_and_clean.ipynb"><code>fa24-team-b/data_prep_phase/merge_and_clean.ipynb</code></a>
 
 <p style="font-size:24px;font-weight: 600;">Workload</p>
 
