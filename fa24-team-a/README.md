@@ -4,25 +4,25 @@ This project aims to enhance the transparency and accountability of off-campus s
 
 #### Projects early insights:
 Using the data, we can answer the following types of questions:
-    > What is the trend of the number students in boston?
-    > Where do students generally live in and around boston?
-    > What are the trends regarding student housing across the city, by district, e.g. what % of the rental housing is taken up by students for each district and how has this changed over time?
+    - What is the trend of the number students in boston?
+    - Where do students generally live in and around boston?
+    - What are the trends regarding student housing across the city, by district, e.g. what % of the rental housing is taken up by students for each district and how has this changed over time?
     
 
 This project focuses on processing and cleaning university accountability data for off-campus student addresses over the years 2016-2024. The dataset includes detailed records from multiple universities. Each record includes information about student addresses, degree level, full-time or part-time status, and whether students are at home or not-at-home. The cleaned datasets were combined into a final master file that consolidates the information for further analysis.
 
 #### Repository Structure
 Code: fa24-team-a\Code
-    > Code used to pre-process the student addresses : fa24-team-a\Code\Code for StudentAddresses
-    > Code used to analyze the student data by district :  fa24-team-a\Code\Districts code
+    - Code used to pre-process the student addresses : fa24-team-a\Code\Code for StudentAddresses
+    - Code used to analyze the student data by district :  fa24-team-a\Code\Districts code
 Processed datasets: fa24-team-a\FinalData
-    > The final combined dataset for student Addresses : fa24-team-a\FinalData\StudentAddresses-2016-2024.xlsx
-    > Student addresses with geographical information : fa24-team-a\FinalData\geocoded_student_addresses.xlsx
-    > Student addresses aggregation by districts : fa24-team-a\FinalData\student_housing_percentage_by_district.xlsx
-    > Student addresses with their corresponding district information: fa24-team-a\FinalData\students_with_districts.xlsx
+    - The final combined dataset for student Addresses : fa24-team-a\FinalData\StudentAddresses-2016-2024.xlsx
+    - Student addresses with geographical information : fa24-team-a\FinalData\geocoded_student_addresses.xlsx
+    - Student addresses aggregation by districts : fa24-team-a\FinalData\student_housing_percentage_by_district.xlsx
+    - Student addresses with their corresponding district information: fa24-team-a\FinalData\students_with_districts.xlsx
 The raw datasets shared by the client : fa24-team-a\RawData
-    > District information and shape files: fa24-team-a\RawData\Districts
-    > Excel files of student addresses from 2016-2024: fa24-team-a\RawData\Student Addresses
+    - District information and shape files: fa24-team-a\RawData\Districts
+    - Excel files of student addresses from 2016-2024: fa24-team-a\RawData\Student Addresses
 Visualizations created for analysis : fa24-team-a\Visualization
 
 
