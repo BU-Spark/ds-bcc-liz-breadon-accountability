@@ -1,8 +1,8 @@
 University Accountability - Student Address Data (2016-2024)
-#### Project Overview
+## Project Overview
 This project aims to enhance the transparency and accountability of off-campus student housing data reported by higher education institutions. By examining and standardizing data from the past decade, the project seeks to understand the impact on housing affordability and inform land use decisions. The initiative involves collaboration with the Inspectional Services Department to restore and clarify housing violation data, develop tools to identify problematic landlords, and integrate data across city departments. This ordinance will establish clear criteria for data collection and reporting, ultimately creating a publicly accessible database to ensure compliance and promote responsible property management.
 
-#### Projects early insights:
+### Projects early insights:
 Using the data, we can answer the following types of questions:
     - What is the trend of the number students in boston?
     - Where do students generally live in and around boston?
@@ -11,22 +11,22 @@ Using the data, we can answer the following types of questions:
 
 This project focuses on processing and cleaning university accountability data for off-campus student addresses over the years 2016-2024. The dataset includes detailed records from multiple universities. Each record includes information about student addresses, degree level, full-time or part-time status, and whether students are at home or not-at-home. The cleaned datasets were combined into a final master file that consolidates the information for further analysis.
 
-#### Repository Structure
-Code: fa24-team-a\Code
+### Repository Structure
+- Code: fa24-team-a\Code
     - Code used to pre-process the student addresses : fa24-team-a\Code\Code for StudentAddresses
-    - Code used to analyze the student data by district :  fa24-team-a\Code\Districts code
-Processed datasets: fa24-team-a\FinalData
+- Code used to analyze the student data by district :  fa24-team-a\Code\Districts code
+- Processed datasets: fa24-team-a\FinalData
     - The final combined dataset for student Addresses : fa24-team-a\FinalData\StudentAddresses-2016-2024.xlsx
     - Student addresses with geographical information : fa24-team-a\FinalData\geocoded_student_addresses.xlsx
     - Student addresses aggregation by districts : fa24-team-a\FinalData\student_housing_percentage_by_district.xlsx
     - Student addresses with their corresponding district information: fa24-team-a\FinalData\students_with_districts.xlsx
-The raw datasets shared by the client : fa24-team-a\RawData
+- The raw datasets shared by the client : fa24-team-a\RawData
     - District information and shape files: fa24-team-a\RawData\Districts
     - Excel files of student addresses from 2016-2024: fa24-team-a\RawData\Student Addresses
-Visualizations created for analysis : fa24-team-a\Visualization
+- Visualizations created for analysis : fa24-team-a\Visualization
 
 
-#### Data Cleaning and Processing Steps
+### Data Cleaning and Processing Steps
 
 requirements:
 you can run the command "pip install -r fa24-team-a\Code\Code for StudentAddresses\requirements.txt" to install all relevant packages to run the scripts.
