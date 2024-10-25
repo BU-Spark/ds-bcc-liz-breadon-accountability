@@ -4,6 +4,16 @@
     <p>Team B</p>
 </span>
 
+<p style="font-size:24px;font-weight:600;">How to run</p>
+
+<p style="text-decoration:underline">Python Version: 3.12.6</p>
+
+If your python version is correct, run the next command:
+
+<code>pip install -r reqirements.txt</code>
+
+Now everything is ready, open notebook and it will work
+
 <p style="font-size:24px;font-weight: 600;">Data Collection and Cleaning</p>
 
 Data was collected from the shared drive, we were told to work with only files that begin from 2016 Fall Semester to the end of 2024 Spring Semester. These reports are also made for several universities per year range. Totalling in around 220 files.
