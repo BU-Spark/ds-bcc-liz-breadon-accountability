@@ -20,4 +20,3 @@ This notebook contains all the steps needed in order to get the student addresse
 <a href='./data_cleaning/helper.py'>Helper Scripts</a>
 
 This file contains all of the helper functions used inside of the above notebook
-
