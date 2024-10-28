@@ -10,7 +10,7 @@
 
 If your python version is correct, run the next command:
 
-<code>pip install -r reqirements.txt</code>
+<code>pip install -r requirements.txt</code>
 
 Now everything is ready, open notebook and it will work
 
