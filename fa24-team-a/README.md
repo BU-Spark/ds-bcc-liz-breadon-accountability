@@ -4,9 +4,9 @@ This project aims to enhance the transparency and accountability of off-campus s
 
 ### Projects early insights:
 Using the data, we can answer the following types of questions:
-    - What is the trend of the number students in boston?
-    - Where do students generally live in and around boston?
-    - What are the trends regarding student housing across the city, by district, e.g. what % of the rental housing is taken up by students for each district and how has this changed over time?
+- What is the trend of the number students in boston?
+- Where do students generally live in and around boston?
+- What are the trends regarding student housing across the city, by district, e.g. what % of the rental housing is taken up by students for each district and how has this changed over time?
     
 
 This project focuses on processing and cleaning university accountability data for off-campus student addresses over the years 2016-2024. The dataset includes detailed records from multiple universities. Each record includes information about student addresses, degree level, full-time or part-time status, and whether students are at home or not-at-home. The cleaned datasets were combined into a final master file that consolidates the information for further analysis.
@@ -36,11 +36,11 @@ Parsing and Splitting Addresses:
 Data provided by the client after being parsed and joined can be found in fa24-team-a\FinalData. The raw data shared by the client can be found in fa24-team-a\RawData. 
 
 The raw datasets contained addresses stored in single columns or incomplete address fields. A custom Python script was written to parse and split the addresses into individual components such as:
-6a. Street #
-6b. Street Name
-6c. Street Suffix
-6d. Unit #
-6e. Zip
+- 6a. Street #
+- 6b. Street Name
+- 6c. Street Suffix
+- 6d. Unit #
+- 6e. Zip
 Address suffixes such as 'St', 'Ave', 'Blvd', etc., were accounted for in different cases (e.g., lowercase, uppercase).
 Address Parsing for Different Universities:
 
