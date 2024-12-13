@@ -1,0 +1,3755 @@
+,Neighbourhood,year,description,count
+0,Allston,2010.0,Application for Permit,1
+1,Allston,2010.0,Building or Use of Premise req,4
+2,Allston,2010.0,Carbon Monoxide Detectors,1
+3,Allston,2010.0,Door Locks,1
+4,Allston,2010.0,Failed to comply w PRMT terms,1
+5,Allston,2010.0,Failure to secure permit,2
+6,Allston,2010.0,Fire Escape Affidavit,2
+7,Allston,2010.0,Inspections,25
+8,Allston,2010.0,Maintenance,1
+9,Allston,2010.0,Right of Entry,2
+10,Allston,2010.0,Smoke Detectors,1
+11,Allston,2010.0,Testing & Certification,2
+12,Allston,2010.0,Unsafe Maintenance,12
+13,Allston,2010.0,Unsafe Structure,2
+14,Allston,2010.0,Unsafe Structures,1
+15,Allston,2010.0,Unsafe and Dangerous,11
+16,Allston,2011.0,Building or Use of Premise req,1
+17,Allston,2011.0,Electrical Work w/out a Permit,1
+18,Allston,2011.0,Failure to Obtain Permit,2
+19,Allston,2011.0,Fire Escape Affidavit,1
+20,Allston,2011.0,Guarding of Live Ports,1
+21,Allston,2011.0,Illumination,1
+22,Allston,2011.0,Inspections,3
+23,Allston,2011.0,Maintenance,2
+24,Allston,2011.0,Right of Entry,1
+25,Allston,2011.0,Unsafe Maintenance,2
+26,Allston,2011.0,Unsafe Structures,1
+27,Allston,2011.0,Unsafe and Dangerous,5
+28,Allston,2012.0,Boston Zoning Code,1
+29,Allston,2012.0,Boxes Where Required,2
+30,Allston,2012.0,Certificate of Occupancy,1
+31,Allston,2012.0,Clear Width,1
+32,Allston,2012.0,Corridors,1
+33,Allston,2012.0,Failure to Obtain Permit,17
+34,Allston,2012.0,Hazrdous Means of Egress,1
+35,Allston,2012.0,Inspections,2
+36,Allston,2012.0,Maintenance,8
+37,Allston,2012.0,Mounting Elec. Equipment,1
+38,Allston,2012.0,Right of Entry,11
+39,Allston,2012.0,Smoke Alarms,1
+40,Allston,2012.0,Testing & Certification,4
+41,Allston,2012.0,Unsafe Maintenance,5
+42,Allston,2012.0,Unsafe and Dangerous,13
+43,Allston,2012.0,Uses Not Permitted,1
+44,Allston,2012.0,Uses not permitted,1
+45,Allston,2013.0,"Boxes, Where Required",1
+46,Allston,2013.0,Building or Use of Premise req,1
+47,Allston,2013.0,Deteriorating Agents,1
+48,Allston,2013.0,Failed to comply w permit term,1
+49,Allston,2013.0,Failure to Obtain Permit,21
+50,Allston,2013.0,Guarding of Live parts,1
+51,Allston,2013.0,Handrails/safety,1
+52,Allston,2013.0,Permits,1
+53,Allston,2013.0,Pool barrier,1
+54,Allston,2013.0,Right of Entry,11
+55,Allston,2013.0,Testing & Certification,3
+56,Allston,2013.0,Unsafe & Dangerous,1
+57,Allston,2013.0,Unsafe and Dangerous,24
+58,Allston,2013.0,Uses not permitted,2
+59,Allston,2013.0,Working Without a Permit,1
+60,Allston,2014.0,Electrical Work w/out a Permit,1
+61,Allston,2014.0,Exit Passageways,5
+62,Allston,2014.0,Failure to Obtain Permit,25
+63,Allston,2014.0,Guarding of Live parts,1
+64,Allston,2014.0,I.S.S.U,1
+65,Allston,2014.0,Integrity of Elec. Equip.,1
+66,Allston,2014.0,Maintenance,1
+67,Allston,2014.0,Mass. State Electrical Code,1
+68,Allston,2014.0,Mechanical Execution of Work,1
+69,Allston,2014.0,Mounting & Cooling Equipment,1
+70,Allston,2014.0,Right of Entry,9
+71,Allston,2014.0,Supervision of Electricians,1
+72,Allston,2014.0,Testing & Certification,10
+73,Allston,2014.0,Type NM Cable,1
+74,Allston,2014.0,Unsafe and Dangerous,26
+75,Allston,2014.0,Uses not permitted,1
+76,Allston,2014.0,Working Without a Permit,1
+77,Allston,2015.0,Approval of Documents,2
+78,Allston,2015.0,Certificate of Occupancy,2
+79,Allston,2015.0,Electrical Work w/out Permit,2
+80,Allston,2015.0,Failed to comply w permit term,5
+81,Allston,2015.0,Failure to Obtain Permit,20
+82,Allston,2015.0,Maintenance,9
+83,Allston,2015.0,Means of Egress,1
+84,Allston,2015.0,No use of premises permit:,1
+85,Allston,2015.0,Protection of Adj. Property,1
+86,Allston,2015.0,Right of Entry,3
+87,Allston,2015.0,Testing & Certification,4
+88,Allston,2015.0,Unsafe and Dangerous,25
+89,Allston,2016.0,Failed to comply w permit term,4
+90,Allston,2016.0,Failure to Obtain Permit,9
+91,Allston,2016.0,Failure to Secure Permit,1
+92,Allston,2016.0,Inspections,1
+93,Allston,2016.0,Maintenance,5
+94,Allston,2016.0,Means of Egress,1
+95,Allston,2016.0,Stop Work Order,1
+96,Allston,2016.0,Testing & Certification,2
+97,Allston,2016.0,Unlawful Continuance,1
+98,Allston,2016.0,Unsafe and Dangerous,2
+99,Allston,2017.0,Approval required,1
+100,Allston,2017.0,Bathrooms,1
+101,Allston,2017.0,Door operations-Egress doors,1
+102,Allston,2017.0,Emergency Exit,1
+103,Allston,2017.0,Failed to comply w permit term,2
+104,Allston,2017.0,Failure to Obtain Permit,10
+105,Allston,2017.0,Locks and Latches,2
+106,Allston,2017.0,Maintenance,11
+107,Allston,2017.0,Permits,1
+108,Allston,2017.0,Projections into Clear Width.,1
+109,Allston,2017.0,Property Maintenance,1
+110,Allston,2017.0,Testing & Certification,1
+111,Allston,2017.0,Unsafe and Dangerous,3
+112,Allston,2017.0,Uses not Permitted,1
+113,Allston,2018.0,Failure to Obtain Permit,5
+114,Allston,2018.0,Maintenance,1
+115,Allston,2018.0,Unsafe Structure,2
+116,Allston,2018.0,Unsafe and Dangerous,6
+117,Allston,2019.0,Failure to Obtain Permit,2
+118,Allston,2019.0,Maintenance,2
+119,Allston,2019.0,Testing & Certification,4
+120,Allston,2019.0,Unsafe and Dangerous,6
+121,Allston,2020.0,Failure to Obtain Permit,6
+122,Allston,2020.0,Maintenance,1
+123,Allston,2021.0,Failure to Obtain Permit,3
+124,Allston,2021.0,Maintenance,1
+125,Allston,2021.0,Protection of Adj. Property,1
+126,Allston,2021.0,Unsafe Structures,4
+127,Allston,2021.0,Unsafe and Dangerous,3
+128,Allston,2022.0,Failed to comply w permit term,1
+129,Allston,2022.0,Failure to Obtain Permit,8
+130,Allston,2022.0,Maintenance,4
+131,Allston,2022.0,Right of Entry,2
+132,Allston,2022.0,Testing & Certification,1
+133,Allston,2022.0,Unsafe Structures,14
+134,Allston,2023.0,Building or Use of Premise req,1
+135,Allston,2023.0,Failed to comply w permit term,1
+136,Allston,2023.0,Failure to Obtain Permit,3
+137,Allston,2023.0,Maintenance,7
+138,Allston,2023.0,Testing & Certification,1
+139,Allston,2023.0,Unsafe Structures,3
+140,Allston,2024.0,Failed to comply w permit term,1
+141,Allston,2024.0,Failure to Obtain Permit,6
+142,Allston,2024.0,Maintenance,7
+143,Allston,2024.0,Permits,2
+144,Allston,2024.0,Permits to perform gas fitting,1
+145,Allston,2024.0,Right of Entry,1
+146,Allston,2024.0,Testing & Certification,14
+147,Allston,2024.0,Unsafe Structures,2
+148,Allston,2024.0,Unsafe and Dangerous,1
+149,Back Bay,2010.0,Acceptance Tests,1
+150,Back Bay,2010.0,Certificate of Inspection,2
+151,Back Bay,2010.0,Deteriorating Agents,1
+152,Back Bay,2010.0,Failure to Comply w Bldg Code,2
+153,Back Bay,2010.0,Fire Protection Systems,1
+154,Back Bay,2010.0,Inspections,4
+155,Back Bay,2010.0,Maintenance of Exterior,1
+156,Back Bay,2010.0,Minimum Requirements,1
+157,Back Bay,2010.0,Specialized codes,1
+158,Back Bay,2010.0,Stop Work Order,1
+159,Back Bay,2010.0,Unsafe Maintenance,5
+160,Back Bay,2010.0,Unsafe and Dangerous,3
+161,Back Bay,2010.0,Violation penalties,1
+162,Back Bay,2011.0,Electrical Work w/out Permit,1
+163,Back Bay,2011.0,Failed to comply w permit term,2
+164,Back Bay,2011.0,Failure to Obtain Permit,6
+165,Back Bay,2011.0,Maintenance,2
+166,Back Bay,2011.0,Mechanical Execution of Work,1
+167,Back Bay,2011.0,Permits,1
+168,Back Bay,2011.0,Submittal Documents,1
+169,Back Bay,2011.0,Unsafe & Dangerous,2
+170,Back Bay,2011.0,Unsafe Maintenance,1
+171,Back Bay,2011.0,Unsafe and Dangerous,1
+172,Back Bay,2012.0,Certificate of Occupancy,1
+173,Back Bay,2012.0,Clear Width,3
+174,Back Bay,2012.0,Failed to comply w permit term,1
+175,Back Bay,2012.0,Failure to Obtain Permit,8
+176,Back Bay,2012.0,Maintenance,3
+177,Back Bay,2012.0,Objectionable Current,1
+178,Back Bay,2012.0,Referenced Codes & Standards,1
+179,Back Bay,2012.0,Right of Entry,1
+180,Back Bay,2012.0,Stop Work Order,1
+181,Back Bay,2012.0,Testing & Certification,4
+182,Back Bay,2012.0,Unlawful Acts,1
+183,Back Bay,2012.0,Unsafe Structures,4
+184,Back Bay,2012.0,Unsafe and Dangerous,8
+185,Back Bay,2013.0,Application for Permit,1
+186,Back Bay,2013.0,Certificate of Occupancy,2
+187,Back Bay,2013.0,Failed to comply w permit term,1
+188,Back Bay,2013.0,Failure to Comply w Bldg Code,1
+189,Back Bay,2013.0,Failure to Obtain Permit,9
+190,Back Bay,2013.0,Failure to secure permit,1
+191,Back Bay,2013.0,Fire Alarm Ent. Response,1
+192,Back Bay,2013.0,Inspections,1
+193,Back Bay,2013.0,Periodic Inspections,1
+194,Back Bay,2013.0,Right of Entry,2
+195,Back Bay,2013.0,Testing & Certification,1
+196,Back Bay,2013.0,Unsafe & Dangerous,1
+197,Back Bay,2013.0,Unsafe Structures,1
+198,Back Bay,2013.0,Unsafe and Dangerous,21
+199,Back Bay,2014.0,Certificate of Occupancy,6
+200,Back Bay,2014.0,Elec. Equip. & Connections,1
+201,Back Bay,2014.0,Failed to comply w permit term,2
+202,Back Bay,2014.0,Failure to Obtain Permit,11
+203,Back Bay,2014.0,Inspections,1
+204,Back Bay,2014.0,Maintenance,1
+205,Back Bay,2014.0,Maintenance Access Features,1
+206,Back Bay,2014.0,Means of Egress Illumination,1
+207,Back Bay,2014.0,Mechanical Execution of Work,1
+208,Back Bay,2014.0,Periodic Inspections,2
+209,Back Bay,2014.0,Protection of Adj. Property,1
+210,Back Bay,2014.0,Revocation of Certificate,1
+211,Back Bay,2014.0,Unsafe and Dangerous,17
+212,Back Bay,2014.0,Working Space,1
+213,Back Bay,2015.0,Certificate of Occupancy,2
+214,Back Bay,2015.0,Failed to comply w permit term,1
+215,Back Bay,2015.0,Failure to Obtain Permit,17
+216,Back Bay,2015.0,Fire Protection Systems,1
+217,Back Bay,2015.0,Maintenance,6
+218,Back Bay,2015.0,Periodic Inspections,5
+219,Back Bay,2015.0,Reg. of Construction Hour,1
+220,Back Bay,2015.0,Right of Entry,1
+221,Back Bay,2015.0,Testing & Certification,23
+222,Back Bay,2015.0,Unlawful Acts,1
+223,Back Bay,2015.0,Unsafe and Dangerous,16
+224,Back Bay,2016.0,Disconnecting Means,1
+225,Back Bay,2016.0,Door Opening Force,1
+226,Back Bay,2016.0,Exit Signs,1
+227,Back Bay,2016.0,Failed to comply w permit term,2
+228,Back Bay,2016.0,Failure to Obtain Permit,14
+229,Back Bay,2016.0,Fire Alarm and Detection,1
+230,Back Bay,2016.0,Fire Protection Systems,1
+231,Back Bay,2016.0,Maintenance,8
+232,Back Bay,2016.0,Manner of Removal,2
+233,Back Bay,2016.0,Periodic Inspections,5
+234,Back Bay,2016.0,Protection of Adj. Property,1
+235,Back Bay,2016.0,Referenced Codes,1
+236,Back Bay,2016.0,Right of Entry,2
+237,Back Bay,2016.0,Suspension or Revocation,2
+238,Back Bay,2016.0,Testing & Certification,13
+239,Back Bay,2016.0,Unlawful Acts,1
+240,Back Bay,2016.0,Unsafe and Dangerous,6
+241,Back Bay,2016.0,Work without permit,1
+242,Back Bay,2017.0,Emergency escape and rescue,1
+243,Back Bay,2017.0,Failed to comply w permit term,2
+244,Back Bay,2017.0,Failure to Obtain Permit,13
+245,Back Bay,2017.0,Fire and Smoke Protection,1
+246,Back Bay,2017.0,Guards Where Required,1
+247,Back Bay,2017.0,Maintenance,5
+248,Back Bay,2017.0,Means of Egress,1
+249,Back Bay,2017.0,Other Laws,1
+250,Back Bay,2017.0,Periodic Inspections,1
+251,Back Bay,2017.0,Right of Entry,1
+252,Back Bay,2017.0,Unsafe and Dangerous,4
+253,Back Bay,2017.0,Uses not Permitted,1
+254,Back Bay,2018.0,Acts 1956 as Amended,1
+255,Back Bay,2018.0,Certificate of Occupancy,1
+256,Back Bay,2018.0,Failed to comply w permit term,4
+257,Back Bay,2018.0,Failure to Obtain Permit,3
+258,Back Bay,2018.0,Maintenance,6
+259,Back Bay,2018.0,Means of Egress,1
+260,Back Bay,2018.0,Periodic Inspections,1
+261,Back Bay,2018.0,Testing & Certification,6
+262,Back Bay,2018.0,Unsafe and Dangerous,11
+263,Back Bay,2019.0,AFCI,1
+264,Back Bay,2019.0,Certificate of Occupancy,3
+265,Back Bay,2019.0,Failure to Obtain Permit,14
+266,Back Bay,2019.0,Failure to secure permit,1
+267,Back Bay,2019.0,Fire Protection Systems,3
+268,Back Bay,2019.0,Fire Separation,2
+269,Back Bay,2019.0,Inspections,1
+270,Back Bay,2019.0,Locks and Latches,1
+271,Back Bay,2019.0,Maintenance,7
+272,Back Bay,2019.0,Maintenance of Means of Egress,1
+273,Back Bay,2019.0,Modification fire protection,1
+274,Back Bay,2019.0,Municipal Bylaws or Ordinances,1
+275,Back Bay,2019.0,Number of Exits or Exit Access,1
+276,Back Bay,2019.0,Periodic Inspections,1
+277,Back Bay,2019.0,Permits,1
+278,Back Bay,2019.0,Protection of Adj. Property,1
+279,Back Bay,2019.0,Protection of Pedestrians,1
+280,Back Bay,2019.0,Reg. of Construction Hour,1
+281,Back Bay,2019.0,Suspension or Revocation,1
+282,Back Bay,2019.0,Testing & Certification,6
+283,Back Bay,2019.0,Unsafe and Dangerous,11
+284,Back Bay,2020.0,Certificate of Occupancy,1
+285,Back Bay,2020.0,Failed to comply w permit term,3
+286,Back Bay,2020.0,Failure to Obtain Permit,10
+287,Back Bay,2020.0,Fire Separation,1
+288,Back Bay,2020.0,Maintenance,1
+289,Back Bay,2020.0,Maintenance of Means of Egress,1
+290,Back Bay,2020.0,Municipal Bylaws or Ordinances,2
+291,Back Bay,2020.0,Periodic Inspections,1
+292,Back Bay,2020.0,Required Inspections,1
+293,Back Bay,2020.0,Testing & Certification,9
+294,Back Bay,2020.0,Unsafe and Dangerous,7
+295,Back Bay,2021.0,Elec work w/o per,1
+296,Back Bay,2021.0,Failure to Obtain Permit,10
+297,Back Bay,2021.0,Maintenance,1
+298,Back Bay,2021.0,Municipal Bylaws or Ordinances,1
+299,Back Bay,2021.0,Testing & Certification,1
+300,Back Bay,2022.0,Access to Public Way,1
+301,Back Bay,2022.0,Egress Doors,5
+302,Back Bay,2022.0,Emergency Escape & Rescue,1
+303,Back Bay,2022.0,Failed to comply w permit term,3
+304,Back Bay,2022.0,Failure to Obtain Permit,6
+305,Back Bay,2022.0,Maintenance,4
+306,Back Bay,2022.0,Maintenance of Means of Egress,4
+307,Back Bay,2022.0,Periodic Inspections,2
+308,Back Bay,2022.0,Testing & Certification,14
+309,Back Bay,2022.0,Unsafe Structures,2
+310,Back Bay,2022.0,Working Space,1
+311,Back Bay,2023.0,Automatic Sprinkler System,1
+312,Back Bay,2023.0,Certificate of Occupancy,1
+313,Back Bay,2023.0,Defective Plumbing,1
+314,Back Bay,2023.0,Emergency Escape & Rescue,1
+315,Back Bay,2023.0,Failed to comply w permit term,2
+316,Back Bay,2023.0,Failure to Obtain Permit,3
+317,Back Bay,2023.0,Fire Protection Systems,1
+318,Back Bay,2023.0,Maintenance,6
+319,Back Bay,2023.0,Municipal Bylaws or Ordinances,1
+320,Back Bay,2023.0,Number of Exits or Exit Access,1
+321,Back Bay,2023.0,Periodic Inspections,3
+322,Back Bay,2023.0,Protection of Adj. Property,1
+323,Back Bay,2023.0,Receptacle Outlets,1
+324,Back Bay,2023.0,Testing & Certification,4
+325,Back Bay,2023.0,Unsafe Structures,4
+326,Back Bay,2024.0,Failed to comply w permit term,2
+327,Back Bay,2024.0,Failure to Obtain Permit,8
+328,Back Bay,2024.0,Failure to secure permit,1
+329,Back Bay,2024.0,Maintenance,11
+330,Back Bay,2024.0,Reg. of Construction Hour,1
+331,Back Bay,2024.0,Suspension or Revocation,1
+332,Back Bay,2024.0,Testing & Certification,7
+333,Back Bay,2024.0,Unsafe Structures,2
+335,Beacon Hill,2010.0,Deteriorating Agents,3
+336,Beacon Hill,2010.0,Failed to comply w PRMT terms,3
+337,Beacon Hill,2010.0,Inspections,1
+338,Beacon Hill,2010.0,Maintenance of Exterior,1
+339,Beacon Hill,2010.0,Meter Tapping,1
+340,Beacon Hill,2010.0,Minimum Requirements,1
+341,Beacon Hill,2010.0,Protection of Adj. Property,1
+342,Beacon Hill,2010.0,Unsafe Maintenance,1
+343,Beacon Hill,2010.0,Unsafe Structure,7
+344,Beacon Hill,2010.0,Unsafe and Dangerous,5
+345,Beacon Hill,2011.0,Certificate of Inspection,1
+346,Beacon Hill,2011.0,Maintenance,7
+347,Beacon Hill,2011.0,Repair,1
+348,Beacon Hill,2011.0,Unsafe and Dangerous,5
+349,Beacon Hill,2011.0,Working Space,1
+350,Beacon Hill,2012.0,Failure to Obtain Permit,2
+351,Beacon Hill,2012.0,Right of Entry,1
+352,Beacon Hill,2012.0,Unsafe and Dangerous,2
+353,Beacon Hill,2013.0,Failed to comply w permit term,2
+354,Beacon Hill,2013.0,Failure to Obtain Permit,7
+355,Beacon Hill,2013.0,Fire-resistance rating,1
+356,Beacon Hill,2013.0,Horozontal assemblies;Fire,1
+357,Beacon Hill,2013.0,Locks and Latches,1
+358,Beacon Hill,2013.0,Periodic Inspections,1
+359,Beacon Hill,2013.0,Protection of Adj. Property,1
+360,Beacon Hill,2013.0,Unlawful Continuance,1
+361,Beacon Hill,2013.0,Unsafe and Dangerous,12
+362,Beacon Hill,2014.0,Application for Permit,1
+363,Beacon Hill,2014.0,Certificate of Occupancy,1
+364,Beacon Hill,2014.0,Failed to comply w permit term,1
+365,Beacon Hill,2014.0,Failure to call Inspections,1
+366,Beacon Hill,2014.0,Periodic Inspections,1
+367,Beacon Hill,2014.0,Protection of Adj. Property,3
+368,Beacon Hill,2014.0,Unsafe and Dangerous,1
+369,Beacon Hill,2015.0,Automatic Sprinkler System,1
+370,Beacon Hill,2015.0,Certificate of Occupancy,2
+371,Beacon Hill,2015.0,Exit Enclosures,1
+372,Beacon Hill,2015.0,Failure to Obtain Permit,5
+373,Beacon Hill,2015.0,Failure to Secure Permit,1
+374,Beacon Hill,2015.0,Maintenance,2
+375,Beacon Hill,2015.0,Means of Egress,1
+376,Beacon Hill,2015.0,Required Inspections,1
+377,Beacon Hill,2015.0,Testing & Certification,5
+378,Beacon Hill,2015.0,Testing&Maintenance Sprinklers,1
+379,Beacon Hill,2015.0,Unsafe and Dangerous,5
+380,Beacon Hill,2016.0,.,1
+381,Beacon Hill,2016.0,Certificate of Occupancy,1
+382,Beacon Hill,2016.0,Exits,3
+383,Beacon Hill,2016.0,Failure to Obtain Permit,5
+384,Beacon Hill,2016.0,Fire Stop System,1
+385,Beacon Hill,2016.0,Fire-resistance rating,1
+386,Beacon Hill,2016.0,Horozontal assemblies;Fire,1
+387,Beacon Hill,2016.0,Maintenance,6
+388,Beacon Hill,2016.0,Secured in Place,1
+389,Beacon Hill,2016.0,Table A Use Item 34A,1
+390,Beacon Hill,2016.0,Through Penedtrations,1
+391,Beacon Hill,2016.0,Unlawful Acts,1
+392,Beacon Hill,2016.0,Unsafe and Dangerous,1
+393,Beacon Hill,2017.0,Exits,2
+394,Beacon Hill,2017.0,Failure to Obtain Permit,3
+395,Beacon Hill,2017.0,Testing&Maintenance Sprinklers,1
+396,Beacon Hill,2017.0,Unsafe and Dangerous,4
+397,Beacon Hill,2018.0,Failure to Obtain Permit,2
+398,Beacon Hill,2018.0,Maintenance,2
+399,Beacon Hill,2018.0,Means of Egress,1
+400,Beacon Hill,2018.0,Suspension or Revocation,2
+401,Beacon Hill,2018.0,Testing & Certification,3
+402,Beacon Hill,2018.0,Unsafe and Dangerous,3
+403,Beacon Hill,2019.0,Failed to comply w permit term,1
+404,Beacon Hill,2019.0,Failure to Obtain Permit,4
+405,Beacon Hill,2019.0,Fire Separation,1
+406,Beacon Hill,2019.0,Maintenance,2
+407,Beacon Hill,2019.0,Suspension or Revocation,1
+408,Beacon Hill,2019.0,Testing & Certification,3
+409,Beacon Hill,2019.0,Unsafe and Dangerous,6
+410,Beacon Hill,2020.0,Failed to comply w permit term,1
+411,Beacon Hill,2020.0,Failure to Obtain Permit,2
+412,Beacon Hill,2020.0,Maintenance,8
+413,Beacon Hill,2020.0,Periodic Inspections,1
+414,Beacon Hill,2020.0,Referenced Codes & Standards,1
+415,Beacon Hill,2020.0,Testing & Certification,1
+416,Beacon Hill,2020.0,Unsafe and Dangerous,1
+417,Beacon Hill,2021.0,Failure to Obtain Permit,1
+418,Beacon Hill,2021.0,Maintenance,3
+419,Beacon Hill,2021.0,Testing & Certification,3
+420,Beacon Hill,2022.0,Failure to Obtain Permit,2
+421,Beacon Hill,2022.0,Maintenance,4
+422,Beacon Hill,2022.0,Testing & Certification,6
+423,Beacon Hill,2022.0,Unsafe Structures,1
+424,Beacon Hill,2023.0,Failure to Obtain Permit,1
+425,Beacon Hill,2023.0,Maintenance,6
+426,Beacon Hill,2024.0,Failure to Obtain Permit,2
+427,Beacon Hill,2024.0,Inspection of exterior walls.,1
+428,Beacon Hill,2024.0,Maintenance,4
+429,Beacon Hill,2024.0,Municipal Bylaws or Ordinances,1
+430,Beacon Hill,2024.0,Periodic Inspections,1
+431,Beacon Hill,2024.0,Testing & Certification,3
+433,Brighton,2010.0,Boston Zoning Code,1
+434,Brighton,2010.0,Building or Use of Premise req,4
+435,Brighton,2010.0,Certificate of Inspection,1
+436,Brighton,2010.0,Construction Safeguards,1
+437,Brighton,2010.0,Failed to comply w PRMT terms,1
+438,Brighton,2010.0,Inspections,22
+439,Brighton,2010.0,Maintenance,1
+440,Brighton,2010.0,Mechanical Execution of Work,1
+441,Brighton,2010.0,Right of Entry,4
+442,Brighton,2010.0,Testing & Certification,2
+443,Brighton,2010.0,Unlawful Acts,1
+444,Brighton,2010.0,Unsafe Maintenance,7
+445,Brighton,2010.0,Unsafe and Dangerous,15
+446,Brighton,2011.0,Building or Use of Premise req,1
+447,Brighton,2011.0,Certificate of Inspection,2
+448,Brighton,2011.0,Electrical Work w/out Permit,1
+449,Brighton,2011.0,Electrical Work w/out a Permit,3
+450,Brighton,2011.0,Failed to comply w permit term,1
+451,Brighton,2011.0,Failure to Obtain Permit,9
+452,Brighton,2011.0,Failure to Secure Permit,1
+453,Brighton,2011.0,Failure to secure permit,2
+454,Brighton,2011.0,Fire Escape Affidavit,1
+455,Brighton,2011.0,Inspections,5
+456,Brighton,2011.0,Maintenance,3
+457,Brighton,2011.0,Other Laws,1
+458,Brighton,2011.0,Periodic Inspections,2
+459,Brighton,2011.0,Right of Entry,2
+460,Brighton,2011.0,Suspension or Revocation,1
+461,Brighton,2011.0,Unsafe Maintenance,1
+462,Brighton,2011.0,Unsafe Structure,1
+463,Brighton,2011.0,Unsafe and Dangerous,5
+464,Brighton,2012.0,Building or Use of Premise req,2
+465,Brighton,2012.0,Failed to comply w PRMT terms,1
+466,Brighton,2012.0,Failed to comply w permit term,1
+467,Brighton,2012.0,Failure to Obtain Permit,14
+468,Brighton,2012.0,Failure to Secure Permit,1
+469,Brighton,2012.0,Guarding of Live parts,2
+470,Brighton,2012.0,Inspections,4
+471,Brighton,2012.0,Integrity of,1
+472,Brighton,2012.0,Maintenance,2
+473,Brighton,2012.0,Mass State Plumbing Code,1
+474,Brighton,2012.0,Mechanical Execution of Work,1
+475,Brighton,2012.0,Openings to be closed,1
+476,Brighton,2012.0,Permits,1
+477,Brighton,2012.0,Permits to perform gas fitting,1
+478,Brighton,2012.0,Protection of Adj. Property,1
+479,Brighton,2012.0,Right of Entry,10
+480,Brighton,2012.0,Securing and Supporting,1
+481,Brighton,2012.0,Unsafe Structures,1
+482,Brighton,2012.0,Unsafe and Dangerous,19
+483,Brighton,2012.0,Uses not permitted,1
+484,Brighton,2013.0,Building or Use of Premise req,4
+485,Brighton,2013.0,Failed to comply w permit term,1
+486,Brighton,2013.0,Failure to Obtain Permit,24
+487,Brighton,2013.0,Inspections,1
+488,Brighton,2013.0,Periodic Inspections,1
+489,Brighton,2013.0,Principle #18,1
+490,Brighton,2013.0,Right of Entry,8
+491,Brighton,2013.0,Suspension or Revocation,1
+492,Brighton,2013.0,Unsafe and Dangerous,26
+493,Brighton,2013.0,Working Without a Permit,1
+494,Brighton,2014.0,Building or Use of Premise req,3
+495,Brighton,2014.0,Certificate of Occupancy,6
+496,Brighton,2014.0,Exit Passageways,1
+497,Brighton,2014.0,Failed to comply w permit term,2
+498,Brighton,2014.0,Failure to Obtain Permit,19
+499,Brighton,2014.0,Failure to secure permit,1
+500,Brighton,2014.0,Maintenance,2
+501,Brighton,2014.0,Mass State Plumbing Code,1
+502,Brighton,2014.0,Periodic Inspections,1
+503,Brighton,2014.0,Principle #18,1
+504,Brighton,2014.0,Protection of Adj. Property,1
+505,Brighton,2014.0,Pull & Junction Box,1
+506,Brighton,2014.0,Right of Entry,21
+507,Brighton,2014.0,Service Size & Rating,1
+508,Brighton,2014.0,Space About Electrical Service,1
+509,Brighton,2014.0,Testing & Certification,3
+510,Brighton,2014.0,Unsafe and Dangerous,24
+511,Brighton,2015.0,Building or Use of Premise req,3
+512,Brighton,2015.0,Certificate of Occupancy,2
+513,Brighton,2015.0,Disconnecting Means Service,1
+514,Brighton,2015.0,Egress Maintenance,1
+515,Brighton,2015.0,Electrical Work w/out Permit,1
+516,Brighton,2015.0,Failed to comply w permit term,1
+517,Brighton,2015.0,Failure to Obtain Permit,31
+518,Brighton,2015.0,Maintenance,4
+519,Brighton,2015.0,Protection of Adj. Property,9
+520,Brighton,2015.0,Right of Entry,2
+521,Brighton,2015.0,Suspension or Revocation,1
+522,Brighton,2015.0,Unsafe Structure,1
+523,Brighton,2015.0,Unsafe and Dangerous,16
+524,Brighton,2016.0,Approach to Access Entrance,1
+525,Brighton,2016.0,Building or Use of Premise req,1
+526,Brighton,2016.0,Emergency Escape & Rescue,1
+527,Brighton,2016.0,Failed to comply w permit term,3
+528,Brighton,2016.0,Failure to Obtain Permit,18
+529,Brighton,2016.0,Failure to comply w permits,1
+530,Brighton,2016.0,Maintenance,5
+531,Brighton,2016.0,Unsafe Maintenance,1
+532,Brighton,2016.0,Unsafe and Dangerous,10
+533,Brighton,2017.0,Exits Maintained,1
+534,Brighton,2017.0,Failed to comply w permit term,1
+535,Brighton,2017.0,Failure to Obtain Permit,24
+536,Brighton,2017.0,Maintenance,14
+537,Brighton,2017.0,Property Maintenance,2
+538,Brighton,2017.0,Protection of Adj. Property,1
+539,Brighton,2017.0,Referenced Codes & Standards,1
+540,Brighton,2017.0,Unsafe and Dangerous,7
+541,Brighton,2018.0,Building or Use of Premise req,3
+542,Brighton,2018.0,Failed to comply w permit term,1
+543,Brighton,2018.0,Failure to Obtain Permit,20
+544,Brighton,2018.0,Fire Protection Systems,1
+545,Brighton,2018.0,Maintenance,2
+546,Brighton,2018.0,Permits,1
+547,Brighton,2018.0,Protection of Adj. Property,1
+548,Brighton,2018.0,Right of Entry,1
+549,Brighton,2018.0,Testing & Certification,1
+550,Brighton,2018.0,Unsafe and Dangerous,14
+551,Brighton,2019.0,Certificate of Occupancy,2
+552,Brighton,2019.0,Deteriorating Agents,1
+553,Brighton,2019.0,Failed to comply w permit term,3
+554,Brighton,2019.0,Failure to Obtain Permit,5
+555,Brighton,2019.0,Maintenance,2
+556,Brighton,2019.0,Maintenance of Means of Egress,1
+557,Brighton,2019.0,Protection of Adj. Property,1
+558,Brighton,2019.0,Testing & Certification,1
+559,Brighton,2019.0,Unsafe and Dangerous,11
+560,Brighton,2020.0,Failure to Obtain Permit,7
+561,Brighton,2020.0,Fire Protection Systems,1
+562,Brighton,2020.0,Maintenance,2
+563,Brighton,2020.0,Reg. of Construction Hour,1
+564,Brighton,2020.0,Unsafe and Dangerous,8
+565,Brighton,2021.0,Building or Use of Premise req,1
+566,Brighton,2021.0,Failure to Obtain Permit,10
+567,Brighton,2021.0,Unsafe Structures,5
+568,Brighton,2021.0,Unsafe and Dangerous,5
+569,Brighton,2022.0,Failed to comply w permit term,1
+570,Brighton,2022.0,Failure to Obtain Permit,8
+571,Brighton,2022.0,Maintenance,6
+572,Brighton,2022.0,Maintenance of Means of Egress,1
+573,Brighton,2022.0,Protection of Adj. Property,1
+574,Brighton,2022.0,Right of Entry,1
+575,Brighton,2022.0,Unsafe Structures,7
+576,Brighton,2023.0,Clearance from Windows,1
+577,Brighton,2023.0,Failure to Obtain Permit,4
+578,Brighton,2023.0,Fire Protection Systems,2
+579,Brighton,2023.0,Maintenance,3
+580,Brighton,2023.0,Materials (A) Min. Standards,1
+581,Brighton,2023.0,No use of premises permit:,2
+582,Brighton,2023.0,Testing & Certification,1
+583,Brighton,2023.0,Unsafe Structures,12
+584,Brighton,2023.0,Working Space,1
+585,Brighton,2024.0,Building or Use of Premise req,2
+586,Brighton,2024.0,Failed to comply w permit term,1
+587,Brighton,2024.0,Failure to Obtain Permit,17
+588,Brighton,2024.0,Maintenance,5
+589,Brighton,2024.0,Permits,6
+590,Brighton,2024.0,Protection of Adj. Property,2
+591,Brighton,2024.0,Right of Entry,1
+592,Brighton,2024.0,Testing & Certification,2
+593,Brighton,2024.0,Unsafe Structures,6
+594,Charlestown,2010.0, Mass. State Plumbing Code,1
+595,Charlestown,2010.0,Building or Use of Premise req,2
+596,Charlestown,2010.0,Certificate of Inspection,1
+597,Charlestown,2010.0,Failure to secure permit,2
+598,Charlestown,2010.0,Final Inspection,1
+599,Charlestown,2010.0,Inspections,4
+600,Charlestown,2010.0,Maintenance,4
+601,Charlestown,2010.0,Mechanical Execution of Work,1
+602,Charlestown,2010.0,Unlawful Continuance,1
+603,Charlestown,2010.0,Unsafe Maintenance,5
+604,Charlestown,2010.0,Unsafe Structure,5
+605,Charlestown,2010.0,Unsafe Structures,2
+606,Charlestown,2010.0,Unsafe and Dangerous,1
+607,Charlestown,2011.0,Guarding of Live Ports,1
+608,Charlestown,2011.0,Inspections,1
+609,Charlestown,2011.0,Maintenance,2
+610,Charlestown,2011.0,Permits,1
+611,Charlestown,2011.0,Permits to perform gas fitting,1
+612,Charlestown,2011.0,Right of Entry,1
+613,Charlestown,2011.0,Unsafe Structure,1
+614,Charlestown,2011.0,Unsafe Structures,4
+615,Charlestown,2011.0,Unsafe and Dangerous,1
+616,Charlestown,2011.0,Work without permit,1
+617,Charlestown,2012.0,Building or Use of Premise req,2
+618,Charlestown,2012.0,Egress Maintenance,1
+619,Charlestown,2012.0,Failed to comply w permit term,3
+620,Charlestown,2012.0,Failure to Obtain Permit,13
+621,Charlestown,2012.0,Guards Where Required,1
+622,Charlestown,2012.0,Locks and Latches (Gate),1
+623,Charlestown,2012.0,Maintenance,3
+624,Charlestown,2012.0,Permits,1
+625,Charlestown,2012.0,Protection of Adj. Property,2
+626,Charlestown,2012.0,Revocation of Certificate,1
+627,Charlestown,2012.0,Testing & Certification,1
+628,Charlestown,2012.0,Unsafe Structures,4
+629,Charlestown,2012.0,Unsafe and Dangerous,11
+630,Charlestown,2013.0,Failure to Obtain Permit,18
+631,Charlestown,2013.0,Protection of Adj. Property,6
+632,Charlestown,2013.0,Protection of Pedestrians,1
+633,Charlestown,2013.0,Referenced Codes,1
+634,Charlestown,2013.0,Size and Rating,1
+635,Charlestown,2013.0,Testing & Certification,1
+636,Charlestown,2013.0,Unsafe and Dangerous,10
+637,Charlestown,2014.0,Certificate of Occupancy,7
+638,Charlestown,2014.0,Failed to comply w permit term,2
+639,Charlestown,2014.0,Failure to Obtain Permit,16
+640,Charlestown,2014.0,Protection of Adj. Property,6
+641,Charlestown,2014.0,Revocation of Certificate,1
+642,Charlestown,2014.0,Right of Entry,1
+643,Charlestown,2014.0,Testing & Certification,1
+644,Charlestown,2014.0,Unsafe and Dangerous,5
+645,Charlestown,2015.0,Clear Width,1
+646,Charlestown,2015.0,Exit Passageways,1
+647,Charlestown,2015.0,Failed to comply w permit term,2
+648,Charlestown,2015.0,Failure to Obtain Permit,25
+649,Charlestown,2015.0,Fire Protection Systems,1
+650,Charlestown,2015.0,Inspections,1
+651,Charlestown,2015.0,Maintenance,8
+652,Charlestown,2015.0,Means of Egress,3
+653,Charlestown,2015.0,Protection of Adj. Property,7
+654,Charlestown,2015.0,Right of Entry,2
+655,Charlestown,2015.0,Suspension or Revocation,1
+656,Charlestown,2015.0,Testing & Certification,1
+657,Charlestown,2015.0,Unsafe and Dangerous,9
+658,Charlestown,2016.0,Building or Use of Premise req,2
+659,Charlestown,2016.0,Construction Safeguards,2
+660,Charlestown,2016.0,Door Operations,2
+661,Charlestown,2016.0,Failed to comply w permit term,1
+662,Charlestown,2016.0,Failure to Obtain Permit,7
+663,Charlestown,2016.0,Maintenance,7
+664,Charlestown,2016.0,No use of premises permit:,1
+665,Charlestown,2016.0,Protection of Adj. Property,3
+666,Charlestown,2016.0,Referenced Codes & Standards,1
+667,Charlestown,2016.0,Right of Entry,1
+668,Charlestown,2016.0,Unsafe and Dangerous,8
+669,Charlestown,2017.0,Acts 1956 as Amended,1
+670,Charlestown,2017.0,Building or Use of Premise req,2
+671,Charlestown,2017.0,Door operations-Egress doors,2
+672,Charlestown,2017.0,Failed to comply w permit term,2
+673,Charlestown,2017.0,Failure to Obtain Permit,8
+674,Charlestown,2017.0,Failure to call for req Insp.,1
+675,Charlestown,2017.0,Maintenance,5
+676,Charlestown,2017.0,Maximum Height from Floor,1
+677,Charlestown,2017.0,No use of premises permit:,2
+678,Charlestown,2017.0,Protection of Adj. Property,2
+679,Charlestown,2017.0,Right of Entry,1
+680,Charlestown,2017.0,Suspension or Revocation,1
+681,Charlestown,2017.0,Unsafe and Dangerous,14
+682,Charlestown,2018.0,Failed to comply w permit term,1
+683,Charlestown,2018.0,Failure to Obtain Permit,3
+684,Charlestown,2018.0,I.S.S.U,1
+685,Charlestown,2018.0,Maintenance,1
+686,Charlestown,2018.0,Protection of Adj. Property,1
+687,Charlestown,2018.0,Unsafe and Dangerous,4
+688,Charlestown,2019.0,Access to Public Way,1
+689,Charlestown,2019.0,Certificate of Occupancy,1
+690,Charlestown,2019.0,Failure to Obtain Permit,5
+691,Charlestown,2019.0,Fire Protection Systems,1
+692,Charlestown,2019.0,Int. Exit  Stairways & Ramps,1
+693,Charlestown,2019.0,Maintenance,3
+694,Charlestown,2019.0,Protection of Adj. Property,3
+695,Charlestown,2019.0,Right of Entry,1
+696,Charlestown,2019.0,Unsafe and Dangerous,6
+697,Charlestown,2020.0,Acts 1956 as Amended,1
+698,Charlestown,2020.0,Certificate of Occupancy,1
+699,Charlestown,2020.0,Failure to Obtain Permit,3
+700,Charlestown,2020.0,Maintenance,3
+701,Charlestown,2020.0,Maintenance of Means of Egress,2
+702,Charlestown,2020.0,Protection of Adj. Property,1
+703,Charlestown,2020.0,Testing & Certification,1
+704,Charlestown,2020.0,Unsafe Structure,1
+705,Charlestown,2020.0,Unsafe and Dangerous,3
+706,Charlestown,2021.0,Failed to comply w permit term,1
+707,Charlestown,2021.0,Failure to Obtain Permit,4
+708,Charlestown,2021.0,Means of Egress,1
+709,Charlestown,2021.0,Protection of Adj. Property,4
+710,Charlestown,2021.0,Testing & Certification,2
+711,Charlestown,2021.0,Unsafe and Dangerous,3
+712,Charlestown,2022.0,Failed to comply w permit term,1
+713,Charlestown,2022.0,Failure to Obtain Permit,3
+714,Charlestown,2022.0,Inspections,1
+715,Charlestown,2022.0,Maintenance,11
+716,Charlestown,2022.0,Means of Egress,1
+717,Charlestown,2022.0,Protection of Adj. Property,1
+718,Charlestown,2022.0,Unsafe Structures,2
+719,Charlestown,2023.0,Failure to Obtain Permit,1
+720,Charlestown,2023.0,Maintenance,2
+721,Charlestown,2023.0,Unsafe Structures,1
+722,Charlestown,2024.0,Exit Passageways,2
+723,Charlestown,2024.0,Failure to Obtain Permit,4
+724,Charlestown,2024.0,Location of Exhaust Outlets,1
+725,Charlestown,2024.0,Maintenance,2
+726,Charlestown,2024.0,Right of Entry,1
+727,Charlestown,2024.0,Underpinning,1
+728,Charlestown,2024.0,Unsafe Structures,1
+729,Charlestown,2024.0,Unsafe and Dangerous,1
+730,Chestnut Hill,2010.0,Inspections,1
+731,Chestnut Hill,2012.0,Maintenance,1
+732,Chestnut Hill,2013.0,Failure to Obtain Permit,1
+733,Chestnut Hill,2014.0,Certificate of Occupancy,1
+734,Chestnut Hill,2014.0,Failure to Obtain Permit,1
+735,Chestnut Hill,2014.0,Protection of Adj. Property,1
+736,Chestnut Hill,2014.0,Unsafe and Dangerous,2
+737,Chestnut Hill,2015.0,Protection of Adj. Property,2
+738,Chestnut Hill,2015.0,Unsafe and Dangerous,1
+739,Chestnut Hill,2017.0,Protection of Adj. Property,1
+740,Chinatown,2010.0,Application for Permit,5
+741,Chinatown,2010.0,"Boxes, Where Required",1
+742,Chinatown,2010.0,Buildings hereafter altered,1
+743,Chinatown,2010.0,Certificate of Occupancy,3
+744,Chinatown,2010.0,Covers & Canopies,2
+745,Chinatown,2010.0,Deteriorating Agents,1
+746,Chinatown,2010.0,Failed to comply w PRMT terms,1
+747,Chinatown,2010.0,Hand Rails,1
+748,Chinatown,2010.0,Inspections,2
+749,Chinatown,2010.0,Maintenance,2
+750,Chinatown,2010.0,Securing and Supporting,1
+751,Chinatown,2010.0,Unsafe Maintenance,1
+752,Chinatown,2010.0,Unsafe Structure,2
+753,Chinatown,2010.0,Unsafe and Dangerous,1
+754,Chinatown,2010.0,Uses not permitted,1
+755,Chinatown,2011.0,Application for Permit,1
+756,Chinatown,2011.0,Certificate of Occupancy,1
+757,Chinatown,2011.0,Inspections,1
+758,Chinatown,2011.0,Temporary Occupancy,1
+759,Chinatown,2011.0,Unsafe and Dangerous,2
+760,Chinatown,2012.0,Construction Safeguards,1
+761,Chinatown,2012.0,Dead Load,1
+762,Chinatown,2012.0,Failure to Obtain Permit,2
+763,Chinatown,2012.0,Maintenance,3
+764,Chinatown,2012.0,Maintenance/Fire Protection,2
+765,Chinatown,2012.0,Maximum Height from Floor,1
+766,Chinatown,2012.0,Periodic Inspections,6
+767,Chinatown,2012.0,Permits,1
+768,Chinatown,2012.0,Portable Fire Extinguishers,1
+769,Chinatown,2012.0,Proper Maintenance,1
+770,Chinatown,2012.0,Unsafe Structures,1
+771,Chinatown,2012.0,Unsafe and Dangerous,2
+772,Chinatown,2013.0,Access to Public Way,6
+773,Chinatown,2013.0,Acoustical Ceiling Systems,1
+774,Chinatown,2013.0,Certificate of Occupancy,1
+775,Chinatown,2013.0,Emergency Escape,1
+776,Chinatown,2013.0,Exit Signs,1
+777,Chinatown,2013.0,Exits Maintained,1
+778,Chinatown,2013.0,Failure to Obtain Permit,5
+779,Chinatown,2013.0,Fire Protection Systems,2
+780,Chinatown,2013.0,Floor Surface,1
+781,Chinatown,2013.0,Guarding of Live parts,1
+782,Chinatown,2013.0,Handrails,1
+783,Chinatown,2013.0,Illumination,1
+784,Chinatown,2013.0,Inspections,1
+785,Chinatown,2013.0,Means of Egress,3
+786,Chinatown,2013.0,Mechanical Execution of Work,1
+787,Chinatown,2013.0,Openings to be closed,1
+788,Chinatown,2013.0,Periodic Inspections,3
+789,Chinatown,2013.0,Portable Fire Extinguishers,1
+790,Chinatown,2013.0,Portable fire extinguishers,1
+791,Chinatown,2013.0,Proper Maintenance,1
+792,Chinatown,2013.0,Referenced Codes,1
+793,Chinatown,2013.0,Securing and supporting,1
+794,Chinatown,2013.0,Specialized codes,1
+795,Chinatown,2013.0,Testing & Certification,3
+796,Chinatown,2013.0,Unsafe and Dangerous,9
+797,Chinatown,2013.0,Uses not permitted,1
+798,Chinatown,2013.0,Validity of Permit,1
+799,Chinatown,2014.0,Certificate of Occupancy,5
+800,Chinatown,2014.0,Exits,1
+801,Chinatown,2014.0,Failure to Obtain Permit,3
+802,Chinatown,2014.0,Fire Resistance; Rated Walls,1
+803,Chinatown,2014.0,Illumination,1
+804,Chinatown,2014.0,Periodic Inspections,2
+805,Chinatown,2014.0,Protection of Adj. Property,1
+806,Chinatown,2014.0,Right of Entry,2
+807,Chinatown,2014.0,Unsafe and Dangerous,4
+808,Chinatown,2015.0,Application for Permit,3
+809,Chinatown,2015.0,Certificate of Occupancy,2
+810,Chinatown,2015.0,Deteriorating Agents,2
+811,Chinatown,2015.0,Electrical Connections,1
+812,Chinatown,2015.0,Exit Access,3
+813,Chinatown,2015.0,Failure to Obtain Permit,6
+814,Chinatown,2015.0,Fire Protection Systems,1
+815,Chinatown,2015.0,Fire Resistance; Rated Walls,2
+816,Chinatown,2015.0,Guarding of Live parts,1
+817,Chinatown,2015.0,Illumination,1
+818,Chinatown,2015.0,Means of Egress Illumination,2
+819,Chinatown,2015.0,Mechanical Execution of Work,1
+820,Chinatown,2015.0,Periodic Inspections,6
+821,Chinatown,2015.0,Portable fire extinguishers,1
+822,Chinatown,2015.0,Revocation of Cert. of Occ.,2
+823,Chinatown,2015.0,Revocation of Certificate,2
+824,Chinatown,2015.0,Seperation Walls,2
+825,Chinatown,2015.0,Testing an Identification,1
+826,Chinatown,2015.0,Unsafe and Dangerous,6
+827,Chinatown,2015.0,Unsafe bldg&equip.,1
+828,Chinatown,2015.0,Uses not permitted,2
+829,Chinatown,2016.0,Automatic Smoke Detection,1
+830,Chinatown,2016.0,Decorative Material,1
+831,Chinatown,2016.0,Emergency Exit,1
+832,Chinatown,2016.0,Failure to Obtain Permit,5
+833,Chinatown,2016.0,Fire Protection Systems,1
+834,Chinatown,2016.0,Periodic Inspections,1
+835,Chinatown,2016.0,Testing & Certification,2
+836,Chinatown,2016.0,Unsafe and Dangerous,2
+837,Chinatown,2017.0,Failure to Obtain Permit,5
+838,Chinatown,2017.0,Maintenance-Sprinkler,1
+839,Chinatown,2017.0,Means of Egress,1
+840,Chinatown,2017.0,Periodic Inspections,1
+841,Chinatown,2017.0,Tactile Exit Signs,1
+842,Chinatown,2017.0,Testing & Certification,1
+843,Chinatown,2017.0,Unsafe and Dangerous,1
+844,Chinatown,2018.0,Certificate of Inspection,1
+845,Chinatown,2018.0,Certificate of Occupancy,1
+846,Chinatown,2018.0,Egress Doors,1
+847,Chinatown,2018.0,Failure to Obtain Permit,4
+848,Chinatown,2018.0,Periodic Inspections,1
+849,Chinatown,2018.0,Unsafe and Dangerous,1
+850,Chinatown,2018.0,Validity of Permit,1
+851,Chinatown,2019.0,Certificate of Occupancy,2
+852,Chinatown,2019.0,Failure to Obtain Permit,3
+853,Chinatown,2019.0,Fire Protection Systems,1
+854,Chinatown,2019.0,Locks and Latches,1
+855,Chinatown,2019.0,Maintenance,5
+856,Chinatown,2019.0,Testing & Certification,1
+857,Chinatown,2019.0,Unsafe and Dangerous,2
+858,Chinatown,2020.0,Certificate of Occupancy,1
+859,Chinatown,2020.0,Fire Protection Systems,1
+860,Chinatown,2020.0,Maintenance,1
+861,Chinatown,2021.0,Fire Protection Systems,1
+862,Chinatown,2021.0,Maintenance,1
+863,Chinatown,2022.0,Maintenance,2
+864,Chinatown,2022.0,Testing & Certification,11
+865,Chinatown,2023.0,Certificate of Occupancy,1
+866,Chinatown,2023.0,Maintenance,3
+867,Chinatown,2023.0,Testing & Certification,3
+868,Chinatown,2023.0,Unsafe Structures,2
+869,Chinatown,2024.0,Certificate of Occupancy,2
+870,Chinatown,2024.0,Failure to Obtain Permit,3
+871,Chinatown,2024.0,Maintenance of Means of Egress,2
+872,Chinatown,2024.0,No use of premises permit:,1
+873,Chinatown,2024.0,Periodic Inspections,1
+874,Chinatown,2024.0,Protection of Adj. Property,2
+875,Chinatown,2024.0,Right of Entry,2
+876,Chinatown,2024.0,Testing & Certification,5
+877,Chinatown,2024.0,Unsafe Structures,1
+878,Chinatown,2024.0,Validity of Permit,1
+880,Dorchester,2010.0,Application for Permit,1
+881,Dorchester,2010.0,Application for permit,1
+882,Dorchester,2010.0,Building Illegally Occupied,1
+883,Dorchester,2010.0,Building or Use of Premise req,18
+884,Dorchester,2010.0,Buildings hereafter altered,2
+885,Dorchester,2010.0,Certificate of Inspection,2
+886,Dorchester,2010.0,Certificate of Occupancy,1
+887,Dorchester,2010.0,Compliance with Permit,3
+888,Dorchester,2010.0,Deteriorating Agents,2
+889,Dorchester,2010.0,Egress,1
+890,Dorchester,2010.0,Emergency Escape,1
+891,Dorchester,2010.0,Expiration of permit,1
+892,Dorchester,2010.0,Failed to comply w PRMT terms,4
+893,Dorchester,2010.0,Failure to Comply w Bldg Code,1
+894,Dorchester,2010.0,Failure to Comply w. Code,1
+895,Dorchester,2010.0,Failure to secure permit,20
+896,Dorchester,2010.0,Final Inspection,1
+897,Dorchester,2010.0,Fire Escape Affidavit,3
+898,Dorchester,2010.0,Guarding of Live Ports,1
+899,Dorchester,2010.0,Hand Rails,1
+900,Dorchester,2010.0,Hazardous Means of Egress,1
+901,Dorchester,2010.0,Inspections,91
+902,Dorchester,2010.0,Landings Required,1
+903,Dorchester,2010.0,Maintenance,8
+904,Dorchester,2010.0,Maintenance of Exterior,1
+905,Dorchester,2010.0,Mechanical Execution of Work,7
+906,Dorchester,2010.0,Meter Tapping,2
+907,Dorchester,2010.0,Not Located in Bathrooms,1
+908,Dorchester,2010.0,Periodic Inspections,3
+909,Dorchester,2010.0,Permit Secured by Owner,1
+910,Dorchester,2010.0,Protection of Adj. Property,3
+911,Dorchester,2010.0,Rem Dangerous/Abandoned Struct,1
+912,Dorchester,2010.0,Remove/Making Safe Structure,1
+913,Dorchester,2010.0,Right of Entry,8
+914,Dorchester,2010.0,Services During Construction,1
+915,Dorchester,2010.0,Smoke Detectors,2
+916,Dorchester,2010.0,Spaces about Elect. Equip.,1
+917,Dorchester,2010.0,Testing & Certification,3
+918,Dorchester,2010.0,Unsafe & Dangerous,5
+919,Dorchester,2010.0,Unsafe Maintanence,1
+920,Dorchester,2010.0,Unsafe Maintenance,41
+921,Dorchester,2010.0,Unsafe Structure,12
+922,Dorchester,2010.0,Unsafe Structures,6
+923,Dorchester,2010.0,Unsafe and Dangerous,45
+924,Dorchester,2010.0,Workmanship,2
+925,Dorchester,2011.0,Application for Permit,2
+926,Dorchester,2011.0,Attachment,1
+927,Dorchester,2011.0,Building or Use of Premise req,9
+928,Dorchester,2011.0,Carbon Monoxide Protection,2
+929,Dorchester,2011.0,Certificate of Inspection,2
+930,Dorchester,2011.0,Certificate of Occupancy,1
+931,Dorchester,2011.0,Common area branch circuits,2
+932,Dorchester,2011.0,Dwelling unit branch circuits.,2
+933,Dorchester,2011.0,Egress,1
+934,Dorchester,2011.0,Electrical Work w/out Permit,2
+935,Dorchester,2011.0,Electrical Work w/out a Permit,2
+936,Dorchester,2011.0,Excessive Use of Ext. Cords,1
+937,Dorchester,2011.0,Failed to comply w PRMT terms,2
+938,Dorchester,2011.0,Failure to Obtain Permit,52
+939,Dorchester,2011.0,Failure to remove or make,1
+940,Dorchester,2011.0,Failure to secure permit,16
+941,Dorchester,2011.0,Fire Escape Affidavit,1
+942,Dorchester,2011.0,Grounding electrode conduction,1
+943,Dorchester,2011.0,Illegally occupied prior to CO,1
+944,Dorchester,2011.0,Inspections,9
+945,Dorchester,2011.0,Maintenance,39
+946,Dorchester,2011.0,Mass State Plumbing Code,2
+947,Dorchester,2011.0,Means of Egress Illumination,1
+948,Dorchester,2011.0,Mechanical Execution of Work,2
+949,Dorchester,2011.0,Pedestrian Protection,1
+950,Dorchester,2011.0,Permits to perform gas fitting,1
+951,Dorchester,2011.0,Protection of Adj. Property,2
+952,Dorchester,2011.0,Right of Entry,7
+953,Dorchester,2011.0,Smoke Detectors,3
+954,Dorchester,2011.0,Unsafe & Dangerous,11
+955,Dorchester,2011.0,Unsafe Maintenance,6
+956,Dorchester,2011.0,Unsafe Structure,2
+957,Dorchester,2011.0,Unsafe Structures,15
+958,Dorchester,2011.0,Unsafe and Dangerous,55
+959,Dorchester,2011.0,Uses not permitted,1
+960,Dorchester,2011.0,Wiring Methods,1
+961,Dorchester,2012.0,Bathrooms,1
+962,Dorchester,2012.0,Bolt Locks,1
+963,Dorchester,2012.0,Building or Use of Premise req,8
+964,Dorchester,2012.0,Certificate of Inspection,1
+965,Dorchester,2012.0,Electrical Connections,1
+966,Dorchester,2012.0,Failed to comply w permit term,5
+967,Dorchester,2012.0,Failure to Comply w. Code,1
+968,Dorchester,2012.0,Failure to Obtain Permit,85
+969,Dorchester,2012.0,Failure to Secure Permit,30
+970,Dorchester,2012.0,Failure to secure permit,6
+971,Dorchester,2012.0,Fire Alarm and Detection,2
+972,Dorchester,2012.0,Inspections,1
+973,Dorchester,2012.0,Maintenance,21
+974,Dorchester,2012.0,Maintenance of Facilities,2
+975,Dorchester,2012.0,Mass State Plumbing Code,1
+976,Dorchester,2012.0,Mass. State Electrical Code,1
+977,Dorchester,2012.0,Means of Attachment,1
+978,Dorchester,2012.0,Mechanical Execution of Work,3
+979,Dorchester,2012.0,Mounting & Cooling Equipment,1
+980,Dorchester,2012.0,Periodic Inspections,4
+981,Dorchester,2012.0,Permits,2
+982,Dorchester,2012.0,Required Inspections,1
+983,Dorchester,2012.0,Right of Entry,21
+984,Dorchester,2012.0,Size and Rating,1
+985,Dorchester,2012.0,Testing & Certification,1
+986,Dorchester,2012.0,Unsafe & Dangerous,1
+987,Dorchester,2012.0,Unsafe Building & Structures,1
+988,Dorchester,2012.0,Unsafe Structure,3
+989,Dorchester,2012.0,Unsafe Structures,12
+990,Dorchester,2012.0,Unsafe and Dangerous,99
+991,Dorchester,2012.0,Unused Openings,1
+992,Dorchester,2012.0,Unused openings,1
+993,Dorchester,2012.0,Uses not permitted,2
+994,Dorchester,2012.0,Wiring Intensity,1
+995,Dorchester,2013.0,Abutting a public street,1
+996,Dorchester,2013.0,Accessible Means of Egress,1
+997,Dorchester,2013.0,Building or Use of Premise req,5
+998,Dorchester,2013.0,City Zoning Code,1
+999,Dorchester,2013.0,Compliance with Permit,1
+1000,Dorchester,2013.0,Deteriorating Agents,2
+1001,Dorchester,2013.0,Electrical Connections,1
+1002,Dorchester,2013.0,Electrical equipment integrity,1
+1003,Dorchester,2013.0,Exits Maintained,1
+1004,Dorchester,2013.0,Exposed work,1
+1005,Dorchester,2013.0,Failed to comply w permit term,5
+1006,Dorchester,2013.0,Failure to Obtain Permit,65
+1007,Dorchester,2013.0,Failure to Secure Permit,22
+1008,Dorchester,2013.0,Failure to secure permit,1
+1009,Dorchester,2013.0,Fire Separation Assemblies,1
+1010,Dorchester,2013.0,Flex cords/cables not permited,1
+1011,Dorchester,2013.0,Guarding of Live parts,1
+1012,Dorchester,2013.0,"Hours operation, nonconforming",1
+1013,Dorchester,2013.0,Inspections,2
+1014,Dorchester,2013.0,Means of Egress,1
+1015,Dorchester,2013.0,Meter Tapping,2
+1016,Dorchester,2013.0,Minimum Requirements,1
+1017,Dorchester,2013.0,Municipal Bylaws or Ordinances,2
+1018,Dorchester,2013.0,Occupancy,1
+1019,Dorchester,2013.0,Periodic Inspections,2
+1020,Dorchester,2013.0,Permits,1
+1021,Dorchester,2013.0,Protection of Adj. Property,2
+1022,Dorchester,2013.0,Revocation of Certificate,1
+1023,Dorchester,2013.0,Right of Entry,31
+1024,Dorchester,2013.0,Smoke alarm locations,1
+1025,Dorchester,2013.0,Suspension or Revocation,1
+1026,Dorchester,2013.0,Testing & Certification,2
+1027,Dorchester,2013.0,Unsafe & Dangerous,5
+1028,Dorchester,2013.0,Unsafe Structure,3
+1029,Dorchester,2013.0,Unsafe and Dangerous,118
+1030,Dorchester,2013.0,Uses Not Permitted,1
+1031,Dorchester,2013.0,Wiring Integrity,2
+1032,Dorchester,2014.0, Mass. State Plumbing Code,1
+1033,Dorchester,2014.0,Abutting a public street,1
+1034,Dorchester,2014.0,Building or Use of Premise req,9
+1035,Dorchester,2014.0,Certificate of Occupancy,4
+1036,Dorchester,2014.0,Corridor Obstruction,1
+1037,Dorchester,2014.0,Egress Maintenance,1
+1038,Dorchester,2014.0,Elec. Equip. & Connections,2
+1039,Dorchester,2014.0,Electrical Work w/out a Permit,1
+1040,Dorchester,2014.0,Expiration,2
+1041,Dorchester,2014.0,Failed to comply w permit term,9
+1042,Dorchester,2014.0,Failure to Obtain Permit,106
+1043,Dorchester,2014.0,Failure to Secure Permit,8
+1044,Dorchester,2014.0,Fire  & Smoke Alarm Systems,1
+1045,Dorchester,2014.0,Guarding of Live parts,2
+1046,Dorchester,2014.0,Hazard Materials,1
+1047,Dorchester,2014.0,Integrity of elec. equipment,1
+1048,Dorchester,2014.0,Maintenance,10
+1049,Dorchester,2014.0,Mass State Plumbing Code,4
+1050,Dorchester,2014.0,Means of Egress,2
+1051,Dorchester,2014.0,Mechanical Execution of Work,3
+1052,Dorchester,2014.0,Minimum Number of Exits,1
+1053,Dorchester,2014.0,Modification fire protection,1
+1054,Dorchester,2014.0,Mounting & Cooling Equipment,2
+1055,Dorchester,2014.0,Municipal Bylaws or Ordinances,1
+1056,Dorchester,2014.0,Number of Exits or Exit Access,2
+1057,Dorchester,2014.0,Openings to be closed.,1
+1058,Dorchester,2014.0,Other Laws,1
+1059,Dorchester,2014.0,Periodic Inspections,5
+1060,Dorchester,2014.0,Permits,3
+1061,Dorchester,2014.0,Permits to perform gas fitting,1
+1062,Dorchester,2014.0,Property Maintenance,1
+1063,Dorchester,2014.0,Protection of Adj. Property,1
+1064,Dorchester,2014.0,Ramps,1
+1065,Dorchester,2014.0,Referenced Codes & Standards,2
+1066,Dorchester,2014.0,Required Inspections,1
+1067,Dorchester,2014.0,Revocation of Cert. of Occ.,2
+1068,Dorchester,2014.0,Right of Entry,26
+1069,Dorchester,2014.0,Securing and Supporting,2
+1070,Dorchester,2014.0,Suspension or Revocation,2
+1071,Dorchester,2014.0,Testing & Certification,7
+1072,Dorchester,2014.0,Unlawful Acts,2
+1073,Dorchester,2014.0,Unlawful Continuance,2
+1074,Dorchester,2014.0,Unsafe & Dangerous,1
+1075,Dorchester,2014.0,Unsafe Structure,2
+1076,Dorchester,2014.0,Unsafe and Dangerous,109
+1077,Dorchester,2014.0,Uses not Permitted,1
+1078,Dorchester,2014.0,Uses not permitted,1
+1079,Dorchester,2014.0,Working Without a Permit,1
+1080,Dorchester,2015.0,Automatic Sprinkler System,1
+1081,Dorchester,2015.0,Building or Use of Premise req,8
+1082,Dorchester,2015.0,Certificate of Occupancy,4
+1083,Dorchester,2015.0,Covers & Canopies,1
+1084,Dorchester,2015.0,Egress Maintenance,1
+1085,Dorchester,2015.0,Elec. Equip. & Connections,1
+1086,Dorchester,2015.0,Electrical Work w/out Permit,1
+1087,Dorchester,2015.0,Emergency Escape,2
+1088,Dorchester,2015.0,Emergency Escape & Rescue,2
+1089,Dorchester,2015.0,Exit Passageways,1
+1090,Dorchester,2015.0,Failed to comply w permit term,14
+1091,Dorchester,2015.0,Failure to Obtain Permit,86
+1092,Dorchester,2015.0,Failure to Secure Permit,5
+1093,Dorchester,2015.0,Failure to remove or make,2
+1094,Dorchester,2015.0,Failure to secure permit,1
+1095,Dorchester,2015.0,Fire Protection Systems,1
+1096,Dorchester,2015.0,Foyer & Lobbies,1
+1097,Dorchester,2015.0,Guarding of Live parts,3
+1098,Dorchester,2015.0,Improper Electrical Repair,1
+1099,Dorchester,2015.0,Information on Documentation,1
+1100,Dorchester,2015.0,Inspections,2
+1101,Dorchester,2015.0,Locks and Latches,3
+1102,Dorchester,2015.0,Maintenance,25
+1103,Dorchester,2015.0,Mass. State Electrical Code,1
+1104,Dorchester,2015.0,Mechanical Execution of Work,1
+1105,Dorchester,2015.0,Municipal Bylaws or Ordinances,1
+1106,Dorchester,2015.0,No use of premises permit:,5
+1107,Dorchester,2015.0,Openings to be closed.,1
+1108,Dorchester,2015.0,Periodic Inspections,2
+1109,Dorchester,2015.0,Protection of Adj. Property,2
+1110,Dorchester,2015.0,Referenced Codes & Standards,1
+1111,Dorchester,2015.0,Requirements,1
+1112,Dorchester,2015.0,Right of Entry,20
+1113,Dorchester,2015.0,Securing and Supporting,1
+1114,Dorchester,2015.0,Smoke Alarms,1
+1115,Dorchester,2015.0,Smoke Detectors,1
+1116,Dorchester,2015.0,Testing & Certification,2
+1117,Dorchester,2015.0,Unlawful Acts,2
+1118,Dorchester,2015.0,Unsafe and Dangerous,131
+1119,Dorchester,2015.0,Use of Premises,1
+1120,Dorchester,2015.0,Uses not permitted,1
+1121,Dorchester,2015.0,Work Performed Over Time,1
+1122,Dorchester,2015.0,Workmanship,2
+1123,Dorchester,2016.0,Basic Principles,1
+1124,Dorchester,2016.0,Branch Circuit Extensions,1
+1125,Dorchester,2016.0,Certificate of Occupancy,3
+1126,Dorchester,2016.0,Construction Safeguards,2
+1127,Dorchester,2016.0,Covers & Canopies,1
+1128,Dorchester,2016.0,Design/construction of vent.,1
+1129,Dorchester,2016.0,Electrical Work w/out Permit,1
+1130,Dorchester,2016.0,Emergency Escape,1
+1131,Dorchester,2016.0,Exit Signs,1
+1132,Dorchester,2016.0,Exits,1
+1133,Dorchester,2016.0,Exits Maintained,1
+1134,Dorchester,2016.0,Failed to comply w permit term,5
+1135,Dorchester,2016.0,Failure to Obtain Permit,36
+1136,Dorchester,2016.0,Failure to Secure Permit,1
+1137,Dorchester,2016.0,Failure to secure permit,7
+1138,Dorchester,2016.0,Fire Protection Systems,2
+1139,Dorchester,2016.0,Fire and Smoke Protection,2
+1140,Dorchester,2016.0,Groundings,1
+1141,Dorchester,2016.0,Guarding of Live parts,1
+1142,Dorchester,2016.0,Interior Enviroment,1
+1143,Dorchester,2016.0,Locks and Latches,3
+1144,Dorchester,2016.0,Maintenance,20
+1145,Dorchester,2016.0,Means of Egress,3
+1146,Dorchester,2016.0,Mechanical Execution of Work,1
+1147,Dorchester,2016.0,Metal Chimeys,1
+1148,Dorchester,2016.0,No use of premises permit:,4
+1149,Dorchester,2016.0,Openings,1
+1150,Dorchester,2016.0,Protection of Adj. Property,2
+1151,Dorchester,2016.0,Protection of conductors,1
+1152,Dorchester,2016.0,Right of Entry,6
+1153,Dorchester,2016.0,Securing & Supporting,1
+1154,Dorchester,2016.0,Stop Work Order,2
+1155,Dorchester,2016.0,Supports,1
+1156,Dorchester,2016.0,Suspension or Revocation,1
+1157,Dorchester,2016.0,Testing & Certification,1
+1158,Dorchester,2016.0,Unsafe Maintenance,4
+1159,Dorchester,2016.0,Unsafe Structure,1
+1160,Dorchester,2016.0,Unsafe and Dangerous,65
+1161,Dorchester,2017.0,Acts 1956 as Amended,1
+1162,Dorchester,2017.0,Building or Use of Premise req,5
+1163,Dorchester,2017.0,Certificate of Occupancy,4
+1164,Dorchester,2017.0,Construction Documents,1
+1165,Dorchester,2017.0,Door operations-Egress doors,1
+1166,Dorchester,2017.0,Elec work w/o per,1
+1167,Dorchester,2017.0,Failed to comply w permit term,5
+1168,Dorchester,2017.0,Failure to Obtain Permit,45
+1169,Dorchester,2017.0,Failure to call for req Insp.,1
+1170,Dorchester,2017.0,Failure to secure permit,3
+1171,Dorchester,2017.0,Locks and Latches,8
+1172,Dorchester,2017.0,Maintenance,11
+1173,Dorchester,2017.0,National Fuel Gas Code,1
+1174,Dorchester,2017.0,No use of premises permit:,2
+1175,Dorchester,2017.0,Periodic Inspections,1
+1176,Dorchester,2017.0,Protection of Adj. Property,1
+1177,Dorchester,2017.0,Right of Entry,4
+1178,Dorchester,2017.0,Smoke Alarms,1
+1179,Dorchester,2017.0,Unsafe Structure,1
+1180,Dorchester,2017.0,Unsafe and Dangerous,78
+1181,Dorchester,2017.0,Uses not Permitted,1
+1182,Dorchester,2017.0,Validity of Permit,1
+1183,Dorchester,2018.0,Acts 1956 as Amended,1
+1184,Dorchester,2018.0,Building or Use of Premise req,4
+1185,Dorchester,2018.0,Certificate of Occupancy,5
+1186,Dorchester,2018.0,Deteriorating Agents,1
+1187,Dorchester,2018.0,Emergency escape and rescue,1
+1188,Dorchester,2018.0,Failed to comply w permit term,2
+1189,Dorchester,2018.0,Failure to Obtain Permit,55
+1190,Dorchester,2018.0,Failure to Secure Permit,1
+1191,Dorchester,2018.0,Failure to secure permit,4
+1192,Dorchester,2018.0,Guarding of Live parts,1
+1193,Dorchester,2018.0,Inspections,1
+1194,Dorchester,2018.0,Maintenance,19
+1195,Dorchester,2018.0,Maintenance of Means of Egress,2
+1196,Dorchester,2018.0,National Fuel Gas Code,2
+1197,Dorchester,2018.0,Periodic Inspections,1
+1198,Dorchester,2018.0,Protection of Adj. Property,2
+1199,Dorchester,2018.0,Right of Entry,6
+1200,Dorchester,2018.0,Specialized codes,1
+1201,Dorchester,2018.0,Unsafe and Dangerous,36
+1202,Dorchester,2019.0,Acts 1956 as Amended,1
+1203,Dorchester,2019.0,Building or Use of Premise req,3
+1204,Dorchester,2019.0,Certificate of Occupancy,4
+1205,Dorchester,2019.0,Elec work w/o per,1
+1206,Dorchester,2019.0,Electrical Work w/out a Permit,1
+1207,Dorchester,2019.0,Emergency Escape & Rescue,2
+1208,Dorchester,2019.0,Emergency escape and rescue,1
+1209,Dorchester,2019.0,Failed to comply w permit term,14
+1210,Dorchester,2019.0,Failure to Obtain Permit,65
+1211,Dorchester,2019.0,Failure to secure permit,5
+1212,Dorchester,2019.0,Fire Protection Systems,1
+1213,Dorchester,2019.0,Maintenance,12
+1214,Dorchester,2019.0,Maintenance of Means of Egress,2
+1215,Dorchester,2019.0,Mechanical Execution of Work,1
+1216,Dorchester,2019.0,No use of premises permit:,1
+1217,Dorchester,2019.0,Periodic Inspections,1
+1218,Dorchester,2019.0,Placement of Backfill,1
+1219,Dorchester,2019.0,Protection of Adj. Property,1
+1220,Dorchester,2019.0,Right of Entry,2
+1221,Dorchester,2019.0,Unsafe and Dangerous,47
+1222,Dorchester,2019.0,Uses not Permitted,1
+1223,Dorchester,2020.0,Adjacent to Excavations,1
+1224,Dorchester,2020.0,Building or Use of Premise req,2
+1225,Dorchester,2020.0,Certificate of Occupancy,2
+1226,Dorchester,2020.0,Expiration,1
+1227,Dorchester,2020.0,Failed to comply w permit term,9
+1228,Dorchester,2020.0,Failure to Obtain Permit,66
+1229,Dorchester,2020.0,Fire Protection Systems,1
+1230,Dorchester,2020.0,Inspections,2
+1231,Dorchester,2020.0,Locks and Latches,1
+1232,Dorchester,2020.0,Maintenance,15
+1233,Dorchester,2020.0,Maintenance of Means of Egress,1
+1234,Dorchester,2020.0,Masonry Parapets,1
+1235,Dorchester,2020.0,Protection of Adj. Property,3
+1236,Dorchester,2020.0,Right of Entry,1
+1237,Dorchester,2020.0,Suspension or Revocation,2
+1238,Dorchester,2020.0,Unsafe and Dangerous,29
+1239,Dorchester,2021.0,Building or Use of Premise req,3
+1240,Dorchester,2021.0,Emergency Disconnects,1
+1241,Dorchester,2021.0,Failed to comply w permit term,9
+1242,Dorchester,2021.0,Failure to Obtain Permit,74
+1243,Dorchester,2021.0,Fire Protection Systems,3
+1244,Dorchester,2021.0,Inspections,1
+1245,Dorchester,2021.0,Maintenance,22
+1246,Dorchester,2021.0,Maintenance of Means of Egress,1
+1247,Dorchester,2021.0,No use of premises permit:,2
+1248,Dorchester,2021.0,Protection of Adj. Property,5
+1249,Dorchester,2021.0,Required Inspections,1
+1250,Dorchester,2021.0,Requirements,1
+1251,Dorchester,2021.0,Right of Entry,1
+1252,Dorchester,2021.0,Suspension or Revocation,1
+1253,Dorchester,2021.0,Testing & Certification,5
+1254,Dorchester,2021.0,Unsafe Structures,16
+1255,Dorchester,2021.0,Unsafe and Dangerous,37
+1256,Dorchester,2022.0,Access to Public Way,2
+1257,Dorchester,2022.0,Building or Use of Premise req,4
+1258,Dorchester,2022.0,Emergency Escape & Rescue,1
+1259,Dorchester,2022.0,Failed to comply w permit term,8
+1260,Dorchester,2022.0,Failure to Obtain Permit,58
+1261,Dorchester,2022.0,Group I-1,1
+1262,Dorchester,2022.0,Inspections,1
+1263,Dorchester,2022.0,Locks and Latches,2
+1264,Dorchester,2022.0,Maintenance,21
+1265,Dorchester,2022.0,No use of premises permit:,1
+1266,Dorchester,2022.0,Periodic Inspections,1
+1267,Dorchester,2022.0,Protection of Adj. Property,2
+1268,Dorchester,2022.0,Requirements,1
+1269,Dorchester,2022.0,Right of Entry,3
+1270,Dorchester,2022.0,Testing & Certification,4
+1271,Dorchester,2022.0,Unlawful Continuance,3
+1272,Dorchester,2022.0,Unsafe Building & Structures,1
+1273,Dorchester,2022.0,Unsafe Structures,39
+1274,Dorchester,2022.0,Unsafe and Dangerous,4
+1275,Dorchester,2023.0,Building or Use of Premise req,3
+1276,Dorchester,2023.0,Certificate of Occupancy,1
+1277,Dorchester,2023.0,Elec work w/o per,1
+1278,Dorchester,2023.0,Exit Enclosures,1
+1279,Dorchester,2023.0,Failed to comply w permit term,3
+1280,Dorchester,2023.0,Failure to Obtain Permit,37
+1281,Dorchester,2023.0,Fire Alarm and Detection,1
+1282,Dorchester,2023.0,Inspection of Chimneys,1
+1283,Dorchester,2023.0,Inspections,1
+1284,Dorchester,2023.0,Locks and Latches,1
+1285,Dorchester,2023.0,Maintenance,24
+1286,Dorchester,2023.0,No use of premises permit:,2
+1287,Dorchester,2023.0,Periodic Inspections,1
+1288,Dorchester,2023.0,Protection of Adj. Property,2
+1289,Dorchester,2023.0,Requirements,1
+1290,Dorchester,2023.0,Right of Entry,4
+1291,Dorchester,2023.0,Smoke Decetors,1
+1292,Dorchester,2023.0,Unsafe Structures,37
+1293,Dorchester,2023.0,Unsafe and Dangerous,3
+1294,Dorchester,2024.0,Accessory keeping of hens,1
+1295,Dorchester,2024.0,Building or Use of Premise req,2
+1296,Dorchester,2024.0,Certificate of Occupancy,1
+1297,Dorchester,2024.0,Electrical Work w/out a Permit,1
+1298,Dorchester,2024.0,Failed to comply w permit term,4
+1299,Dorchester,2024.0,Failure to Obtain Permit,60
+1300,Dorchester,2024.0,Failure to comply w permits,1
+1301,Dorchester,2024.0,Inspection of Chimneys,1
+1302,Dorchester,2024.0,Inspections,2
+1303,Dorchester,2024.0,Maintenance,42
+1304,Dorchester,2024.0,Means of Egress,1
+1305,Dorchester,2024.0,No use of premises permit:,1
+1306,Dorchester,2024.0,Periodic Inspections,3
+1307,Dorchester,2024.0,Permits,2
+1308,Dorchester,2024.0,Right of Entry,6
+1309,Dorchester,2024.0,Testing & Certification,5
+1310,Dorchester,2024.0,Unsafe Structures,35
+1311,Dorchester,2024.0,Unsafe and Dangerous,2
+1312,Downtown,2010.0,Illegally occupied prior to CO,1
+1313,Downtown,2010.0,Inspections,8
+1314,Downtown,2010.0,Maintenance,5
+1315,Downtown,2010.0,Mass State Plumbing Code,1
+1316,Downtown,2010.0,Permits to perform gas fitting,1
+1317,Downtown,2010.0,Revocation of Certificate,1
+1318,Downtown,2010.0,Right of Entry,5
+1319,Downtown,2010.0,Specialized codes,1
+1320,Downtown,2010.0,Unsafe Maintenance,4
+1321,Downtown,2010.0,Unsafe Structure,4
+1322,Downtown,2010.0,Unsafe and Dangerous,3
+1323,Downtown,2011.0,Application for Permit,1
+1324,Downtown,2011.0,Failure to Obtain Permit,3
+1325,Downtown,2011.0,Illegal Temporary Wiring,2
+1326,Downtown,2011.0,Inspections,3
+1327,Downtown,2011.0,Maintenance,3
+1328,Downtown,2011.0,Mechanical,1
+1329,Downtown,2011.0,Permits,1
+1330,Downtown,2011.0,Unsafe & Dangerous,1
+1331,Downtown,2011.0,Unsafe Mechanical Equipment,1
+1332,Downtown,2011.0,Unsafe Structure,2
+1333,Downtown,2011.0,Unsafe Structures,4
+1334,Downtown,2011.0,Unsafe and Dangerous,4
+1335,Downtown,2012.0,Building or Use of Premise req,1
+1336,Downtown,2012.0,Certificate of Occupancy,5
+1337,Downtown,2012.0,Effect of Non-Conforming Use,1
+1338,Downtown,2012.0,Egress Maintenance,1
+1339,Downtown,2012.0,Failure to Obtain Permit,6
+1340,Downtown,2012.0,Fire Alarm Ent. Response,1
+1341,Downtown,2012.0,Fire Protection Systems,1
+1342,Downtown,2012.0,Handrails,2
+1343,Downtown,2012.0,Inspections,2
+1344,Downtown,2012.0,Maintenance,1
+1345,Downtown,2012.0,Means of Egress,2
+1346,Downtown,2012.0,Means of Egress; Headroom,1
+1347,Downtown,2012.0,Other Laws,1
+1348,Downtown,2012.0,Overcurrent Devices,1
+1349,Downtown,2012.0,Periodic Inspections,4
+1350,Downtown,2012.0,Permits,2
+1351,Downtown,2012.0,Protection of Pedestrians,1
+1352,Downtown,2012.0,Testing & Certification,1
+1353,Downtown,2012.0,Unlawful Acts,1
+1354,Downtown,2012.0,Unsafe Structures,2
+1355,Downtown,2012.0,Unsafe and Dangerous,11
+1356,Downtown,2012.0,Working Space,1
+1357,Downtown,2013.0,Building or Use of Premise req,1
+1358,Downtown,2013.0,Certificate of Inspection,1
+1359,Downtown,2013.0,Certificate of Occupancy,2
+1360,Downtown,2013.0,Egress Maintenance,1
+1361,Downtown,2013.0,Failed to comply w permit term,1
+1362,Downtown,2013.0,Failure to Obtain Permit,4
+1363,Downtown,2013.0,Failure to Secure Permit,1
+1364,Downtown,2013.0,Failure to secure permit,1
+1365,Downtown,2013.0,Fire Alarm Systems,1
+1366,Downtown,2013.0,Fire Protection Systems,1
+1367,Downtown,2013.0,Guarding of Live parts,1
+1368,Downtown,2013.0,Handrails/safety,1
+1369,Downtown,2013.0,Mechanical Execution of Work,1
+1370,Downtown,2013.0,Number of Exits or Exit Access,2
+1371,Downtown,2013.0,Openings to be closed.,1
+1372,Downtown,2013.0,Periodic Inspections,2
+1373,Downtown,2013.0,Referenced codes;Mechanical,1
+1374,Downtown,2013.0,Revocation of Certificate,1
+1375,Downtown,2013.0,Right of Entry,2
+1376,Downtown,2013.0,Securing and Supporting,1
+1377,Downtown,2013.0,Testing & Certification,10
+1378,Downtown,2013.0,Testing&Maintenance Sprinklers,1
+1379,Downtown,2013.0,Unsafe and Dangerous,12
+1380,Downtown,2014.0,Certificate of Inspection,1
+1381,Downtown,2014.0,Certificate of Occupancy,11
+1382,Downtown,2014.0,Failure to Obtain Permit,7
+1383,Downtown,2014.0,Fire Alarm and Detection,1
+1384,Downtown,2014.0,Inspections,1
+1385,Downtown,2014.0,Protection of Adj. Property,2
+1386,Downtown,2014.0,Required Inspections,1
+1387,Downtown,2014.0,Street Numbers,1
+1388,Downtown,2014.0,Testing & Certification,14
+1389,Downtown,2014.0,Unsafe and Dangerous,10
+1390,Downtown,2015.0,Certificate of Occupancy,1
+1391,Downtown,2015.0,Construction Safeguards,1
+1392,Downtown,2015.0,Deteriorating Agents,1
+1393,Downtown,2015.0,Failed to comply w permit term,2
+1394,Downtown,2015.0,Failure to Obtain Permit,11
+1395,Downtown,2015.0,Failure to Secure Permit,1
+1396,Downtown,2015.0,International Mechanical Code,1
+1397,Downtown,2015.0,Maintenance,8
+1398,Downtown,2015.0,Minimum Number of Exits,1
+1399,Downtown,2015.0,Periodic Inspections,4
+1400,Downtown,2015.0,Proper Maintenance,3
+1401,Downtown,2015.0,Protection of Adj. Property,1
+1402,Downtown,2015.0,Reg. of Construction Hour,1
+1403,Downtown,2015.0,Right of Entry,3
+1404,Downtown,2015.0,Specialized codes,1
+1405,Downtown,2015.0,Testing & Certification,5
+1406,Downtown,2015.0,Unsafe and Dangerous,16
+1407,Downtown,2016.0,Certificate of Occupancy,1
+1408,Downtown,2016.0,Failed to comply w permit term,1
+1409,Downtown,2016.0,Failure to Obtain Permit,9
+1410,Downtown,2016.0,Maintenance,4
+1411,Downtown,2016.0,Manner of Removal,1
+1412,Downtown,2016.0,Natural Ventilation,1
+1413,Downtown,2016.0,Periodic Inspections,1
+1414,Downtown,2016.0,Property Maintenance,1
+1415,Downtown,2016.0,Right of Entry,1
+1416,Downtown,2016.0,Submittal Documents,1
+1417,Downtown,2016.0,Testing & Certification,3
+1418,Downtown,2016.0,Unsafe Structure,1
+1419,Downtown,2016.0,Unsafe and Dangerous,9
+1420,Downtown,2016.0,Ventilation,1
+1421,Downtown,2017.0,Exits Maintained,1
+1422,Downtown,2017.0,Failure to Obtain Permit,16
+1423,Downtown,2017.0,Fire Protection Systems,1
+1424,Downtown,2017.0,Maintenance,7
+1425,Downtown,2017.0,Means of Egress,2
+1426,Downtown,2017.0,Minimum Number of Exits,1
+1427,Downtown,2017.0,Proper Maintenance,1
+1428,Downtown,2017.0,Reg. Access to Roof Areas,1
+1429,Downtown,2017.0,Testing & Certification,10
+1430,Downtown,2017.0,Unsafe and Dangerous,12
+1431,Downtown,2018.0,Failed to comply w permit term,1
+1432,Downtown,2018.0,Failure to Obtain Permit,6
+1433,Downtown,2018.0,Fire Protection Systems,1
+1434,Downtown,2018.0,Maintenance,2
+1435,Downtown,2018.0,Means of Egress,1
+1436,Downtown,2018.0,Testing & Certification,2
+1437,Downtown,2018.0,Unsafe and Dangerous,5
+1438,Downtown,2019.0,Certificate of Inspection,1
+1439,Downtown,2019.0,Clothes Dryer Exhaust,1
+1440,Downtown,2019.0,Construction Safe Guards,1
+1441,Downtown,2019.0,Failed to comply w permit term,3
+1442,Downtown,2019.0,Failure to Obtain Permit,7
+1443,Downtown,2019.0,Fire Protection Systems,1
+1444,Downtown,2019.0,Foyer & Lobbies,1
+1445,Downtown,2019.0,Handrails,1
+1446,Downtown,2019.0,Installation; 2015,1
+1447,Downtown,2019.0,Maintenance,14
+1448,Downtown,2019.0,Municipal Bylaws or Ordinances,1
+1449,Downtown,2019.0,Parking Loading Zone,1
+1450,Downtown,2019.0,Periodic Inspections,1
+1451,Downtown,2019.0,Protection of Adj. Property,1
+1452,Downtown,2019.0,Storage and Placement-material,1
+1453,Downtown,2019.0,Suspension or Revocation,1
+1454,Downtown,2019.0,Testing & Certification,3
+1455,Downtown,2019.0,Unsafe and Dangerous,16
+1456,Downtown,2020.0,Basic Principles,1
+1457,Downtown,2020.0,Building or Use of Premise req,2
+1458,Downtown,2020.0,Egress thru Intervening Spaces,1
+1459,Downtown,2020.0,Failed to comply w permit term,1
+1460,Downtown,2020.0,Failure to Obtain Permit,7
+1461,Downtown,2020.0,Fire Protection Systems,1
+1462,Downtown,2020.0,Maintenance,10
+1463,Downtown,2020.0,Means of Egress,1
+1464,Downtown,2020.0,Testing & Certification,25
+1465,Downtown,2020.0,Unsafe and Dangerous,2
+1466,Downtown,2021.0,Certificate of Occupancy,1
+1467,Downtown,2021.0,Failure to Obtain Permit,6
+1468,Downtown,2021.0,Inspection of exterior walls.,3
+1469,Downtown,2021.0,Maintenance,17
+1470,Downtown,2021.0,Minimum Number of Exits,1
+1471,Downtown,2021.0,Proper Maintenance,1
+1472,Downtown,2021.0,Testing & Certification,14
+1473,Downtown,2021.0,Unsafe Structures,1
+1474,Downtown,2021.0,Unsafe and Dangerous,1
+1475,Downtown,2022.0,Failure to Obtain Permit,8
+1476,Downtown,2022.0,Maintenance,11
+1477,Downtown,2022.0,Minimum Number of Exits,1
+1478,Downtown,2022.0,Periodic Inspections,1
+1479,Downtown,2022.0,Testing & Certification,29
+1480,Downtown,2022.0,Unsafe Structures,1
+1481,Downtown,2023.0,Failure to Obtain Permit,6
+1482,Downtown,2023.0,Maintenance,5
+1483,Downtown,2023.0,Protection of Adj. Property,1
+1484,Downtown,2023.0,Testing & Certification,6
+1485,Downtown,2023.0,Unsafe Structures,3
+1486,Downtown,2023.0,Unsafe and Dangerous,1
+1487,Downtown,2024.0,Failed to comply w permit term,1
+1488,Downtown,2024.0,Failure to Obtain Permit,2
+1489,Downtown,2024.0,Fire Protection Systems,1
+1490,Downtown,2024.0,Maintenance,16
+1491,Downtown,2024.0,Minimum Number of Exits,1
+1492,Downtown,2024.0,Testing & Certification,12
+1493,Downtown,2024.0,Unsafe Structures,1
+1494,Downtown,2024.0,Unsafe and Dangerous,1
+1496,East Boston,2010.0,Building or Use of Premise req,3
+1497,East Boston,2010.0,Certificate of Inspection,3
+1498,East Boston,2010.0,Compliance with Permit,2
+1499,East Boston,2010.0,Egress,2
+1500,East Boston,2010.0,Failed to comply w PRMT terms,9
+1501,East Boston,2010.0,Failure to Comply w Bldg Code,2
+1502,East Boston,2010.0,Failure to call for req Insp.,2
+1503,East Boston,2010.0,Failure to secure permit,39
+1504,East Boston,2010.0,Hazrdous Means of Egress,1
+1505,East Boston,2010.0,Inspections,58
+1506,East Boston,2010.0,Maintenance,9
+1507,East Boston,2010.0,Means of Egress,3
+1508,East Boston,2010.0,Mechanical Execution of Work,1
+1509,East Boston,2010.0,Protection of Adj. Property,6
+1510,East Boston,2010.0,Right of Entry,16
+1511,East Boston,2010.0,Smoke Detectors,1
+1512,East Boston,2010.0,Spaces About Elect. Equip.,1
+1513,East Boston,2010.0,Stop Work Order,1
+1514,East Boston,2010.0,Unlawful Acts,2
+1515,East Boston,2010.0,Unsafe & Dangerous,1
+1516,East Boston,2010.0,Unsafe Maintenance,26
+1517,East Boston,2010.0,Unsafe Structure,7
+1518,East Boston,2010.0,Unsafe Structures,5
+1519,East Boston,2010.0,Unsafe and Dangerous,32
+1520,East Boston,2011.0,Building or Use of Premise req,1
+1521,East Boston,2011.0,Certificate of Occupancy,2
+1522,East Boston,2011.0,Deteriorating Agents,1
+1523,East Boston,2011.0,Egress,1
+1524,East Boston,2011.0,Egress thru Intervening Spaces,1
+1525,East Boston,2011.0,Failed to comply w PRMT terms,2
+1526,East Boston,2011.0,Failed to comply w permit term,3
+1527,East Boston,2011.0,Failure to Comply w Bldg Code,1
+1528,East Boston,2011.0,Failure to Obtain Permit,22
+1529,East Boston,2011.0,Failure to call for req Insp.,1
+1530,East Boston,2011.0,Failure to secure permit,2
+1531,East Boston,2011.0,False Statements,1
+1532,East Boston,2011.0,Fire Warning Systems,1
+1533,East Boston,2011.0,Illegally occupied prior to CO,2
+1534,East Boston,2011.0,Inspections,11
+1535,East Boston,2011.0,Maintenance,18
+1536,East Boston,2011.0,Means of Egress,4
+1537,East Boston,2011.0,On-Site Presence of Supervisor,1
+1538,East Boston,2011.0,Proper Maintenance,1
+1539,East Boston,2011.0,Protection of Adj. Property,3
+1540,East Boston,2011.0,Protection of Pedestrians,4
+1541,East Boston,2011.0,Right of Entry,10
+1542,East Boston,2011.0,Testing & Certification,11
+1543,East Boston,2011.0,Unsafe Maintenance,8
+1544,East Boston,2011.0,Unsafe Structure,4
+1545,East Boston,2011.0,Unsafe Structures,2
+1546,East Boston,2011.0,Unsafe and Dangerous,48
+1547,East Boston,2011.0,Use & Occupancy,1
+1548,East Boston,2011.0,Working Without a Permit,1
+1549,East Boston,2011.0,Workmanship,1
+1550,East Boston,2012.0,2 Means of Egress Required,1
+1551,East Boston,2012.0,Building or Use of Premise req,1
+1552,East Boston,2012.0,Certificate of Occupancy,2
+1553,East Boston,2012.0,Design,1
+1554,East Boston,2012.0,Exit Access,1
+1555,East Boston,2012.0,Failed to comply w permit term,6
+1556,East Boston,2012.0,Failure to Obtain Permit,57
+1557,East Boston,2012.0,Failure to Secure Permit,5
+1558,East Boston,2012.0,Failure to secure inspections,1
+1559,East Boston,2012.0,Failure to secure permit,2
+1560,East Boston,2012.0,Inspections,1
+1561,East Boston,2012.0,Maintenance,9
+1562,East Boston,2012.0,Manner of Removal,1
+1563,East Boston,2012.0,Means of Egress,2
+1564,East Boston,2012.0,Other Laws,2
+1565,East Boston,2012.0,Permits,1
+1566,East Boston,2012.0,Protection of Adj. Property,2
+1567,East Boston,2012.0,Protection of Pedestrians,4
+1568,East Boston,2012.0,Retaining Wall,1
+1569,East Boston,2012.0,Revocation of Cert. of Occ.,2
+1570,East Boston,2012.0,Right of Entry,18
+1571,East Boston,2012.0,Testing & Certification,12
+1572,East Boston,2012.0,Unsafe Maintenance,3
+1573,East Boston,2012.0,Unsafe Structure,1
+1574,East Boston,2012.0,Unsafe Structures,2
+1575,East Boston,2012.0,Unsafe and Dangerous,55
+1576,East Boston,2013.0,Carbon monoxide alarms,1
+1577,East Boston,2013.0,Certificate of Occupancy,6
+1578,East Boston,2013.0,Electrical Connections,1
+1579,East Boston,2013.0,Failed to comply w permit term,4
+1580,East Boston,2013.0,Failure to Obtain Permit,57
+1581,East Boston,2013.0,Inspections,2
+1582,East Boston,2013.0,Maintenance of Exterior,1
+1583,East Boston,2013.0,Means of Egress,4
+1584,East Boston,2013.0,Mechanical Execution of Work,1
+1585,East Boston,2013.0,Municipal Bylaws or Ordinances,1
+1586,East Boston,2013.0,No GFCI in Kithen,1
+1587,East Boston,2013.0,Principle #18,1
+1588,East Boston,2013.0,Protection of Adj. Property,2
+1589,East Boston,2013.0,Right of Entry,19
+1590,East Boston,2013.0,Testing & Certification,6
+1591,East Boston,2013.0,Unsafe Structure,1
+1592,East Boston,2013.0,Unsafe and Dangerous,75
+1593,East Boston,2014.0,Certificate of Occupancy,2
+1594,East Boston,2014.0,Deteriorating Agents,1
+1595,East Boston,2014.0,Egress Maintenance,1
+1596,East Boston,2014.0,Exit passageways,1
+1597,East Boston,2014.0,Failed to comply w permit term,2
+1598,East Boston,2014.0,Failure to Obtain Permit,35
+1599,East Boston,2014.0,Failure to Secure Permit,5
+1600,East Boston,2014.0,Inspections,1
+1601,East Boston,2014.0,Integrity of Elec. Equip.,1
+1602,East Boston,2014.0,Interrupting Rating,1
+1603,East Boston,2014.0,Liquid Storage Rooms,1
+1604,East Boston,2014.0,Maintenance,2
+1605,East Boston,2014.0,Means of Egress,1
+1606,East Boston,2014.0,Mechanical Execution of Work,2
+1607,East Boston,2014.0,Protection of Adj. Property,2
+1608,East Boston,2014.0,Right of Entry,22
+1609,East Boston,2014.0,Testing & Certification,1
+1610,East Boston,2014.0,Unsafe & Dangerous,2
+1611,East Boston,2014.0,Unsafe and Dangerous,36
+1612,East Boston,2014.0,Unused openings,1
+1613,East Boston,2014.0,Uses not permitted,2
+1614,East Boston,2014.0,Wiring Integrity,1
+1615,East Boston,2015.0,Access to Public Way,1
+1616,East Boston,2015.0,Certificate of Occupancy,1
+1617,East Boston,2015.0,Failure to Obtain Permit,27
+1618,East Boston,2015.0,Failure to Secure Permit,2
+1619,East Boston,2015.0,Failure to secure permit,1
+1620,East Boston,2015.0,Inspections,1
+1621,East Boston,2015.0,Maintenance,8
+1622,East Boston,2015.0,No use of premises permit:,1
+1623,East Boston,2015.0,Protection of Adj. Property,3
+1624,East Boston,2015.0,Right of Entry,25
+1625,East Boston,2015.0,Rooves and drainage,4
+1626,East Boston,2015.0,Smoke Alarms,1
+1627,East Boston,2015.0,Testing & Certification,2
+1628,East Boston,2015.0,Unfit for Human Occupancy,1
+1629,East Boston,2015.0,Unsafe and Dangerous,45
+1630,East Boston,2016.0,Building or Use of Premise req,1
+1631,East Boston,2016.0,Certificate of Occupancy,1
+1632,East Boston,2016.0,Emergency Escape & Rescue,1
+1633,East Boston,2016.0,Exits Maintained,2
+1634,East Boston,2016.0,Failed to comply w permit term,2
+1635,East Boston,2016.0,Failure to Obtain Permit,33
+1636,East Boston,2016.0,Final Inspection,1
+1637,East Boston,2016.0,Inspections,2
+1638,East Boston,2016.0,Maintenance,3
+1639,East Boston,2016.0,Means of Egress,3
+1640,East Boston,2016.0,No use of premises permit:,1
+1641,East Boston,2016.0,Protection of Adj. Property,3
+1642,East Boston,2016.0,Right of Entry,14
+1643,East Boston,2016.0,Rooves and drainage,1
+1644,East Boston,2016.0,Suspension or Revocation,1
+1645,East Boston,2016.0,Testing & Certification,1
+1646,East Boston,2016.0,Unsafe and Dangerous,27
+1647,East Boston,2017.0,Building or Use of Premise req,1
+1648,East Boston,2017.0,Certificate of Occupancy,1
+1649,East Boston,2017.0,Failure to Obtain Permit,26
+1650,East Boston,2017.0,Maintenance,3
+1651,East Boston,2017.0,No use of premises permit:,1
+1652,East Boston,2017.0,Protection of Adj. Property,1
+1653,East Boston,2017.0,Right of Entry,4
+1654,East Boston,2017.0,Unsafe and Dangerous,24
+1655,East Boston,2018.0,Acts 1956 as Amended,1
+1656,East Boston,2018.0,Building or Use of Premise req,1
+1657,East Boston,2018.0,Emergency Escape & Rescue,1
+1658,East Boston,2018.0,Failed to comply w permit term,3
+1659,East Boston,2018.0,Failure to Obtain Permit,19
+1660,East Boston,2018.0,Footing & Foundation Insp.,1
+1661,East Boston,2018.0,Maintenance,4
+1662,East Boston,2018.0,Maintenance of Means of Egress,1
+1663,East Boston,2018.0,Means of Egress,1
+1664,East Boston,2018.0,Protection of Adj. Property,8
+1665,East Boston,2018.0,Right of Entry,2
+1666,East Boston,2018.0,Support Wires,1
+1667,East Boston,2018.0,Unsafe and Dangerous,33
+1668,East Boston,2018.0,Validity of Permit,1
+1669,East Boston,2018.0,Work prior to Permit Issue,2
+1670,East Boston,2019.0,Acts 1956 as Amended,3
+1671,East Boston,2019.0,Certificate of Occupancy,1
+1672,East Boston,2019.0,Dwelling Units & Sleeping,1
+1673,East Boston,2019.0,Failed to comply w permit term,14
+1674,East Boston,2019.0,Failure to Obtain Permit,34
+1675,East Boston,2019.0,Failure to call for req Insp.,1
+1676,East Boston,2019.0,"Groups R-1, R-2, R-3 & R-4",1
+1677,East Boston,2019.0,Maintenance,1
+1678,East Boston,2019.0,Protection of Adj. Property,2
+1679,East Boston,2019.0,Protection of Pedestrians,1
+1680,East Boston,2019.0,Reg. of Construction Hour,2
+1681,East Boston,2019.0,Right of Entry,2
+1682,East Boston,2019.0,Suspension or Revocation,1
+1683,East Boston,2019.0,Testing & Certification,3
+1684,East Boston,2019.0,Unsafe and Dangerous,17
+1685,East Boston,2020.0,Certificate of Occupancy,2
+1686,East Boston,2020.0,Failed to comply w permit term,7
+1687,East Boston,2020.0,Failure to Obtain Permit,25
+1688,East Boston,2020.0,Maintenance,6
+1689,East Boston,2020.0,Protection of Adj. Property,1
+1690,East Boston,2020.0,Right of Entry,5
+1691,East Boston,2020.0,Testing & Certification,1
+1692,East Boston,2020.0,Unsafe and Dangerous,4
+1693,East Boston,2020.0,Work without permit,1
+1694,East Boston,2021.0,Certificate of Occupancy,1
+1695,East Boston,2021.0,Construction Safeguards,1
+1696,East Boston,2021.0,Failed to comply w permit term,2
+1697,East Boston,2021.0,Failure to Obtain Permit,14
+1698,East Boston,2021.0,Inspections,1
+1699,East Boston,2021.0,Maintenance,2
+1700,East Boston,2021.0,Right of Entry,1
+1701,East Boston,2021.0,Testing & Certification,1
+1702,East Boston,2021.0,Unsafe Structures,7
+1703,East Boston,2022.0,Address Identification,1
+1704,East Boston,2022.0,Exhaust Openings,1
+1705,East Boston,2022.0,Failed to comply w permit term,4
+1706,East Boston,2022.0,Failure to Obtain Permit,36
+1707,East Boston,2022.0,Fire Protection Systems,3
+1708,East Boston,2022.0,Locks and Latches,1
+1709,East Boston,2022.0,Maintenance,1
+1710,East Boston,2022.0,Maintenance of Means of Egress,3
+1711,East Boston,2022.0,Projections,1
+1712,East Boston,2022.0,Protection of Adj. Property,3
+1713,East Boston,2022.0,Right of Entry,1
+1714,East Boston,2022.0,Termination,1
+1715,East Boston,2022.0,Testing & Certification,55
+1716,East Boston,2022.0,Underpinning,1
+1717,East Boston,2022.0,Unsafe Structures,30
+1718,East Boston,2023.0,Certificate of Occupancy,3
+1719,East Boston,2023.0,Emergency escape and rescue,2
+1720,East Boston,2023.0,Failed to comply w permit term,3
+1721,East Boston,2023.0,Failure to Obtain Permit,39
+1722,East Boston,2023.0,Maintenance,5
+1723,East Boston,2023.0,Maintenance of Means of Egress,1
+1724,East Boston,2023.0,No use of premises permit:,1
+1725,East Boston,2023.0,Number of Exits or Exit Access,1
+1726,East Boston,2023.0,Permits,1
+1727,East Boston,2023.0,Protection of Adj. Property,7
+1728,East Boston,2023.0,Reg. of Construction Hour,1
+1729,East Boston,2023.0,Right of Entry,1
+1730,East Boston,2023.0,Suspension or Revocation,2
+1731,East Boston,2023.0,Testing & Certification,4
+1732,East Boston,2023.0,Unlawful Continuance,1
+1733,East Boston,2023.0,Unsafe Structures,12
+1734,East Boston,2023.0,Unsafe and Dangerous,2
+1735,East Boston,2024.0,Failed to comply w permit term,2
+1736,East Boston,2024.0,Failure to Obtain Permit,21
+1737,East Boston,2024.0,Hangers & Supports,1
+1738,East Boston,2024.0,Inspections,1
+1739,East Boston,2024.0,Location of Exhaust Outlets,1
+1740,East Boston,2024.0,Maintenance,17
+1741,East Boston,2024.0,Maintenance of Means of Egress,1
+1742,East Boston,2024.0,Projections,1
+1743,East Boston,2024.0,Protection of Adj. Property,1
+1744,East Boston,2024.0,Right of Entry,2
+1745,East Boston,2024.0,Termination,1
+1746,East Boston,2024.0,Testing & Certification,1
+1747,East Boston,2024.0,Unsafe Structures,2
+1748,East Boston,2024.0,Unsafe and Dangerous,2
+1749,East Boston,2024.0,Water Supply & the Water Distribution System,1
+1751,Fenway,2010.0,Deteriorating Agents,3
+1752,Fenway,2010.0,Elevated Electrical Room,1
+1753,Fenway,2010.0,Emergency Escape,1
+1754,Fenway,2010.0,Failure to secure permit,2
+1755,Fenway,2010.0,Fire Escape Affidavit,1
+1756,Fenway,2010.0,Inspections,14
+1757,Fenway,2010.0,Penetrations & Joints,1
+1758,Fenway,2010.0,Testing & Certification,2
+1759,Fenway,2010.0,Unsafe & Dangerous,1
+1760,Fenway,2010.0,Unsafe Maintenance,5
+1761,Fenway,2010.0,Unsafe and Dangerous,3
+1762,Fenway,2011.0,Certificate of Inspection,1
+1763,Fenway,2011.0,Electrical Work w/out a Permit,1
+1764,Fenway,2011.0,Emergency Escape,1
+1765,Fenway,2011.0,Emergency Escape & Rescue,1
+1766,Fenway,2011.0,Failed to comply w permit term,1
+1767,Fenway,2011.0,Failure to Obtain Permit,6
+1768,Fenway,2011.0,Fire Protection Systems,1
+1769,Fenway,2011.0,Foyer & Lobbies,2
+1770,Fenway,2011.0,Inspections,3
+1771,Fenway,2011.0,Maintenance,3
+1772,Fenway,2011.0,Maximum Height from Floor,1
+1773,Fenway,2011.0,Periodic Inspections,1
+1774,Fenway,2011.0,Permits,1
+1775,Fenway,2011.0,Referenced Codes,1
+1776,Fenway,2011.0,Testing & Certification,1
+1777,Fenway,2011.0,Unsafe Maintenance,1
+1778,Fenway,2011.0,Unsafe and Dangerous,5
+1779,Fenway,2012.0,2011 Mass Elec. Code Rule 1,1
+1780,Fenway,2012.0,Building or Use of Premise req,4
+1781,Fenway,2012.0,Certificate of Inspection,1
+1782,Fenway,2012.0,Clearance,3
+1783,Fenway,2012.0,Egress thru Intervening Spaces,1
+1784,Fenway,2012.0,Elevator Lobbies,1
+1785,Fenway,2012.0,Failure to Obtain Permit,8
+1786,Fenway,2012.0,Guarding of Live parts,1
+1787,Fenway,2012.0,Inspections,2
+1788,Fenway,2012.0,Maintenance,2
+1789,Fenway,2012.0,Mass. State Electrical Code,3
+1790,Fenway,2012.0,Mechanical Execution of Work,1
+1791,Fenway,2012.0,Openings to be closed.,1
+1792,Fenway,2012.0,Securing and Supporting,1
+1793,Fenway,2012.0,Unsafe Structures,2
+1794,Fenway,2012.0,Unsafe and Dangerous,2
+1795,Fenway,2012.0,Uses not permitted,1
+1796,Fenway,2013.0,Certificate of Inspection,1
+1797,Fenway,2013.0,Certificate of Occupancy,1
+1798,Fenway,2013.0,Deteriorating Agents,1
+1799,Fenway,2013.0,Failed to comply w permit term,1
+1800,Fenway,2013.0,Failure to Obtain Permit,7
+1801,Fenway,2013.0,General Repairs,1
+1802,Fenway,2013.0,Illegally occupied prior to CO,1
+1803,Fenway,2013.0,Inspections,1
+1804,Fenway,2013.0,Modification fire protection,1
+1805,Fenway,2013.0,Permits,1
+1806,Fenway,2013.0,Unsafe and Dangerous,11
+1807,Fenway,2013.0,Working Without a Permit,1
+1808,Fenway,2014.0,Applications & Permits,1
+1809,Fenway,2014.0,Certificate of Occupancy,6
+1810,Fenway,2014.0,Failed to comply w permit term,2
+1811,Fenway,2014.0,Failure to Obtain Permit,6
+1812,Fenway,2014.0,"Hours operation, nonconforming",1
+1813,Fenway,2014.0,Maintenance,1
+1814,Fenway,2014.0,Periodic Inspections,4
+1815,Fenway,2014.0,Unsafe and Dangerous,10
+1816,Fenway,2015.0,Certificate of Occupancy,2
+1817,Fenway,2015.0,Deteriorating Agents,1
+1818,Fenway,2015.0,Electrical Work w/out a Permit,1
+1819,Fenway,2015.0,Failed to comply w permit term,1
+1820,Fenway,2015.0,Failure to Obtain Permit,3
+1821,Fenway,2015.0,Guarding of Live parts,1
+1822,Fenway,2015.0,Inspections,1
+1823,Fenway,2015.0,Maintenance,2
+1824,Fenway,2015.0,Periodic Inspections,1
+1825,Fenway,2015.0,Permits,1
+1826,Fenway,2015.0,Permits to perform gas fitting,1
+1827,Fenway,2015.0,Testing & Certification,1
+1828,Fenway,2015.0,Unsafe and Dangerous,5
+1829,Fenway,2015.0,Uses not permitted,1
+1830,Fenway,2016.0,Certificate of Occupancy,1
+1831,Fenway,2016.0,Failed to comply w permit term,2
+1832,Fenway,2016.0,Failure to Obtain Permit,5
+1833,Fenway,2016.0,Mass State Plumbing Code,1
+1834,Fenway,2016.0,Means of Egress,1
+1835,Fenway,2016.0,Permits,1
+1836,Fenway,2016.0,Proper Maintenance,1
+1837,Fenway,2016.0,Testing & Certification,2
+1838,Fenway,2016.0,Unsafe and Dangerous,1
+1839,Fenway,2017.0,Failed to comply w permit term,1
+1840,Fenway,2017.0,Failure to Obtain Permit,3
+1841,Fenway,2017.0,Maintenance,3
+1842,Fenway,2017.0,Means of Egress,1
+1843,Fenway,2017.0,Other Laws,1
+1844,Fenway,2017.0,Showers,1
+1845,Fenway,2017.0,Testing & Certification,1
+1846,Fenway,2017.0,Unsafe and Dangerous,5
+1847,Fenway,2018.0,Failure to Obtain Permit,5
+1848,Fenway,2018.0,Maintenance,3
+1849,Fenway,2018.0,Permits,1
+1850,Fenway,2018.0,Right of Entry,1
+1851,Fenway,2018.0,Unsafe and Dangerous,4
+1852,Fenway,2019.0,Basic Principles,1
+1853,Fenway,2019.0,Failure to Obtain Permit,1
+1854,Fenway,2019.0,Maintenance,1
+1855,Fenway,2019.0,Means of Egress,1
+1856,Fenway,2019.0,Periodic Inspections,1
+1857,Fenway,2019.0,Testing & Certification,13
+1858,Fenway,2019.0,Unsafe Maintanence,1
+1859,Fenway,2019.0,Unsafe and Dangerous,8
+1860,Fenway,2020.0,Failure to Obtain Permit,2
+1861,Fenway,2020.0,Fire Protection Systems,1
+1862,Fenway,2020.0,Maintenance,2
+1863,Fenway,2020.0,Maintenance of Means of Egress,2
+1864,Fenway,2020.0,Periodic Inspections,1
+1865,Fenway,2021.0,Failure to Obtain Permit,6
+1866,Fenway,2021.0,Maintenance,6
+1867,Fenway,2021.0,Number of Exits or Exit Access,1
+1868,Fenway,2021.0,Periodic Inspections,2
+1869,Fenway,2021.0,Testing & Certification,3
+1870,Fenway,2021.0,Unsafe Structures,1
+1871,Fenway,2021.0,Unsafe and Dangerous,2
+1872,Fenway,2021.0,Working Space,1
+1873,Fenway,2022.0,Egress through intervening spaces,1
+1874,Fenway,2022.0,Emergency Escape & Rescue,1
+1875,Fenway,2022.0,Failure to Obtain Permit,5
+1876,Fenway,2022.0,Inspections,1
+1877,Fenway,2022.0,Maintenance,6
+1878,Fenway,2022.0,Suspension or Revocation,3
+1879,Fenway,2022.0,Testing & Certification,34
+1880,Fenway,2022.0,Unsafe Structures,1
+1881,Fenway,2023.0,Emergency Escape & Rescue,1
+1882,Fenway,2023.0,Failed to comply w permit term,1
+1883,Fenway,2023.0,Failure to Obtain Permit,4
+1884,Fenway,2023.0,Inspections,1
+1885,Fenway,2023.0,Maintenance,6
+1886,Fenway,2023.0,Periodic Inspections,1
+1887,Fenway,2023.0,Right of Entry,2
+1888,Fenway,2023.0,Testing & Certification,6
+1889,Fenway,2023.0,Unsafe Structures,2
+1890,Fenway,2024.0,Failed to comply w permit term,1
+1891,Fenway,2024.0,Failure to Obtain Permit,9
+1892,Fenway,2024.0,Maintenance,5
+1893,Fenway,2024.0,Notice of Violation,1
+1894,Fenway,2024.0,Periodic Inspections,1
+1895,Fenway,2024.0,Slope,2
+1896,Fenway,2024.0,Testing & Certification,16
+1897,Fenway,2024.0,Unsafe and Dangerous,1
+1899,Hyde Park,2010.0,Application for Permit,1
+1900,Hyde Park,2010.0,Building or Use of Premise req,7
+1901,Hyde Park,2010.0,Certificate of Inspection,3
+1902,Hyde Park,2010.0,Compliance with Permit,2
+1903,Hyde Park,2010.0,Emergency Escape,2
+1904,Hyde Park,2010.0,Exit Passageways,1
+1905,Hyde Park,2010.0,Failed to comply w PRMT terms,1
+1906,Hyde Park,2010.0,Failure to Comply w. Code,1
+1907,Hyde Park,2010.0,Failure to secure permit,18
+1908,Hyde Park,2010.0,Fire Alarm & Detection Systems,1
+1909,Hyde Park,2010.0,Fire Protection Systems,1
+1910,Hyde Park,2010.0,Illegally occupied prior to CO,4
+1911,Hyde Park,2010.0,Inspections,12
+1912,Hyde Park,2010.0,Maintenance,8
+1913,Hyde Park,2010.0,Maintenance of Exterior,2
+1914,Hyde Park,2010.0,Means of Egress,1
+1915,Hyde Park,2010.0,Outdoor Sale & Display,1
+1916,Hyde Park,2010.0,Point of Attachment,1
+1917,Hyde Park,2010.0,Remove/Making Safe Structure,1
+1918,Hyde Park,2010.0,Right of Entry,4
+1919,Hyde Park,2010.0,Smoke Detectors,1
+1920,Hyde Park,2010.0,Swimming Pools,1
+1921,Hyde Park,2010.0,Testing & Certification,1
+1922,Hyde Park,2010.0,Unsafe & Dangerous,2
+1923,Hyde Park,2010.0,Unsafe Maintenance,6
+1924,Hyde Park,2010.0,Unsafe Structure,1
+1925,Hyde Park,2010.0,Unsafe Structures,10
+1926,Hyde Park,2010.0,Unsafe and Dangerous,8
+1927,Hyde Park,2010.0,Working Without a Permit,1
+1928,Hyde Park,2011.0,Building or Use of Premise req,5
+1929,Hyde Park,2011.0,Certificate of Inspection,1
+1930,Hyde Park,2011.0,Certificate of Occupancy,2
+1931,Hyde Park,2011.0,Compliance with Permit,2
+1932,Hyde Park,2011.0,Electrical Work w/out a Permit,2
+1933,Hyde Park,2011.0,Emergency Escape,1
+1934,Hyde Park,2011.0,Failure to Obtain Permit,8
+1935,Hyde Park,2011.0,Failure to Secure Permit,4
+1936,Hyde Park,2011.0,Failure to secure permit,14
+1937,Hyde Park,2011.0,Fire Alarm Systems,1
+1938,Hyde Park,2011.0,Fire Protection Systems,2
+1939,Hyde Park,2011.0,Illegally occupied prior to CO,2
+1940,Hyde Park,2011.0,Inspections,5
+1941,Hyde Park,2011.0,Maintenance,16
+1942,Hyde Park,2011.0,Maintenance of Exterior,1
+1943,Hyde Park,2011.0,Means of Egress,1
+1944,Hyde Park,2011.0,Means of Egress Illumination,1
+1945,Hyde Park,2011.0,Right of Entry,5
+1946,Hyde Park,2011.0,Unsafe & Dangerous,4
+1947,Hyde Park,2011.0,Unsafe Maintenance,5
+1948,Hyde Park,2011.0,Unsafe Structure,2
+1949,Hyde Park,2011.0,Unsafe Structures,3
+1950,Hyde Park,2011.0,Unsafe and Dangerous,16
+1951,Hyde Park,2012.0,Building or Use of Premise req,5
+1952,Hyde Park,2012.0,Emergency Escape,1
+1953,Hyde Park,2012.0,Failure to Obtain Permit,22
+1954,Hyde Park,2012.0,Failure to Secure Permit,6
+1955,Hyde Park,2012.0,Failure to secure permit,3
+1956,Hyde Park,2012.0,Gates,1
+1957,Hyde Park,2012.0,Locks and Latches,1
+1958,Hyde Park,2012.0,Maintenance,5
+1959,Hyde Park,2012.0,Permits,4
+1960,Hyde Park,2012.0,Retaining Wall,1
+1961,Hyde Park,2012.0,Right of Entry,2
+1962,Hyde Park,2012.0,Smoke Alarms,1
+1963,Hyde Park,2012.0,Stop Work Order,2
+1964,Hyde Park,2012.0,Unsafe & Dangerous,1
+1965,Hyde Park,2012.0,Unsafe Maintenance,2
+1966,Hyde Park,2012.0,Unsafe Structures,1
+1967,Hyde Park,2012.0,Unsafe and Dangerous,16
+1968,Hyde Park,2013.0,Failure to Obtain Permit,17
+1969,Hyde Park,2013.0,Failure to Secure Permit,2
+1970,Hyde Park,2013.0,Imbedded posts&poles,1
+1971,Hyde Park,2013.0,Permits,1
+1972,Hyde Park,2013.0,Right of Entry,6
+1973,Hyde Park,2013.0,Unlawful Continuance,1
+1974,Hyde Park,2013.0,Unsafe & Dangerous,1
+1975,Hyde Park,2013.0,Unsafe and Dangerous,26
+1976,Hyde Park,2013.0,Working Space,1
+1977,Hyde Park,2014.0,Certificate of Occupancy,2
+1978,Hyde Park,2014.0,Circuit Intensity,1
+1979,Hyde Park,2014.0,Deteriorating Agents,1
+1980,Hyde Park,2014.0,Failure to Obtain Permit,20
+1981,Hyde Park,2014.0,Failure to Secure Permit,2
+1982,Hyde Park,2014.0,Integrity of elec. equipment,1
+1983,Hyde Park,2014.0,Maintenance,1
+1984,Hyde Park,2014.0,Mechanical Execution of Work,1
+1985,Hyde Park,2014.0,Periodic Inspections,1
+1986,Hyde Park,2014.0,Permits to perform gas fitting,1
+1987,Hyde Park,2014.0,Right of Entry,1
+1988,Hyde Park,2014.0,Suspension or Revocation,1
+1989,Hyde Park,2014.0,Testing & Certification,1
+1990,Hyde Park,2014.0,Unlawful Continuance,1
+1991,Hyde Park,2014.0,Unsafe and Dangerous,21
+1992,Hyde Park,2015.0,Building or Use of Premise req,1
+1993,Hyde Park,2015.0,Certificate of Occupancy,2
+1994,Hyde Park,2015.0,Deteriorating Agents,2
+1995,Hyde Park,2015.0,Failure to Obtain Permit,29
+1996,Hyde Park,2015.0,Fire Protection Systems,1
+1997,Hyde Park,2015.0,Locks and Latches,1
+1998,Hyde Park,2015.0,Maintenance,1
+1999,Hyde Park,2015.0,Not Located in Bathrooms,1
+2000,Hyde Park,2015.0,Right of Entry,6
+2001,Hyde Park,2015.0,Testing & Certification,1
+2002,Hyde Park,2015.0,Unsafe and Dangerous,27
+2003,Hyde Park,2016.0,Acts 1956 as Amended,1
+2004,Hyde Park,2016.0,Failure to Obtain Permit,26
+2005,Hyde Park,2016.0,Maintenance,3
+2006,Hyde Park,2016.0,Means of Egress,2
+2007,Hyde Park,2016.0,Protection of Adj. Property,2
+2008,Hyde Park,2016.0,Right of Entry,3
+2009,Hyde Park,2016.0,Unlawful Acts,1
+2010,Hyde Park,2016.0,Unsafe and Dangerous,9
+2011,Hyde Park,2017.0,Acts 1956 as Amended,2
+2012,Hyde Park,2017.0,Certificate of Inspection,1
+2013,Hyde Park,2017.0,Certificate of Occupancy,4
+2014,Hyde Park,2017.0,Failure to Obtain Permit,38
+2015,Hyde Park,2017.0,Guards,1
+2016,Hyde Park,2017.0,Inspections,1
+2017,Hyde Park,2017.0,Maintenance,3
+2018,Hyde Park,2017.0,Permits,1
+2019,Hyde Park,2017.0,Protection of Adj. Property,1
+2020,Hyde Park,2017.0,Revocation of Cert. of Occ.,1
+2021,Hyde Park,2017.0,Right of Entry,2
+2022,Hyde Park,2017.0,Unsafe Structure,1
+2023,Hyde Park,2017.0,Unsafe and Dangerous,13
+2024,Hyde Park,2018.0,Acts 1956 as Amended,1
+2025,Hyde Park,2018.0,Building or Use of Premise req,1
+2026,Hyde Park,2018.0,Certificate of Occupancy,1
+2027,Hyde Park,2018.0,Failed to comply w permit term,2
+2028,Hyde Park,2018.0,Failure to Obtain Permit,19
+2029,Hyde Park,2018.0,Fire Alarm and Detection,1
+2030,Hyde Park,2018.0,Fire Protection Systems,2
+2031,Hyde Park,2018.0,Maintenance,3
+2032,Hyde Park,2018.0,Protection of Adj. Property,2
+2033,Hyde Park,2018.0,Required Plumbing Fixtures,1
+2034,Hyde Park,2018.0,Right of Entry,2
+2035,Hyde Park,2018.0,Unsafe and Dangerous,10
+2036,Hyde Park,2019.0,Failed to comply w permit term,2
+2037,Hyde Park,2019.0,Failure to Obtain Permit,11
+2038,Hyde Park,2019.0,Maintenance,1
+2039,Hyde Park,2019.0,Maintenance of Means of Egress,1
+2040,Hyde Park,2019.0,Modification fire protection,1
+2041,Hyde Park,2019.0,Right of Entry,1
+2042,Hyde Park,2019.0,Unsafe and Dangerous,10
+2043,Hyde Park,2020.0,Building or Use of Premise req,1
+2044,Hyde Park,2020.0,Failed to comply w permit term,2
+2045,Hyde Park,2020.0,Failure to Obtain Permit,20
+2046,Hyde Park,2020.0,Failure to call for req Insp.,1
+2047,Hyde Park,2020.0,Inspections,2
+2048,Hyde Park,2020.0,Maintenance,1
+2049,Hyde Park,2020.0,Unsafe and Dangerous,20
+2050,Hyde Park,2021.0,Building or Use of Premise req,1
+2051,Hyde Park,2021.0,Covers & Canopies,1
+2052,Hyde Park,2021.0,Failed to comply w permit term,1
+2053,Hyde Park,2021.0,Failure to Obtain Permit,14
+2054,Hyde Park,2021.0,Guarding of Live parts,1
+2055,Hyde Park,2021.0,Inspections,1
+2056,Hyde Park,2021.0,National Fuel Gas Code,1
+2057,Hyde Park,2021.0,Right of Entry,1
+2058,Hyde Park,2021.0,Unsafe Structures,7
+2059,Hyde Park,2021.0,Unsafe and Dangerous,8
+2060,Hyde Park,2022.0,Building or Use of Premise req,2
+2061,Hyde Park,2022.0,Failed to comply w permit term,2
+2062,Hyde Park,2022.0,Failure to Obtain Permit,13
+2063,Hyde Park,2022.0,Fire Blocking Required,1
+2064,Hyde Park,2022.0,Installation Instructions,1
+2065,Hyde Park,2022.0,Maintenance,6
+2066,Hyde Park,2022.0,Maintenance of Means of Egress,1
+2067,Hyde Park,2022.0,Number of Exits or Exit Access,1
+2068,Hyde Park,2022.0,Protection of Pedestrians,1
+2069,Hyde Park,2022.0,Requirements,2
+2070,Hyde Park,2022.0,Right of Entry,3
+2071,Hyde Park,2022.0,Testing & Certification,11
+2072,Hyde Park,2022.0,Unsafe Structures,10
+2073,Hyde Park,2022.0,Unsafe and Dangerous,2
+2074,Hyde Park,2022.0,Working Space,1
+2075,Hyde Park,2023.0,Emergency Openings,1
+2076,Hyde Park,2023.0,Failed to comply w permit term,1
+2077,Hyde Park,2023.0,Failure to Obtain Permit,10
+2078,Hyde Park,2023.0,Inspections,1
+2079,Hyde Park,2023.0,Maintenance,5
+2080,Hyde Park,2023.0,No use of premises permit:,1
+2081,Hyde Park,2023.0,Number of Exits or Exit Access,1
+2082,Hyde Park,2023.0,Protection of Pedestrians,1
+2083,Hyde Park,2023.0,Testing & Certification,4
+2084,Hyde Park,2023.0,Unsafe Structures,11
+2085,Hyde Park,2024.0,Building or Use of Premise req,1
+2086,Hyde Park,2024.0,Certificate of Occupancy,1
+2087,Hyde Park,2024.0,Failed to comply w permit term,1
+2088,Hyde Park,2024.0,Failure to Obtain Permit,30
+2089,Hyde Park,2024.0,Maintenance,15
+2090,Hyde Park,2024.0,Protection of Adj. Property,2
+2091,Hyde Park,2024.0,Right of Entry,1
+2092,Hyde Park,2024.0,Testing & Certification,1
+2093,Hyde Park,2024.0,Unsafe Structures,7
+2094,Hyde Park,2024.0,Unsafe and Dangerous,3
+2095,Hyde Park,2024.0,Working Without Electrical Permit,1
+2096,Jamaica Plain,2010.0,Basements,1
+2097,Jamaica Plain,2010.0,Building Illegally Occupied,1
+2098,Jamaica Plain,2010.0,Certificate of Inspection,1
+2099,Jamaica Plain,2010.0,Compliance with Permit,1
+2100,Jamaica Plain,2010.0,Door Locks,1
+2101,Jamaica Plain,2010.0,Egress,1
+2102,Jamaica Plain,2010.0,Failure to secure permit,3
+2103,Jamaica Plain,2010.0,Final Inspection,1
+2104,Jamaica Plain,2010.0,Illegally occupied prior to CO,1
+2105,Jamaica Plain,2010.0,Inspections,17
+2106,Jamaica Plain,2010.0,Maintenance,1
+2107,Jamaica Plain,2010.0,Means of Egress,1
+2108,Jamaica Plain,2010.0,Mechanical,1
+2109,Jamaica Plain,2010.0,Permits to perform gas fitting,1
+2110,Jamaica Plain,2010.0,Right of Entry,2
+2111,Jamaica Plain,2010.0,Unsafe & Dangerous,1
+2112,Jamaica Plain,2010.0,Unsafe Maintenance,7
+2113,Jamaica Plain,2010.0,Unsafe and Dangerous,7
+2114,Jamaica Plain,2011.0,Building or Use of Premise req,1
+2115,Jamaica Plain,2011.0,Certificate of Occupancy,1
+2116,Jamaica Plain,2011.0,Electrical Work w/out a Permit,2
+2117,Jamaica Plain,2011.0,Failure to Obtain Permit,6
+2118,Jamaica Plain,2011.0,Final Inspection,1
+2119,Jamaica Plain,2011.0,Illegally occupied prior to CO,1
+2120,Jamaica Plain,2011.0,Inspections,4
+2121,Jamaica Plain,2011.0,Maintenance,1
+2122,Jamaica Plain,2011.0,Overcurrent Protection,1
+2123,Jamaica Plain,2011.0,Proper Maintenance,1
+2124,Jamaica Plain,2011.0,Right of Entry,2
+2125,Jamaica Plain,2011.0,Unsafe & Dangerous,1
+2126,Jamaica Plain,2011.0,Unsafe Structure,1
+2127,Jamaica Plain,2011.0,Unsafe and Dangerous,5
+2128,Jamaica Plain,2012.0,Certificate of Occupancy,2
+2129,Jamaica Plain,2012.0,Electrical Work w/out Permit,1
+2130,Jamaica Plain,2012.0,Electrical Work w/out a Permit,2
+2131,Jamaica Plain,2012.0,Failure to Obtain Permit,14
+2132,Jamaica Plain,2012.0,Failure to Secure Permit,2
+2133,Jamaica Plain,2012.0,Flex cords/cables not permited,1
+2134,Jamaica Plain,2012.0,Inspections,1
+2135,Jamaica Plain,2012.0,Maintenance,2
+2136,Jamaica Plain,2012.0,Unsafe & Dangerous,1
+2137,Jamaica Plain,2012.0,Unsafe and Dangerous,10
+2138,Jamaica Plain,2013.0,Building or Use of Premise req,2
+2139,Jamaica Plain,2013.0,Certificate of Occupancy,1
+2140,Jamaica Plain,2013.0,"Examination,identify,install",1
+2141,Jamaica Plain,2013.0,Failed to comply w permit term,2
+2142,Jamaica Plain,2013.0,Failure to Obtain Permit,7
+2143,Jamaica Plain,2013.0,Failure to Secure Permit,6
+2144,Jamaica Plain,2013.0,Integrity of elec. equipment,1
+2145,Jamaica Plain,2013.0,Mass State Plumbing Code,1
+2146,Jamaica Plain,2013.0,Means of Attachment,1
+2147,Jamaica Plain,2013.0,Mechanical Execution of Work,1
+2148,Jamaica Plain,2013.0,Periodic Inspections,9
+2149,Jamaica Plain,2013.0,Permits,1
+2150,Jamaica Plain,2013.0,Right of Entry,1
+2151,Jamaica Plain,2013.0,Unsafe and Dangerous,11
+2152,Jamaica Plain,2013.0,Waste Water,1
+2153,Jamaica Plain,2014.0,Building or Use of Premise req,2
+2154,Jamaica Plain,2014.0,Certificate of Inspection,1
+2155,Jamaica Plain,2014.0,Certificate of Occupancy,3
+2156,Jamaica Plain,2014.0,Circuit Impedance,1
+2157,Jamaica Plain,2014.0,Deteriorating Agents,1
+2158,Jamaica Plain,2014.0,Electrical Connections,2
+2159,Jamaica Plain,2014.0,Electrical Work w/out Permit,1
+2160,Jamaica Plain,2014.0,Failed to comply w permit term,1
+2161,Jamaica Plain,2014.0,Failure to Obtain Permit,25
+2162,Jamaica Plain,2014.0,Inspections,1
+2163,Jamaica Plain,2014.0,Maintenance,5
+2164,Jamaica Plain,2014.0,Means of Egress,1
+2165,Jamaica Plain,2014.0,Mechanical Execution of Work,3
+2166,Jamaica Plain,2014.0,Right of Entry,2
+2167,Jamaica Plain,2014.0,Testing & Certification,1
+2168,Jamaica Plain,2014.0,Unsafe and Dangerous,13
+2169,Jamaica Plain,2014.0,Unused openings,3
+2170,Jamaica Plain,2014.0,Wiring Integrity,3
+2171,Jamaica Plain,2014.0,Wiring Methods,1
+2172,Jamaica Plain,2015.0,"Boxes, Where Required",1
+2173,Jamaica Plain,2015.0,Building or Use of Premise req,2
+2174,Jamaica Plain,2015.0,Certificate of Occupancy,2
+2175,Jamaica Plain,2015.0,Deteriorating Agents,1
+2176,Jamaica Plain,2015.0,Electrical Service Conduit,1
+2177,Jamaica Plain,2015.0,Failed to comply w permit term,2
+2178,Jamaica Plain,2015.0,Failure to Obtain Permit,6
+2179,Jamaica Plain,2015.0,Maintenance,2
+2180,Jamaica Plain,2015.0,No use of premises permit:,1
+2181,Jamaica Plain,2015.0,Periodic Inspections,13
+2182,Jamaica Plain,2015.0,Right of Entry,4
+2183,Jamaica Plain,2015.0,Suspension or Revocation,2
+2184,Jamaica Plain,2015.0,Unsafe and Dangerous,11
+2185,Jamaica Plain,2015.0,Validity of Permit,1
+2186,Jamaica Plain,2016.0,Failure to Obtain Permit,4
+2187,Jamaica Plain,2016.0,Unsafe Maintenance,1
+2188,Jamaica Plain,2016.0,Unsafe and Dangerous,4
+2189,Jamaica Plain,2017.0,Acts 1956 as Amended,1
+2190,Jamaica Plain,2017.0,Building or Use of Premise req,1
+2191,Jamaica Plain,2017.0,Certificate of Occupancy,1
+2192,Jamaica Plain,2017.0,Failure to Obtain Permit,7
+2193,Jamaica Plain,2017.0,Maintenance,1
+2194,Jamaica Plain,2017.0,No use of premises permit:,1
+2195,Jamaica Plain,2017.0,Permits,1
+2196,Jamaica Plain,2017.0,Right of Entry,1
+2197,Jamaica Plain,2017.0,Unsafe and Dangerous,5
+2198,Jamaica Plain,2018.0,Failed to comply w permit term,1
+2199,Jamaica Plain,2018.0,Failure to Obtain Permit,7
+2200,Jamaica Plain,2018.0,Protection of Adj. Property,1
+2201,Jamaica Plain,2018.0,Reg. of Construction Hours,1
+2202,Jamaica Plain,2018.0,Unsafe Structure,1
+2203,Jamaica Plain,2018.0,Unsafe and Dangerous,2
+2204,Jamaica Plain,2019.0,Certificate of Occupancy,1
+2205,Jamaica Plain,2019.0,Failed to comply w permit term,1
+2206,Jamaica Plain,2019.0,Failure to Obtain Permit,3
+2207,Jamaica Plain,2019.0,Maintenance,8
+2208,Jamaica Plain,2019.0,Right of Entry,2
+2209,Jamaica Plain,2019.0,Testing & Certification,1
+2210,Jamaica Plain,2019.0,Unsafe and Dangerous,7
+2211,Jamaica Plain,2020.0,Certificate of Occupancy,1
+2212,Jamaica Plain,2020.0,Failed to comply w permit term,1
+2213,Jamaica Plain,2020.0,Failure to Obtain Permit,4
+2214,Jamaica Plain,2020.0,Fire Protection Systems,1
+2215,Jamaica Plain,2020.0,Inspections,1
+2216,Jamaica Plain,2020.0,Maintenance,6
+2217,Jamaica Plain,2020.0,National Fuel Gas Code,1
+2218,Jamaica Plain,2020.0,Unsafe and Dangerous,2
+2219,Jamaica Plain,2021.0,Certificate of Occupancy,1
+2220,Jamaica Plain,2021.0,Failed to comply w permit term,1
+2221,Jamaica Plain,2021.0,Failure to Obtain Permit,9
+2222,Jamaica Plain,2021.0,Fire Blocking Required,3
+2223,Jamaica Plain,2021.0,Maintenance,1
+2224,Jamaica Plain,2021.0,Periodic Inspections,1
+2225,Jamaica Plain,2021.0,Testing & Certification,2
+2226,Jamaica Plain,2021.0,Unlawful Continuance,1
+2227,Jamaica Plain,2021.0,Unsafe Structures,2
+2228,Jamaica Plain,2021.0,Unsafe and Dangerous,6
+2229,Jamaica Plain,2022.0,Accessible Means of Egress,1
+2230,Jamaica Plain,2022.0,Failed to comply w permit term,1
+2231,Jamaica Plain,2022.0,Failure to Obtain Permit,4
+2232,Jamaica Plain,2022.0,Maintenance,4
+2233,Jamaica Plain,2022.0,Suspension or Revocation,1
+2234,Jamaica Plain,2022.0,Unsafe Structures,11
+2235,Jamaica Plain,2022.0,Unsafe and Dangerous,1
+2236,Jamaica Plain,2023.0,Building or Use of Premise req,2
+2237,Jamaica Plain,2023.0,Circuit Directory ot Circuit Description,1
+2238,Jamaica Plain,2023.0,Failed to comply w permit term,2
+2239,Jamaica Plain,2023.0,Failure to Obtain Permit,7
+2240,Jamaica Plain,2023.0,Failure to comply w permits,1
+2241,Jamaica Plain,2023.0,Garages ,1
+2242,Jamaica Plain,2023.0,Maintenance,5
+2243,Jamaica Plain,2023.0,Periodic Inspections,1
+2244,Jamaica Plain,2023.0,Protection of Adj. Property,2
+2245,Jamaica Plain,2023.0,Unsafe Structures,6
+2246,Jamaica Plain,2023.0,Unused openings,1
+2247,Jamaica Plain,2024.0,Common area branch circuits,1
+2248,Jamaica Plain,2024.0,Deteriorating Agents,1
+2249,Jamaica Plain,2024.0,Failed to comply w permit term,2
+2250,Jamaica Plain,2024.0,Failure to Obtain Permit,9
+2251,Jamaica Plain,2024.0,Locks and Latches,1
+2252,Jamaica Plain,2024.0,Maintenance,6
+2253,Jamaica Plain,2024.0,Maintenance of Means of Egress,1
+2254,Jamaica Plain,2024.0,Testing & Certification,1
+2255,Jamaica Plain,2024.0,Unsafe Structures,2
+2256,Mattapan,2010.0,Building or Use of Premise req,2
+2257,Mattapan,2010.0,Certificate of Inspection,2
+2258,Mattapan,2010.0,Deteriorating Agents,1
+2259,Mattapan,2010.0,Disconnecting Means Service,1
+2260,Mattapan,2010.0,Door Locks,1
+2261,Mattapan,2010.0,Egress,1
+2262,Mattapan,2010.0,Failure to secure permit,10
+2263,Mattapan,2010.0,Fire Partitions,2
+2264,Mattapan,2010.0,Fire Protection Systems,1
+2265,Mattapan,2010.0,Guarding of Live Ports,1
+2266,Mattapan,2010.0,Inspections,10
+2267,Mattapan,2010.0,Maintenance,9
+2268,Mattapan,2010.0,Mechanical Execution of Work,1
+2269,Mattapan,2010.0,Permits to perform gas fitting,2
+2270,Mattapan,2010.0,Pull & Junction Boxes,1
+2271,Mattapan,2010.0,Right of Entry,3
+2272,Mattapan,2010.0,Securing and Supporting,1
+2273,Mattapan,2010.0,Unsafe & Dangerous,2
+2274,Mattapan,2010.0,Unsafe Maintenance,3
+2275,Mattapan,2010.0,Unsafe Structure,1
+2276,Mattapan,2010.0,Unsafe Structures,2
+2277,Mattapan,2010.0,Unsafe and Dangerous,9
+2278,Mattapan,2011.0,Application for Permit,1
+2279,Mattapan,2011.0,Building or Use of Premise req,6
+2280,Mattapan,2011.0,Certificate of Inspection,1
+2281,Mattapan,2011.0,Compliance with Permit,1
+2282,Mattapan,2011.0,Egress,1
+2283,Mattapan,2011.0,Electrical Work w/out a Permit,1
+2284,Mattapan,2011.0,Emergency Escape,1
+2285,Mattapan,2011.0,Failure to Obtain Permit,9
+2286,Mattapan,2011.0,Failure to Secure Permit,1
+2287,Mattapan,2011.0,Failure to remove or make,1
+2288,Mattapan,2011.0,Failure to secure permit,7
+2289,Mattapan,2011.0,Guarding of Live parts,1
+2290,Mattapan,2011.0,Inspections,1
+2291,Mattapan,2011.0,Maintenance,8
+2292,Mattapan,2011.0,Principle #18,1
+2293,Mattapan,2011.0,Right of Entry,6
+2294,Mattapan,2011.0,Unsafe & Dangerous,3
+2295,Mattapan,2011.0,Unsafe Maintenance,2
+2296,Mattapan,2011.0,Unsafe Structures,1
+2297,Mattapan,2011.0,Unsafe and Dangerous,14
+2298,Mattapan,2012.0,Building or Use of Premise req,1
+2299,Mattapan,2012.0,Certificate of Occupancy,2
+2300,Mattapan,2012.0,Emergency Escape,1
+2301,Mattapan,2012.0,Failure to Obtain Permit,13
+2302,Mattapan,2012.0,Failure to Secure Permit,1
+2303,Mattapan,2012.0,Failure to secure permit,1
+2304,Mattapan,2012.0,Maintenance,8
+2305,Mattapan,2012.0,Permits,1
+2306,Mattapan,2012.0,Protection of Adj. Property,1
+2307,Mattapan,2012.0,Right of Entry,8
+2308,Mattapan,2012.0,Unsafe & Dangerous,6
+2309,Mattapan,2012.0,Unsafe Structures,1
+2310,Mattapan,2012.0,Unsafe and Dangerous,14
+2311,Mattapan,2013.0,Building or Use of Premise req,3
+2312,Mattapan,2013.0,Deteriorating Agents,1
+2313,Mattapan,2013.0,Electrical Connections,1
+2314,Mattapan,2013.0,Exits Maintained,1
+2315,Mattapan,2013.0,Failure to Obtain Permit,15
+2316,Mattapan,2013.0,Failure to Secure Permit,4
+2317,Mattapan,2013.0,Failure to secure permit,1
+2318,Mattapan,2013.0,Locks and Latches,1
+2319,Mattapan,2013.0,Maintenance,1
+2320,Mattapan,2013.0,Periodic Inspections,1
+2321,Mattapan,2013.0,Right of Entry,3
+2322,Mattapan,2013.0,Unsafe & Dangerous,1
+2323,Mattapan,2013.0,Unsafe and Dangerous,14
+2324,Mattapan,2013.0,Working Space,1
+2325,Mattapan,2014.0,Certificate of Occupancy,1
+2326,Mattapan,2014.0,Failure to Obtain Permit,11
+2327,Mattapan,2014.0,Failure to Secure Permit,3
+2328,Mattapan,2014.0,Permits,2
+2329,Mattapan,2014.0,Right of Entry,2
+2330,Mattapan,2014.0,Unsafe and Dangerous,14
+2331,Mattapan,2015.0,Certificate of Inspection,1
+2332,Mattapan,2015.0,Emergency Escape,1
+2333,Mattapan,2015.0,Failed to comply w permit term,2
+2334,Mattapan,2015.0,Failure to Obtain Permit,13
+2335,Mattapan,2015.0,Failure to Secure Permit,2
+2336,Mattapan,2015.0,Locks and Latches,1
+2337,Mattapan,2015.0,Maintenance,4
+2338,Mattapan,2015.0,Minimum Number of Exits,1
+2339,Mattapan,2015.0,No use of premises permit:,1
+2340,Mattapan,2015.0,Reg. of Construction Hour,1
+2341,Mattapan,2015.0,Right of Entry,2
+2342,Mattapan,2015.0,Unsafe and Dangerous,26
+2343,Mattapan,2016.0,Emergency Escape & Rescue,1
+2344,Mattapan,2016.0,Failure to Obtain Permit,13
+2345,Mattapan,2016.0,Flex cords/cables not permited,3
+2346,Mattapan,2016.0,Guarding of Live parts,3
+2347,Mattapan,2016.0,Maintenance,2
+2348,Mattapan,2016.0,Means of Egress,1
+2349,Mattapan,2016.0,Spaces about Elect. Equip.,1
+2350,Mattapan,2016.0,Spaces about electrical equip,1
+2351,Mattapan,2016.0,Unsafe and Dangerous,16
+2352,Mattapan,2017.0,Failure to Obtain Permit,20
+2353,Mattapan,2017.0,Locks and Latches,1
+2354,Mattapan,2017.0,Maintenance,2
+2355,Mattapan,2017.0,Right of Entry,2
+2356,Mattapan,2017.0,Unsafe and Dangerous,11
+2357,Mattapan,2017.0,Workmanship,1
+2358,Mattapan,2018.0,Building or Use of Premise req,1
+2359,Mattapan,2018.0,Failed to comply w permit term,1
+2360,Mattapan,2018.0,Failure to Obtain Permit,15
+2361,Mattapan,2018.0,Fire and Smoke Protection,1
+2362,Mattapan,2018.0,Maintenance,4
+2363,Mattapan,2018.0,Means of Egress,1
+2364,Mattapan,2018.0,Required Inspections,1
+2365,Mattapan,2018.0,Right of Entry,2
+2366,Mattapan,2018.0,Specialized codes,1
+2367,Mattapan,2018.0,Unsafe and Dangerous,8
+2368,Mattapan,2019.0,Acts 1956 as Amended,1
+2369,Mattapan,2019.0,Certificate of Occupancy,1
+2370,Mattapan,2019.0,Dangerous Structures/Premises,1
+2371,Mattapan,2019.0,Emergency Escape & Rescue,1
+2372,Mattapan,2019.0,Failed to comply w permit term,3
+2373,Mattapan,2019.0,Failure to Obtain Permit,10
+2374,Mattapan,2019.0,Maintenance,3
+2375,Mattapan,2019.0,Reg. of Construction Hour,1
+2376,Mattapan,2019.0,Testing & Certification,1
+2377,Mattapan,2019.0,Unsafe and Dangerous,24
+2378,Mattapan,2020.0,Certificate of Occupancy,1
+2379,Mattapan,2020.0,Failed to comply w permit term,4
+2380,Mattapan,2020.0,Failure to Obtain Permit,11
+2381,Mattapan,2020.0,Maintenance,4
+2382,Mattapan,2020.0,Reg. of Construction Hour,1
+2383,Mattapan,2020.0,Unsafe and Dangerous,14
+2384,Mattapan,2021.0,Acts 1956 as Amended,1
+2385,Mattapan,2021.0,Certificate of Occupancy,2
+2386,Mattapan,2021.0,Emergency escape and rescue,1
+2387,Mattapan,2021.0,Failed to comply w permit term,2
+2388,Mattapan,2021.0,Failure to Obtain Permit,9
+2389,Mattapan,2021.0,Maintenance,4
+2390,Mattapan,2021.0,Requirements,1
+2391,Mattapan,2021.0,Right of Entry,1
+2392,Mattapan,2021.0,Unsafe Structures,5
+2393,Mattapan,2021.0,Unsafe and Dangerous,13
+2394,Mattapan,2022.0,Building or Use of Premise req,1
+2395,Mattapan,2022.0,Emergency escape and rescue,1
+2396,Mattapan,2022.0,Failure to Obtain Permit,14
+2397,Mattapan,2022.0,Maintenance,8
+2398,Mattapan,2022.0,No use of premises permit:,4
+2399,Mattapan,2022.0,Right of Entry,1
+2400,Mattapan,2022.0,Testing & Certification,3
+2401,Mattapan,2022.0,Unsafe Structures,9
+2402,Mattapan,2023.0,Failure to Obtain Permit,6
+2403,Mattapan,2023.0,Inspections,2
+2404,Mattapan,2023.0,Maintenance,6
+2405,Mattapan,2023.0,Protection of Adj. Property,1
+2406,Mattapan,2023.0,Testing & Certification,3
+2407,Mattapan,2023.0,Unsafe Structures,9
+2408,Mattapan,2023.0,Working Without Electrical Permit,1
+2409,Mattapan,2024.0,Building or Use of Premise req,1
+2410,Mattapan,2024.0,Defective Plumbing,1
+2411,Mattapan,2024.0,Emergency Openings,1
+2412,Mattapan,2024.0,Failed to comply w permit term,3
+2413,Mattapan,2024.0,Failure to Obtain Permit,23
+2414,Mattapan,2024.0,Maintenance,21
+2415,Mattapan,2024.0,Means of Egress,1
+2416,Mattapan,2024.0,No use of premises permit:,2
+2417,Mattapan,2024.0,Number of Exits or Exit Access,1
+2418,Mattapan,2024.0,Permits,1
+2419,Mattapan,2024.0,Principle #18,1
+2420,Mattapan,2024.0,Protection of Adj. Property,1
+2421,Mattapan,2024.0,Unsafe Structures,7
+2423,Mission Hill,2010.0,Building or Use of Premise req,1
+2424,Mission Hill,2010.0,Certificate of Inspection,3
+2425,Mission Hill,2010.0,Compliance with Permit,1
+2426,Mission Hill,2010.0,Egress,1
+2427,Mission Hill,2010.0,Emergency Escape & Rescue,1
+2428,Mission Hill,2010.0,Failure to secure permit,1
+2429,Mission Hill,2010.0,Fire Escape Affidavit,1
+2430,Mission Hill,2010.0,Inspections,5
+2431,Mission Hill,2010.0,Maintenance,1
+2432,Mission Hill,2010.0,Maintenance of Exterior,1
+2433,Mission Hill,2010.0,Protection of Adj. Property,1
+2434,Mission Hill,2010.0,Right of Entry,1
+2435,Mission Hill,2010.0,Unsafe Maintenance,6
+2436,Mission Hill,2010.0,Unsafe Structures,1
+2437,Mission Hill,2010.0,Unsafe and Dangerous,4
+2438,Mission Hill,2011.0,Building or Use of Premise req,2
+2439,Mission Hill,2011.0,Certificate of Inspection,2
+2440,Mission Hill,2011.0,Failure to Obtain Permit,10
+2441,Mission Hill,2011.0,Failure to secure permit,1
+2442,Mission Hill,2011.0,Inspections,3
+2443,Mission Hill,2011.0,Maintenance,7
+2444,Mission Hill,2011.0,Means of Egress,1
+2445,Mission Hill,2011.0,Smoke Detectors,1
+2446,Mission Hill,2011.0,Unsafe Maintenance,3
+2447,Mission Hill,2011.0,Unsafe Structure,1
+2448,Mission Hill,2011.0,Unsafe and Dangerous,5
+2449,Mission Hill,2012.0,Building or Use of Premise req,2
+2450,Mission Hill,2012.0,Certificate of Occupancy,1
+2451,Mission Hill,2012.0,Failure to Obtain Permit,7
+2452,Mission Hill,2012.0,Failure to Secure Permit,9
+2453,Mission Hill,2012.0,Inspections,1
+2454,Mission Hill,2012.0,Maintenance,1
+2455,Mission Hill,2012.0,Permits,1
+2456,Mission Hill,2012.0,Securing & Supporting,1
+2457,Mission Hill,2012.0,Suspension or Revocation,1
+2458,Mission Hill,2012.0,Unlawful Acts,2
+2459,Mission Hill,2012.0,Unlawful Continuance,1
+2460,Mission Hill,2012.0,Unsafe Maintenance,1
+2461,Mission Hill,2012.0,Unsafe Structures,3
+2462,Mission Hill,2012.0,Unsafe and Dangerous,8
+2463,Mission Hill,2013.0,Amended Constuction documanets,1
+2464,Mission Hill,2013.0,Building or Use of Premise req,3
+2465,Mission Hill,2013.0,Certificate of Occupancy,2
+2466,Mission Hill,2013.0,Emergency escape and rescue,1
+2467,Mission Hill,2013.0,Failure to Obtain Permit,13
+2468,Mission Hill,2013.0,Failure to Secure Permit,2
+2469,Mission Hill,2013.0,Failure to call Inspections,1
+2470,Mission Hill,2013.0,Inspections,2
+2471,Mission Hill,2013.0,Occupancy,1
+2472,Mission Hill,2013.0,Protection of Adj. Property,1
+2473,Mission Hill,2013.0,Unsafe and Dangerous,14
+2474,Mission Hill,2014.0,Certificate of Occupancy,3
+2475,Mission Hill,2014.0,Egress,1
+2476,Mission Hill,2014.0,Emergency Escape & Rescue,1
+2477,Mission Hill,2014.0,Failed to comply w permit term,1
+2478,Mission Hill,2014.0,Failure to Obtain Permit,5
+2479,Mission Hill,2014.0,Failure to Secure Permit,3
+2480,Mission Hill,2014.0,Failure to secure permit,1
+2481,Mission Hill,2014.0,Right of Entry,4
+2482,Mission Hill,2014.0,Unsafe and Dangerous,6
+2483,Mission Hill,2015.0,Building or Use of Premise req,1
+2484,Mission Hill,2015.0,Certificate of Inspection,1
+2485,Mission Hill,2015.0,Failure to Obtain Permit,13
+2486,Mission Hill,2015.0,Flexible Metal Conduit,1
+2487,Mission Hill,2015.0,Foyer & Lobbies,1
+2488,Mission Hill,2015.0,Inspections,3
+2489,Mission Hill,2015.0,Maintenance,5
+2490,Mission Hill,2015.0,Periodic Inspections,4
+2491,Mission Hill,2015.0,Protection of Adj. Property,1
+2492,Mission Hill,2015.0,Right of Entry,5
+2493,Mission Hill,2015.0,Testing & Certification,5
+2494,Mission Hill,2015.0,Unsafe and Dangerous,11
+2495,Mission Hill,2016.0,Exits Maintained,1
+2496,Mission Hill,2017.0,Failure to Obtain Permit,1
+2497,Mission Hill,2017.0,Unsafe and Dangerous,5
+2498,Mission Hill,2018.0,Failure to Obtain Permit,1
+2499,Mission Hill,2018.0,Maintenance,1
+2500,Mission Hill,2018.0,Right of Entry,1
+2501,Mission Hill,2018.0,Testing & Certification,2
+2502,Mission Hill,2018.0,Unsafe and Dangerous,2
+2503,Mission Hill,2019.0,Certificate of Occupancy,1
+2504,Mission Hill,2019.0,Failure to Obtain Permit,3
+2505,Mission Hill,2019.0,Maintenance,1
+2506,Mission Hill,2019.0,Maintenance of Means of Egress,1
+2507,Mission Hill,2019.0,Number of Exits or Exit Access,2
+2508,Mission Hill,2019.0,Right of Entry,3
+2509,Mission Hill,2019.0,Unsafe and Dangerous,3
+2510,Mission Hill,2020.0,Failure to Obtain Permit,2
+2511,Mission Hill,2020.0,Maintenance,1
+2512,Mission Hill,2020.0,No use of premises permit:,2
+2513,Mission Hill,2021.0,Failure to Obtain Permit,1
+2514,Mission Hill,2021.0,Maintenance,1
+2515,Mission Hill,2021.0,Unsafe Building & Structures,1
+2516,Mission Hill,2021.0,Unsafe and Dangerous,2
+2517,Mission Hill,2022.0,Failure to Obtain Permit,5
+2518,Mission Hill,2022.0,Maintenance,4
+2519,Mission Hill,2022.0,Reg. Access to Roof Areas,1
+2520,Mission Hill,2022.0,Unsafe Structures,3
+2521,Mission Hill,2023.0,Emergency Escape & Rescue,1
+2522,Mission Hill,2023.0,Failure to Obtain Permit,4
+2523,Mission Hill,2023.0,Maintenance,6
+2524,Mission Hill,2023.0,Testing & Certification,1
+2525,Mission Hill,2023.0,Unsafe Structure,1
+2526,Mission Hill,2023.0,Unsafe Structures,4
+2527,Mission Hill,2024.0,Accessible Means of Egress,1
+2528,Mission Hill,2024.0,Failed to comply w permit term,3
+2529,Mission Hill,2024.0,Failure to Obtain Permit,6
+2530,Mission Hill,2024.0,Maintenance,13
+2531,Mission Hill,2024.0,Maintenance of Means of Egress,3
+2532,Mission Hill,2024.0,Mass State Plumbing Code,4
+2533,Mission Hill,2024.0,Periodic Inspections,1
+2534,Mission Hill,2024.0,Testing & Certification,6
+2535,Mission Hill,2024.0,Unsafe Structures,6
+2536,Mission Hill,2024.0,Working Without a Permit,2
+2537,North End,2010.0,Inspections,3
+2538,North End,2010.0,Maintenance,3
+2539,North End,2010.0,Protection of Adj. Property,1
+2540,North End,2010.0,Smoke Detectors,1
+2541,North End,2010.0,Specialized codes,1
+2542,North End,2010.0,Testing & Certification,1
+2543,North End,2011.0,Building or Use of Premise req,1
+2544,North End,2011.0,Certificate of Occupancy,1
+2545,North End,2011.0,Electrical Work w/out a Permit,1
+2546,North End,2011.0,Failure to Obtain Permit,1
+2547,North End,2011.0,Guarding of Live parts,1
+2548,North End,2011.0,Maintenance,1
+2549,North End,2011.0,Permits,2
+2550,North End,2011.0,Unsafe Structures,3
+2551,North End,2011.0,Unsafe and Dangerous,1
+2552,North End,2012.0,Accessible Means of Egress,1
+2553,North End,2012.0,Failed to comply w permit term,2
+2554,North End,2012.0,Failure to Obtain Permit,5
+2555,North End,2012.0,Failure to Secure Permit,1
+2556,North End,2012.0,Maintenance,2
+2557,North End,2012.0,Other Laws,1
+2558,North End,2012.0,Right of Entry,2
+2559,North End,2012.0,Testing & Certification,1
+2560,North End,2012.0,Unsafe Structures,1
+2561,North End,2012.0,Unsafe and Dangerous,7
+2562,North End,2013.0,Certificate of Occupancy,2
+2563,North End,2013.0,Emergency Power Illumination,1
+2564,North End,2013.0,Exit Continuity,1
+2565,North End,2013.0,Exit Passageways,1
+2566,North End,2013.0,Exits Maintained,1
+2567,North End,2013.0,Failed to comply w PRMT terms,1
+2568,North End,2013.0,Failed to comply w permit term,4
+2569,North End,2013.0,Failure to Obtain Permit,8
+2570,North End,2013.0,Fire Protection Systems,1
+2571,North End,2013.0,Inspections,1
+2572,North End,2013.0,Means of Egress,1
+2573,North End,2013.0,Means of egress doors,1
+2574,North End,2013.0,Number of Exits or Exit Access,1
+2575,North End,2013.0,Periodic Inspections,2
+2576,North End,2013.0,Testing & Certification,8
+2577,North End,2013.0,Unsafe and Dangerous,9
+2578,North End,2014.0,Certificate of Occupancy,3
+2579,North End,2014.0,Covers & Canopies,1
+2580,North End,2014.0,Failed to comply w permit term,3
+2581,North End,2014.0,Failure to Obtain Permit,9
+2582,North End,2014.0,Fire Walls,1
+2583,North End,2014.0,Maintenance,1
+2584,North End,2014.0,Protection of Adj. Property,2
+2585,North End,2014.0,Secured in Place,1
+2586,North End,2014.0,Support Wires,1
+2587,North End,2014.0,Testing & Certification,37
+2588,North End,2014.0,Unsafe and Dangerous,10
+2589,North End,2015.0,Access to Public Way,1
+2590,North End,2015.0,Building or Use of Premise req,1
+2591,North End,2015.0,Certificate of Occupancy,1
+2592,North End,2015.0,Exit Continuity,1
+2593,North End,2015.0,Failed to comply w permit term,1
+2594,North End,2015.0,Failure to Obtain Permit,7
+2595,North End,2015.0,Fire Walls,1
+2596,North End,2015.0,Maintenance,2
+2597,North End,2015.0,Means of Egress,1
+2598,North End,2015.0,Protection of Adj. Property,2
+2599,North End,2015.0,Referenced Codes,1
+2600,North End,2015.0,Right of Entry,1
+2601,North End,2015.0,Testing & Certification,22
+2602,North End,2015.0,Unsafe and Dangerous,18
+2603,North End,2016.0,Exit Passageways,1
+2604,North End,2016.0,Failed to comply w permit term,1
+2605,North End,2016.0,Failure to Obtain Permit,5
+2606,North End,2016.0,Maintenance,3
+2607,North End,2016.0,Protection of Adj. Property,2
+2608,North End,2016.0,Stop Work Order,1
+2609,North End,2016.0,Temporary Occupancy,1
+2610,North End,2016.0,Testing & Certification,17
+2611,North End,2016.0,Unsafe and Dangerous,6
+2612,North End,2017.0,Exit Passageways,1
+2613,North End,2017.0,Failed to comply w permit term,1
+2614,North End,2017.0,Failure to Obtain Permit,2
+2615,North End,2017.0,Fire Protection Systems,1
+2616,North End,2017.0,Maintenance,2
+2617,North End,2017.0,Testing & Certification,6
+2618,North End,2017.0,Unsafe and Dangerous,13
+2619,North End,2018.0,Failure to Obtain Permit,2
+2620,North End,2018.0,Maintenance,3
+2621,North End,2018.0,Testing & Certification,2
+2622,North End,2018.0,Unsafe and Dangerous,6
+2623,North End,2019.0,Exhaust Installation,1
+2624,North End,2019.0,Failure to Obtain Permit,6
+2625,North End,2019.0,Fire Protection Systems,1
+2626,North End,2019.0,Maintenance,4
+2627,North End,2019.0,Right of Entry,1
+2628,North End,2019.0,Testing & Certification,8
+2629,North End,2019.0,Unsafe and Dangerous,13
+2630,North End,2020.0,Failure to Obtain Permit,2
+2631,North End,2020.0,Maintenance,6
+2632,North End,2020.0,Testing & Certification,2
+2633,North End,2020.0,Unsafe and Dangerous,1
+2634,North End,2021.0,Certificate of Occupancy,1
+2635,North End,2021.0,Failure to Obtain Permit,3
+2636,North End,2021.0,Inspection of exterior walls.,1
+2637,North End,2021.0,Maintenance,9
+2638,North End,2021.0,Right of Entry,1
+2639,North End,2021.0,Testing & Certification,5
+2640,North End,2021.0,Unsafe and Dangerous,4
+2641,North End,2021.0,Validity of Permit,1
+2642,North End,2022.0,Certificate of Occupancy,1
+2643,North End,2022.0,Failure to Obtain Permit,2
+2644,North End,2022.0,Maintenance,4
+2645,North End,2022.0,Right of Entry,1
+2646,North End,2022.0,Testing & Certification,22
+2647,North End,2023.0,Failed to comply w permit term,2
+2648,North End,2023.0,Maintenance,3
+2649,North End,2023.0,Suspension or Revocation,1
+2650,North End,2023.0,Testing & Certification,7
+2651,North End,2023.0,Unsafe Structures,3
+2652,North End,2024.0,Failed to comply w permit term,1
+2653,North End,2024.0,Failure to Obtain Permit,1
+2654,North End,2024.0,Maintenance,6
+2655,North End,2024.0,Testing & Certification,10
+2656,North End,2024.0,Unsafe and Dangerous,1
+2658,Roslindale,2010.0,Building or Use of Premise req,3
+2659,Roslindale,2010.0,Certificate of Inspection,1
+2660,Roslindale,2010.0,Clearance on Buildings,1
+2661,Roslindale,2010.0,Compliance with Permit,1
+2662,Roslindale,2010.0,Egress,1
+2663,Roslindale,2010.0,Emergency Escape and Rescue Op,1
+2664,Roslindale,2010.0,Failure to secure permit,9
+2665,Roslindale,2010.0,Inspections,5
+2666,Roslindale,2010.0,Maintenance,3
+2667,Roslindale,2010.0,Maintenance of Exterior,1
+2668,Roslindale,2010.0,Number of Exits or Exit Access,1
+2669,Roslindale,2010.0,Outdoor Sale & Display,1
+2670,Roslindale,2010.0,Right of Entry,2
+2671,Roslindale,2010.0,Securing and Supporting,1
+2672,Roslindale,2010.0,Smoke Detectors,1
+2673,Roslindale,2010.0,Unsafe Maintenance,6
+2674,Roslindale,2010.0,Unsafe Structure,1
+2675,Roslindale,2010.0,Unsafe and Dangerous,1
+2676,Roslindale,2010.0,Workmanship,1
+2677,Roslindale,2011.0,2011 Mass Elec. Code Rule 1,1
+2678,Roslindale,2011.0,Building or Use of Premise req,3
+2679,Roslindale,2011.0,Certificate of Occupancy,2
+2680,Roslindale,2011.0,Covers & Canopies,1
+2681,Roslindale,2011.0,Electrical Work w/out Permit,2
+2682,Roslindale,2011.0,Failure to Obtain Permit,3
+2683,Roslindale,2011.0,Failure to Secure Permit,3
+2684,Roslindale,2011.0,Failure to secure permit,3
+2685,Roslindale,2011.0,Inspections,4
+2686,Roslindale,2011.0,Maintenance,11
+2687,Roslindale,2011.0,Other Inspections,1
+2688,Roslindale,2011.0,Permits,1
+2689,Roslindale,2011.0,Right of Entry,3
+2690,Roslindale,2011.0,Securing and Supporting,2
+2691,Roslindale,2011.0,Unsafe & Dangerous,1
+2692,Roslindale,2011.0,Unsafe Maintanence,1
+2693,Roslindale,2011.0,Unsafe Structures,2
+2694,Roslindale,2011.0,Unsafe and Dangerous,4
+2695,Roslindale,2011.0,Use of Premises,2
+2696,Roslindale,2011.0,Uses not permitted,2
+2697,Roslindale,2011.0,Working Space,1
+2698,Roslindale,2012.0,Building or Use of Premise req,4
+2699,Roslindale,2012.0,Certificate of Occupancy,1
+2700,Roslindale,2012.0,Construction Documents,1
+2701,Roslindale,2012.0,Continuity,1
+2702,Roslindale,2012.0,Electrical Work w/out Permit,2
+2703,Roslindale,2012.0,Failed to comply w permit term,1
+2704,Roslindale,2012.0,Failure to Obtain Permit,19
+2705,Roslindale,2012.0,Failure to Secure Permit,2
+2706,Roslindale,2012.0,Fire Walls,1
+2707,Roslindale,2012.0,"Installation, uses permitted",1
+2708,Roslindale,2012.0,Maintenance,1
+2709,Roslindale,2012.0,Mass. State Electrical Code,1
+2710,Roslindale,2012.0,Proper Maintenance,1
+2711,Roslindale,2012.0,Right of Entry,3
+2712,Roslindale,2012.0,Rule 10,1
+2713,Roslindale,2012.0,Seperation Walls,1
+2714,Roslindale,2012.0,Unlawful Continuance,1
+2715,Roslindale,2012.0,Unsafe & Dangerous,2
+2716,Roslindale,2012.0,Unsafe and Dangerous,9
+2717,Roslindale,2012.0,Uses not permitted,1
+2718,Roslindale,2013.0,Building or Use of Premise req,1
+2719,Roslindale,2013.0,Deteriorating Agents,1
+2720,Roslindale,2013.0,Failed to comply w permit term,3
+2721,Roslindale,2013.0,Failure to Obtain Permit,16
+2722,Roslindale,2013.0,Failure to Secure Permit,4
+2723,Roslindale,2013.0,N.F.P.A.-Ventilation,1
+2724,Roslindale,2013.0,Periodic Inspections,4
+2725,Roslindale,2013.0,Permits,1
+2726,Roslindale,2013.0,Right of Entry,4
+2727,Roslindale,2013.0,Size and Rating,1
+2728,Roslindale,2013.0,Unlawful Continuance,1
+2729,Roslindale,2013.0,Unsafe and Dangerous,13
+2730,Roslindale,2013.0,Uses not permitted,1
+2731,Roslindale,2013.0,Wiring Integrity,1
+2732,Roslindale,2014.0,Building or Use of Premise req,2
+2733,Roslindale,2014.0,Certificate of Occupancy,4
+2734,Roslindale,2014.0,Enforcement,1
+2735,Roslindale,2014.0,Failure to Obtain Permit,26
+2736,Roslindale,2014.0,Prohibited Locations,1
+2737,Roslindale,2014.0,Protection of Adj. Property,1
+2738,Roslindale,2014.0,Right of Entry,5
+2739,Roslindale,2014.0,Unlawful Continuance,1
+2740,Roslindale,2014.0,Unsafe and Dangerous,16
+2741,Roslindale,2015.0,Failure to Obtain Permit,20
+2742,Roslindale,2015.0,Maintenance,1
+2743,Roslindale,2015.0,Right of Entry,1
+2744,Roslindale,2015.0,Suspension or Revocation,1
+2745,Roslindale,2015.0,Unsafe and Dangerous,10
+2746,Roslindale,2016.0,Building or Use of Premise req,1
+2747,Roslindale,2016.0,Failed to comply w permit term,1
+2748,Roslindale,2016.0,Failure to Obtain Permit,13
+2749,Roslindale,2016.0,Failure to Secure Permit,1
+2750,Roslindale,2016.0,Maintenance,1
+2751,Roslindale,2016.0,Right of Entry,1
+2752,Roslindale,2016.0,Unsafe and Dangerous,12
+2753,Roslindale,2017.0,Acts 1956 as Amended,1
+2754,Roslindale,2017.0,Failure to Obtain Permit,18
+2755,Roslindale,2017.0,Maintenance,5
+2756,Roslindale,2017.0,No use of premises permit:,1
+2757,Roslindale,2017.0,Retaining Wall,1
+2758,Roslindale,2017.0,Unsafe and Dangerous,12
+2759,Roslindale,2018.0,Emergency escape and rescue,1
+2760,Roslindale,2018.0,Failed to comply w permit term,4
+2761,Roslindale,2018.0,Failure to Obtain Permit,14
+2762,Roslindale,2018.0,Fire Extinguishers,1
+2763,Roslindale,2018.0,Maintenance,1
+2764,Roslindale,2018.0,Protection of Adj. Property,2
+2765,Roslindale,2018.0,Unsafe and Dangerous,11
+2766,Roslindale,2019.0,Certificate of Occupancy,1
+2767,Roslindale,2019.0,Failure to Obtain Permit,7
+2768,Roslindale,2019.0,Maintenance,3
+2769,Roslindale,2019.0,Reg. of Construction Hour,1
+2770,Roslindale,2019.0,Unsafe and Dangerous,4
+2771,Roslindale,2019.0,Validity of Permit,1
+2772,Roslindale,2020.0,Failure to Obtain Permit,13
+2773,Roslindale,2020.0,Inspections,1
+2774,Roslindale,2020.0,Maintenance,3
+2775,Roslindale,2020.0,No use of premises permit:,2
+2776,Roslindale,2020.0,Unsafe and Dangerous,5
+2777,Roslindale,2021.0,Failed to comply w permit term,2
+2778,Roslindale,2021.0,Failure to Obtain Permit,3
+2779,Roslindale,2021.0,Unsafe Structures,2
+2780,Roslindale,2021.0,Unsafe and Dangerous,3
+2781,Roslindale,2022.0,Building or Use of Premise req,1
+2782,Roslindale,2022.0,Certificate of Occupancy,1
+2783,Roslindale,2022.0,Failed to comply w permit term,1
+2784,Roslindale,2022.0,Failure to Obtain Permit,8
+2785,Roslindale,2022.0,Maintenance,1
+2786,Roslindale,2022.0,Testing & Certification,3
+2787,Roslindale,2022.0,Unsafe Structures,8
+2788,Roslindale,2023.0,Expansion Fittings,1
+2789,Roslindale,2023.0,Failure to Obtain Permit,3
+2790,Roslindale,2023.0,Maintenance,3
+2791,Roslindale,2023.0,Protection of Adj. Property,1
+2792,Roslindale,2023.0,Right of Entry,1
+2793,Roslindale,2023.0,Testing & Certification,2
+2794,Roslindale,2023.0,Unsafe Structures,9
+2795,Roslindale,2024.0,Electrical Connections,1
+2796,Roslindale,2024.0,Failure to Obtain Permit,10
+2797,Roslindale,2024.0,Inspections,1
+2798,Roslindale,2024.0,Maintenance,6
+2799,Roslindale,2024.0,Maintenance of Means of Egress,1
+2800,Roslindale,2024.0,Permits,2
+2801,Roslindale,2024.0,Right of Entry,1
+2802,Roslindale,2024.0,Testing & Certification,1
+2803,Roslindale,2024.0,Unsafe Structures,2
+2806,Roxbury,2010.0,Application for Permit,1
+2807,Roxbury,2010.0,Building or Use of Premise req,4
+2808,Roxbury,2010.0,Certificate of Inspection,5
+2809,Roxbury,2010.0,Compliance with Permit,2
+2810,Roxbury,2010.0,Egress,1
+2811,Roxbury,2010.0,Electrical equipment integrity,1
+2812,Roxbury,2010.0,Emergency Escape & Rescue,1
+2813,Roxbury,2010.0,Failed to comply w PRMT terms,3
+2814,Roxbury,2010.0,Failure to call for req Insp.,1
+2815,Roxbury,2010.0,Failure to secure permit,6
+2816,Roxbury,2010.0,Fire Escape Affidavit,1
+2817,Roxbury,2010.0,Fire Wall/Fire Resistance,1
+2818,Roxbury,2010.0,Guarding of live parts,1
+2819,Roxbury,2010.0,Illegally occupied prior to CO,3
+2820,Roxbury,2010.0,Inspections,41
+2821,Roxbury,2010.0,Maintenance,4
+2822,Roxbury,2010.0,Maintenance of Exterior,1
+2823,Roxbury,2010.0,Mass State Plumbing Code,1
+2824,Roxbury,2010.0,Means of Egress,1
+2825,Roxbury,2010.0,Protection of Adj. Property,1
+2826,Roxbury,2010.0,Remove/Making Safe Structure,1
+2827,Roxbury,2010.0,Right of Entry,4
+2828,Roxbury,2010.0,Smoke Detectors,1
+2829,Roxbury,2010.0,Unsafe & Dangerous,4
+2830,Roxbury,2010.0,Unsafe Maintenance,28
+2831,Roxbury,2010.0,Unsafe Structure,5
+2832,Roxbury,2010.0,Unsafe Structures,4
+2833,Roxbury,2010.0,Unsafe and Dangerous,49
+2834,Roxbury,2010.0,Ventilation,1
+2835,Roxbury,2011.0,Arc-Flash Hazard Warning,1
+2836,Roxbury,2011.0,Boxes Construct & Install,1
+2837,Roxbury,2011.0,Building or Use of Premise req,12
+2838,Roxbury,2011.0,Certificate of Inspection,5
+2839,Roxbury,2011.0,Certificate of Occupancy,3
+2840,Roxbury,2011.0,Construction Safeguards,1
+2841,Roxbury,2011.0,Covers,1
+2842,Roxbury,2011.0,Electrical Work w/out Permit,1
+2843,Roxbury,2011.0,Electrical Work w/out a Permit,2
+2844,Roxbury,2011.0,Failed to comply w PRMT terms,1
+2845,Roxbury,2011.0,Failure to Obtain Permit,35
+2846,Roxbury,2011.0,Failure to secure permit,5
+2847,Roxbury,2011.0,Fire Alarm & Detection,1
+2848,Roxbury,2011.0,Guarding of Live parts,4
+2849,Roxbury,2011.0,Illegally occupied prior to CO,2
+2850,Roxbury,2011.0,Inspections,10
+2851,Roxbury,2011.0,Maintenance,28
+2852,Roxbury,2011.0,Maintenance of Exterior,3
+2853,Roxbury,2011.0,Manner of Removal,1
+2854,Roxbury,2011.0,Mass State Plumbing Code,2
+2855,Roxbury,2011.0,Means of Egress,1
+2856,Roxbury,2011.0,Mechanical Execution of Work,4
+2857,Roxbury,2011.0,Minimum Requirements,1
+2858,Roxbury,2011.0,Mounting & Cooling Equipment,1
+2859,Roxbury,2011.0,Openings to be closed.,2
+2860,Roxbury,2011.0,Other Laws,3
+2861,Roxbury,2011.0,Protection of Adj. Property,1
+2862,Roxbury,2011.0,Right of Entry,4
+2863,Roxbury,2011.0,Securing & Supporting,2
+2864,Roxbury,2011.0,Securing and Supporting,3
+2865,Roxbury,2011.0,Side Yard Requirements,1
+2866,Roxbury,2011.0,Smoke Detectors,1
+2867,Roxbury,2011.0,Unsafe & Dangerous,2
+2868,Roxbury,2011.0,Unsafe Maintenance,5
+2869,Roxbury,2011.0,Unsafe Structure,1
+2870,Roxbury,2011.0,Unsafe Structures,14
+2871,Roxbury,2011.0,Unsafe and Dangerous,23
+2872,Roxbury,2011.0,Unused openings,2
+2873,Roxbury,2011.0,Uses not Permitted,1
+2874,Roxbury,2011.0,Uses not permitted,3
+2875,Roxbury,2011.0,Wiring Integrity,1
+2876,Roxbury,2012.0,Accessible Means of Egress,2
+2877,Roxbury,2012.0,Arcing Parts,1
+2878,Roxbury,2012.0,Building or Use of Premise req,7
+2879,Roxbury,2012.0,Certificate of Inspection,1
+2880,Roxbury,2012.0,Certificate of Occupancy,6
+2881,Roxbury,2012.0,Compliance with Permit,1
+2882,Roxbury,2012.0,Damp or Wet Locations,1
+2883,Roxbury,2012.0,Deteriorating Agents,1
+2884,Roxbury,2012.0,Egress thru Intervening Spaces,1
+2885,Roxbury,2012.0,Electrical Work w/out Permit,1
+2886,Roxbury,2012.0,Electrical Work w/out a Permit,2
+2887,Roxbury,2012.0,Failed to comply w permit term,6
+2888,Roxbury,2012.0,Failure to Obtain Permit,47
+2889,Roxbury,2012.0,Failure to Secure Permit,16
+2890,Roxbury,2012.0,Failure to secure permit,4
+2891,Roxbury,2012.0,Foyer & Lobbies,1
+2892,Roxbury,2012.0,Guarding of Live parts,4
+2893,Roxbury,2012.0,Handrails,1
+2894,Roxbury,2012.0,Horizontal Clearances,1
+2895,Roxbury,2012.0,Inspections,4
+2896,Roxbury,2012.0,Maintenance,7
+2897,Roxbury,2012.0,Mass State Plumbing Code,1
+2898,Roxbury,2012.0,Mass. State Electrical Code,2
+2899,Roxbury,2012.0,Means of Egress,2
+2900,Roxbury,2012.0,Mechanical Execution of Work,3
+2901,Roxbury,2012.0,Meter Tapping,2
+2902,Roxbury,2012.0,Occupancy,1
+2903,Roxbury,2012.0,On Premise Signs,2
+2904,Roxbury,2012.0,Openings to be closed.,1
+2905,Roxbury,2012.0,Other Laws,1
+2906,Roxbury,2012.0,Periodic Inspections,2
+2907,Roxbury,2012.0,Permits,2
+2908,Roxbury,2012.0,Pull & Junction Boxes,1
+2909,Roxbury,2012.0,Right of Entry,10
+2910,Roxbury,2012.0,Securing & Supporting,2
+2911,Roxbury,2012.0,Securing and Supporting,1
+2912,Roxbury,2012.0,Suspension or Revocation,1
+2913,Roxbury,2012.0,Temporary Wiring Methods,1
+2914,Roxbury,2012.0,Testing & Certification,1
+2915,Roxbury,2012.0,Unlawful Acts,2
+2916,Roxbury,2012.0,Unlawful Continuance,1
+2917,Roxbury,2012.0,Unsafe Maintenance,1
+2918,Roxbury,2012.0,Unsafe Structure,2
+2919,Roxbury,2012.0,Unsafe Structures,6
+2920,Roxbury,2012.0,Unsafe and Dangerous,61
+2921,Roxbury,2012.0,Uses not permitted,3
+2922,Roxbury,2012.0,Wiring,1
+2923,Roxbury,2012.0,Wiring Methods,1
+2924,Roxbury,2012.0,Working Without a Permit,1
+2925,Roxbury,2013.0,Amended Constuction documanets,1
+2926,Roxbury,2013.0,Building or Use of Premise req,11
+2927,Roxbury,2013.0,Certificate of Occupancy,4
+2928,Roxbury,2013.0,Deteriorating Agents,1
+2929,Roxbury,2013.0,Electrical Connections,1
+2930,Roxbury,2013.0,Emergency Escape & Rescue,1
+2931,Roxbury,2013.0,Emergency escape and rescue,1
+2932,Roxbury,2013.0,Exit passageways,1
+2933,Roxbury,2013.0,Failed to comply w permit term,5
+2934,Roxbury,2013.0,Failure to Obtain Permit,57
+2935,Roxbury,2013.0,Failure to Secure Permit,3
+2936,Roxbury,2013.0,Failure to call Inspections,1
+2937,Roxbury,2013.0,Fire Wall/Fire Resistance,1
+2938,Roxbury,2013.0,Foyer & Lobbies,1
+2939,Roxbury,2013.0,Guarding of Live parts,1
+2940,Roxbury,2013.0,Inspections,4
+2941,Roxbury,2013.0,Locks and Latches,1
+2942,Roxbury,2013.0,Means of Egress,1
+2943,Roxbury,2013.0,Mechanical Execution of Work,3
+2944,Roxbury,2013.0,Meter Tapping,1
+2945,Roxbury,2013.0,Minimum Requirements,1
+2946,Roxbury,2013.0,Number of Services,1
+2947,Roxbury,2013.0,Occupancy,1
+2948,Roxbury,2013.0,Periodic Inspections,3
+2949,Roxbury,2013.0,Permits,1
+2950,Roxbury,2013.0,Permits to perform gas fitting,1
+2951,Roxbury,2013.0,Protection of Adj. Property,2
+2952,Roxbury,2013.0,Protection of conductors,1
+2953,Roxbury,2013.0,Revocation of Certificate,1
+2954,Roxbury,2013.0,Right of Entry,5
+2955,Roxbury,2013.0,Testing & Certification,7
+2956,Roxbury,2013.0,Ungrounded Conducters,1
+2957,Roxbury,2013.0,Unsafe & Dangerous,4
+2958,Roxbury,2013.0,Unsafe and Dangerous,70
+2959,Roxbury,2013.0,Uses not permitted,3
+2960,Roxbury,2013.0,Working Without a Permit,1
+2961,Roxbury,2014.0,Arcing Parts,1
+2962,Roxbury,2014.0,Building or Use of Premise req,1
+2963,Roxbury,2014.0,Certificate of Inspection,1
+2964,Roxbury,2014.0,Certificate of Occupancy,11
+2965,Roxbury,2014.0,Commercial Kitchen Hoods,1
+2966,Roxbury,2014.0,Compliance with Permit,1
+2967,Roxbury,2014.0,Deteriorating Agents,1
+2968,Roxbury,2014.0,Egress,1
+2969,Roxbury,2014.0,Electrical Connections,1
+2970,Roxbury,2014.0,Electrical Work w/out a Permit,1
+2971,Roxbury,2014.0,Emergency Escape & Rescue,1
+2972,Roxbury,2014.0,Failed to comply w permit term,3
+2973,Roxbury,2014.0,Failure to Obtain Permit,36
+2974,Roxbury,2014.0,Failure to Secure Permit,9
+2975,Roxbury,2014.0,Failure to secure permit,1
+2976,Roxbury,2014.0,Fire Protection Systems,1
+2977,Roxbury,2014.0,Guarding of Live Ports,1
+2978,Roxbury,2014.0,Guarding of Live parts,1
+2979,Roxbury,2014.0,Integrity of Elec. Equip.,1
+2980,Roxbury,2014.0,Maintenance,9
+2981,Roxbury,2014.0,Mass State Plumbing Code,3
+2982,Roxbury,2014.0,Mechanical Execution of Work,1
+2983,Roxbury,2014.0,Meter Tapping,1
+2984,Roxbury,2014.0,Monitoring Fire Alarm Systems,1
+2985,Roxbury,2014.0,Periodic Inspections,4
+2986,Roxbury,2014.0,Permits,1
+2987,Roxbury,2014.0,Permits to perform gas fitting,2
+2988,Roxbury,2014.0,Protection of Adj. Property,1
+2989,Roxbury,2014.0,Right of Entry,10
+2990,Roxbury,2014.0,Room Area,1
+2991,Roxbury,2014.0,Securing & Supporting,1
+2992,Roxbury,2014.0,Testing & Certification,6
+2993,Roxbury,2014.0,Unsafe and Dangerous,55
+2994,Roxbury,2014.0,Unused openings,1
+2995,Roxbury,2014.0,Uses not permitted,1
+2996,Roxbury,2015.0,Accessible Means of Egress,1
+2997,Roxbury,2015.0,Any structure for swimming,1
+2998,Roxbury,2015.0,Building or Use of Premise req,3
+2999,Roxbury,2015.0,Certificate of Inspection,2
+3000,Roxbury,2015.0,Certificate of Occupancy,4
+3001,Roxbury,2015.0,Emergency Escape,6
+3002,Roxbury,2015.0,Failed to comply w PRMT terms,1
+3003,Roxbury,2015.0,Failed to comply w permit term,4
+3004,Roxbury,2015.0,Failure to Obtain Permit,63
+3005,Roxbury,2015.0,Failure to Secure Permit,7
+3006,Roxbury,2015.0,Failure to secure permit,7
+3007,Roxbury,2015.0,Flexible Metal Conduit,1
+3008,Roxbury,2015.0,Foyer & Lobbies,1
+3009,Roxbury,2015.0,Inspections,4
+3010,Roxbury,2015.0,Locks and Latches,6
+3011,Roxbury,2015.0,Maintenance,23
+3012,Roxbury,2015.0,Means of Egress,1
+3013,Roxbury,2015.0,No use of premises permit:,1
+3014,Roxbury,2015.0,Periodic Inspections,5
+3015,Roxbury,2015.0,Protection of Adj. Property,2
+3016,Roxbury,2015.0,Required Inspections,1
+3017,Roxbury,2015.0,Right of Entry,10
+3018,Roxbury,2015.0,Stop Work Order,5
+3019,Roxbury,2015.0,Testing & Certification,11
+3020,Roxbury,2015.0,Unsafe and Dangerous,130
+3021,Roxbury,2015.0,Validity of Permit,1
+3022,Roxbury,2016.0,Certificate of Occupancy,2
+3023,Roxbury,2016.0,Exits Maintained,1
+3024,Roxbury,2016.0,Failed to comply w permit term,4
+3025,Roxbury,2016.0,Failure to Obtain Permit,33
+3026,Roxbury,2016.0,Failure to Secure Permit,2
+3027,Roxbury,2016.0,Fire Protection Systems,1
+3028,Roxbury,2016.0,Guarding of Live parts,1
+3029,Roxbury,2016.0,Installation,1
+3030,Roxbury,2016.0,Locks and Latches,1
+3031,Roxbury,2016.0,Maintenance,9
+3032,Roxbury,2016.0,Materials (A) Min. Standards,2
+3033,Roxbury,2016.0,Means of Egress,1
+3034,Roxbury,2016.0,No use of premises permit:,1
+3035,Roxbury,2016.0,Notice of Violation,1
+3036,Roxbury,2016.0,Number of Services,2
+3037,Roxbury,2016.0,Periodic Inspections,2
+3038,Roxbury,2016.0,Protection of Adj. Property,1
+3039,Roxbury,2016.0,Required Inspections,1
+3040,Roxbury,2016.0,Right of Entry,6
+3041,Roxbury,2016.0,Swimming Pools,1
+3042,Roxbury,2016.0,Testing and Maintenance,1
+3043,Roxbury,2016.0,Unsafe and Dangerous,40
+3044,Roxbury,2016.0,Working Space,1
+3045,Roxbury,2017.0,Accessible Means of Egress,2
+3046,Roxbury,2017.0,Building or Use of Premise req,1
+3047,Roxbury,2017.0,Certificate of Occupancy,2
+3048,Roxbury,2017.0,Door Hardware,1
+3049,Roxbury,2017.0,Door operations-Egress doors,1
+3050,Roxbury,2017.0,Failed to comply w permit term,5
+3051,Roxbury,2017.0,Failure to Obtain Permit,33
+3052,Roxbury,2017.0,Fire Protection Systems,1
+3053,Roxbury,2017.0,Illumination,1
+3054,Roxbury,2017.0,Locks and Latches,3
+3055,Roxbury,2017.0,Maintenance,9
+3056,Roxbury,2017.0,Number of Exits or Exit Access,1
+3057,Roxbury,2017.0,Periodic Inspections,3
+3058,Roxbury,2017.0,Protection of Adj. Property,3
+3059,Roxbury,2017.0,Required Inspections,1
+3060,Roxbury,2017.0,Revocation of Cert. of Occ.,3
+3061,Roxbury,2017.0,Right of Entry,2
+3062,Roxbury,2017.0,Security Grilles,1
+3063,Roxbury,2017.0,Testing & Certification,1
+3064,Roxbury,2017.0,Unsafe and Dangerous,39
+3065,Roxbury,2018.0,Building,1
+3066,Roxbury,2018.0,Building or Use of Premise req,2
+3067,Roxbury,2018.0,Certificate of Occupancy,1
+3068,Roxbury,2018.0,Emergency Escape,1
+3069,Roxbury,2018.0,Emergency Escape & Rescue,1
+3070,Roxbury,2018.0,Excessive Use of Ext. Cords,1
+3071,Roxbury,2018.0,Failed to comply w permit term,7
+3072,Roxbury,2018.0,Failure to Obtain Permit,33
+3073,Roxbury,2018.0,Failure to secure permit,2
+3074,Roxbury,2018.0,Locks and Latches,1
+3075,Roxbury,2018.0,Maintenance,11
+3076,Roxbury,2018.0,Means of Egress,1
+3077,Roxbury,2018.0,Periodic Inspections,1
+3078,Roxbury,2018.0,Permits,1
+3079,Roxbury,2018.0,Protection of Adj. Property,2
+3080,Roxbury,2018.0,Right of Entry,7
+3081,Roxbury,2018.0,Suspension or Revocation,1
+3082,Roxbury,2018.0,Testing & Certification,3
+3083,Roxbury,2018.0,Unsafe and Dangerous,36
+3084,Roxbury,2019.0,Accessible Means of Egress,1
+3085,Roxbury,2019.0,Building,3
+3086,Roxbury,2019.0,Building or Use of Premise req,1
+3087,Roxbury,2019.0,Certificate of Occupancy,2
+3088,Roxbury,2019.0,Electrical Connections,1
+3089,Roxbury,2019.0,Emergency Openings,1
+3090,Roxbury,2019.0,Emergency escape and rescue,1
+3091,Roxbury,2019.0,Failed to comply w permit term,11
+3092,Roxbury,2019.0,Failure to Obtain Permit,47
+3093,Roxbury,2019.0,Failure to secure permit,3
+3094,Roxbury,2019.0,Fire Protection Systems,5
+3095,Roxbury,2019.0,Inspections,1
+3096,Roxbury,2019.0,Maintenance,23
+3097,Roxbury,2019.0,Maintenance of Means of Egress,2
+3098,Roxbury,2019.0,Number of Exits or Exit Access,2
+3099,Roxbury,2019.0,Operational Constraints,1
+3100,Roxbury,2019.0,Periodic Inspections,6
+3101,Roxbury,2019.0,Protection of Adj. Property,4
+3102,Roxbury,2019.0,Protection of Pedestrians,1
+3103,Roxbury,2019.0,Reg. of Construction Hour,1
+3104,Roxbury,2019.0,Right of Entry,7
+3105,Roxbury,2019.0,Street Numbers,1
+3106,Roxbury,2019.0,Testing & Certification,6
+3107,Roxbury,2019.0,Unsafe and Dangerous,64
+3108,Roxbury,2019.0,Uses not Permitted,1
+3109,Roxbury,2019.0,Validity of Permit,2
+3110,Roxbury,2020.0,Building,1
+3111,Roxbury,2020.0,Building or Use of Premise req,5
+3112,Roxbury,2020.0,Certificate of Occupancy,4
+3113,Roxbury,2020.0,Emergency Escape & Rescue,2
+3114,Roxbury,2020.0,Exhaust Installation,4
+3115,Roxbury,2020.0,Failed to comply w permit term,6
+3116,Roxbury,2020.0,Failure to Obtain Permit,58
+3117,Roxbury,2020.0,Fire Protection Systems,1
+3118,Roxbury,2020.0,Inspections,5
+3119,Roxbury,2020.0,Maintenance,17
+3120,Roxbury,2020.0,Maintenance of Means of Egress,2
+3121,Roxbury,2020.0,No use of premises permit:,4
+3122,Roxbury,2020.0,Periodic Inspections,6
+3123,Roxbury,2020.0,Permits,1
+3124,Roxbury,2020.0,Protection of Adj. Property,1
+3125,Roxbury,2020.0,Reg. of Construction Hour,1
+3126,Roxbury,2020.0,Right of Entry,3
+3127,Roxbury,2020.0,Suspension or Revocation,2
+3128,Roxbury,2020.0,Testing & Certification,1
+3129,Roxbury,2020.0,Unlawful Continuance,1
+3130,Roxbury,2020.0,Unsafe Conditions,1
+3131,Roxbury,2020.0,Unsafe and Dangerous,45
+3132,Roxbury,2021.0,Certificate of Occupancy,3
+3133,Roxbury,2021.0,Elec work w/o per,1
+3134,Roxbury,2021.0,Emergency Openings,1
+3135,Roxbury,2021.0,Failed to comply w permit term,5
+3136,Roxbury,2021.0,Failure to Obtain Permit,41
+3137,Roxbury,2021.0,Inspections,4
+3138,Roxbury,2021.0,Maintenance,12
+3139,Roxbury,2021.0,No use of premises permit:,1
+3140,Roxbury,2021.0,Periodic Inspections,1
+3141,Roxbury,2021.0,Permits to perform gas fitting,1
+3142,Roxbury,2021.0,Right of Entry,3
+3143,Roxbury,2021.0,Stop Work Order,1
+3144,Roxbury,2021.0,Suspension or Revocation,1
+3145,Roxbury,2021.0,Testing & Certification,1
+3146,Roxbury,2021.0,Unlawful Continuance,1
+3147,Roxbury,2021.0,Unsafe Building & Structures,2
+3148,Roxbury,2021.0,Unsafe Structure,2
+3149,Roxbury,2021.0,Unsafe Structures,15
+3150,Roxbury,2021.0,Unsafe and Dangerous,36
+3151,Roxbury,2022.0,Certificate of Occupancy,1
+3152,Roxbury,2022.0,Defective material/workmanship,1
+3153,Roxbury,2022.0,Failed to comply w permit term,1
+3154,Roxbury,2022.0,Failure to Obtain Permit,36
+3155,Roxbury,2022.0,Fire Protection Systems,1
+3156,Roxbury,2022.0,Inspections,4
+3157,Roxbury,2022.0,Maintenance,13
+3158,Roxbury,2022.0,No use of premises permit:,1
+3159,Roxbury,2022.0,Number of Exits or Exit Access,1
+3160,Roxbury,2022.0,Periodic Inspections,1
+3161,Roxbury,2022.0,Reg. Access to Roof Areas,1
+3162,Roxbury,2022.0,Right of Entry,2
+3163,Roxbury,2022.0,Submittal Documents,1
+3164,Roxbury,2022.0,Testing & Certification,2
+3165,Roxbury,2022.0,Unsafe Structure,1
+3166,Roxbury,2022.0,Unsafe Structures,35
+3167,Roxbury,2022.0,Unsafe and Dangerous,2
+3168,Roxbury,2023.0,Accessible Means of Egress,1
+3169,Roxbury,2023.0,Certificate of Occupancy,3
+3170,Roxbury,2023.0,Covers & Canopies,1
+3171,Roxbury,2023.0,Defective Plumbing,1
+3172,Roxbury,2023.0,Emergency Escape & Rescue,1
+3173,Roxbury,2023.0,Failure to Obtain Permit,20
+3174,Roxbury,2023.0,Maintenance,19
+3175,Roxbury,2023.0,National Fuel Gas Code,1
+3176,Roxbury,2023.0,Serviceability,1
+3177,Roxbury,2023.0,Testing & Certification,2
+3178,Roxbury,2023.0,Unsafe Structure,1
+3179,Roxbury,2023.0,Unsafe Structures,17
+3180,Roxbury,2024.0,Accessible Means of Egress,1
+3181,Roxbury,2024.0,Building or Use of Premise req,1
+3182,Roxbury,2024.0,Certificate of Occupancy,2
+3183,Roxbury,2024.0,Emergency Escape & Rescue,1
+3184,Roxbury,2024.0,Failed to comply w permit term,6
+3185,Roxbury,2024.0,Failure to Obtain Permit,37
+3186,Roxbury,2024.0,Fire Protection Systems,1
+3187,Roxbury,2024.0,Guarding of Live parts,1
+3188,Roxbury,2024.0,Inspections,1
+3189,Roxbury,2024.0,Maintenance,52
+3190,Roxbury,2024.0,Maintenance of Means of Egress,3
+3191,Roxbury,2024.0,Mass State Plumbing Code,4
+3192,Roxbury,2024.0,No use of premises permit:,1
+3193,Roxbury,2024.0,Periodic Inspections,1
+3194,Roxbury,2024.0,Protection of Adj. Property,2
+3195,Roxbury,2024.0,Right of Entry,1
+3196,Roxbury,2024.0,Testing & Certification,15
+3197,Roxbury,2024.0,Unsafe Structures,15
+3198,Roxbury,2024.0,Unsafe and Dangerous,2
+3199,Roxbury,2024.0,Working Without a Permit,3
+3200,South Boston,2010.0,Abandoned Cable,1
+3201,South Boston,2010.0,Access to a Publicway,1
+3202,South Boston,2010.0,Building or Use of Premise req,2
+3203,South Boston,2010.0,Compliance with Permit,1
+3204,South Boston,2010.0,Deteriorating Agents,1
+3205,South Boston,2010.0,Electrical Rm Used for Storage,1
+3206,South Boston,2010.0,Failed to comply w PRMT terms,1
+3207,South Boston,2010.0,Illegally occupied prior to CO,4
+3208,South Boston,2010.0,Inspections,10
+3209,South Boston,2010.0,Maintenance,3
+3210,South Boston,2010.0,Maintenance of Exterior,5
+3211,South Boston,2010.0,Mechanical Execution of Work,3
+3212,South Boston,2010.0,Protection of Adj. Property,2
+3213,South Boston,2010.0,Revocation of Certificate,1
+3214,South Boston,2010.0,Stop Work Order,1
+3215,South Boston,2010.0,Unsafe & Dangerous,1
+3216,South Boston,2010.0,Unsafe Maintenance,4
+3217,South Boston,2010.0,Unsafe Structures,2
+3218,South Boston,2010.0,Unsafe and Dangerous,13
+3219,South Boston,2011.0,Building or Use of Premise req,2
+3220,South Boston,2011.0,Electrical Work w/out Permit,1
+3221,South Boston,2011.0,Exterior Wall Envelope,1
+3222,South Boston,2011.0,Failure to Comply w Bldg Code,1
+3223,South Boston,2011.0,Failure to Comply w. Code,1
+3224,South Boston,2011.0,Failure to Obtain Permit,1
+3225,South Boston,2011.0,Failure to secure permit,4
+3226,South Boston,2011.0,Improper Electrical Repair,1
+3227,South Boston,2011.0,Inspections,1
+3228,South Boston,2011.0,Maintenance,2
+3229,South Boston,2011.0,Mechanical Execution of Work,1
+3230,South Boston,2011.0,Permits,1
+3231,South Boston,2011.0,Referenced Codes,3
+3232,South Boston,2011.0,Removal/Making Structure Safe,1
+3233,South Boston,2011.0,Signage,1
+3234,South Boston,2011.0,Stop Work Order,1
+3235,South Boston,2011.0,Unsafe Structures,7
+3236,South Boston,2011.0,Unsafe and Dangerous,7
+3237,South Boston,2011.0,Wiring Integrity,1
+3238,South Boston,2012.0,Access to Public Way,3
+3239,South Boston,2012.0,Building or Use of Premise req,2
+3240,South Boston,2012.0,Certificate of Occupancy,1
+3241,South Boston,2012.0,Common area branch circuits,1
+3242,South Boston,2012.0,Deteriorating Agents,1
+3243,South Boston,2012.0,Dwelling unit branch circuits.,1
+3244,South Boston,2012.0,Exits,1
+3245,South Boston,2012.0,Failed to comply w permit term,1
+3246,South Boston,2012.0,Failure to Obtain Permit,12
+3247,South Boston,2012.0,Failure to Secure Permit,4
+3248,South Boston,2012.0,Illegally occupied prior to CO,1
+3249,South Boston,2012.0,Maintenance,2
+3250,South Boston,2012.0,Mechanical Code,1
+3251,South Boston,2012.0,Mechanical Execution of Work,1
+3252,South Boston,2012.0,Number of Exits or Exit Access,1
+3253,South Boston,2012.0,Protection of Adj. Property,4
+3254,South Boston,2012.0,Referenced Codes,1
+3255,South Boston,2012.0,Revocation of Permits,1
+3256,South Boston,2012.0,Right of Entry,5
+3257,South Boston,2012.0,Testing & Certification,1
+3258,South Boston,2012.0,Unsafe & Dangerous,3
+3259,South Boston,2012.0,Unsafe and Dangerous,14
+3260,South Boston,2013.0,Access to Public Way,1
+3261,South Boston,2013.0,Approval required,1
+3262,South Boston,2013.0,Building or Use of Premise req,1
+3263,South Boston,2013.0,Certificate of Occupancy,1
+3264,South Boston,2013.0,Electrical Work w/out Permit,1
+3265,South Boston,2013.0,Failed to comply w permit term,1
+3266,South Boston,2013.0,Failure to Obtain Permit,11
+3267,South Boston,2013.0,Failure to Secure Permit,5
+3268,South Boston,2013.0,Mass State Plumbing Code,1
+3269,South Boston,2013.0,Periodic Inspections,2
+3270,South Boston,2013.0,Pool barrier,1
+3271,South Boston,2013.0,Right of Entry,5
+3272,South Boston,2013.0,Testing & Certification,1
+3273,South Boston,2013.0,Unsafe & Dangerous,6
+3274,South Boston,2013.0,Unsafe and Dangerous,13
+3275,South Boston,2013.0,Working Without a Permit,1
+3276,South Boston,2013.0,Workmanship,1
+3277,South Boston,2014.0,Approval of Documents,3
+3278,South Boston,2014.0,Approved Construction Doc.,1
+3279,South Boston,2014.0,Building or Use of Premise req,1
+3280,South Boston,2014.0,Certificate of Occupancy,13
+3281,South Boston,2014.0,Failed to comply w PRMT terms,2
+3282,South Boston,2014.0,Failed to comply w permit term,2
+3283,South Boston,2014.0,Failure to Obtain Permit,21
+3284,South Boston,2014.0,Failure to Secure Permit,6
+3285,South Boston,2014.0,Hand Rails,1
+3286,South Boston,2014.0,Maintenance,1
+3287,South Boston,2014.0,Mass State Plumbing Code,1
+3288,South Boston,2014.0,Means of Egress,1
+3289,South Boston,2014.0,Pedestrian Protection,1
+3290,South Boston,2014.0,Periodic Inspections,1
+3291,South Boston,2014.0,Protection of Adj. Property,9
+3292,South Boston,2014.0,Protection of Pedestrians,1
+3293,South Boston,2014.0,Required Inspections,1
+3294,South Boston,2014.0,Right of Entry,7
+3295,South Boston,2014.0,Suspension or Revocation,1
+3296,South Boston,2014.0,Testing & Certification,6
+3297,South Boston,2014.0,Unsafe & Dangerous,5
+3298,South Boston,2014.0,Unsafe Structure,1
+3299,South Boston,2014.0,Unsafe and Dangerous,19
+3300,South Boston,2014.0,Walkways,1
+3301,South Boston,2015.0,Approval of Documents,1
+3302,South Boston,2015.0,Building or Use of Premise req,1
+3303,South Boston,2015.0,Failure to Obtain Permit,20
+3304,South Boston,2015.0,Failure to Secure Permit,3
+3305,South Boston,2015.0,Inspections,1
+3306,South Boston,2015.0,Maintenance,13
+3307,South Boston,2015.0,Occupancy,1
+3308,South Boston,2015.0,Protection of Adj. Property,7
+3309,South Boston,2015.0,Referenced Codes & Standards,2
+3310,South Boston,2015.0,Right of Entry,6
+3311,South Boston,2015.0,Testing & Certification,1
+3312,South Boston,2015.0,Unsafe & Dangerous,3
+3313,South Boston,2015.0,Unsafe Structure,1
+3314,South Boston,2015.0,Unsafe and Dangerous,12
+3315,South Boston,2015.0,Validity of Permit,1
+3316,South Boston,2016.0,Approval of Documents,2
+3317,South Boston,2016.0,Building or Use of Premise req,2
+3318,South Boston,2016.0,Emergency Escape & Rescue,1
+3319,South Boston,2016.0,Exits Maintained,3
+3320,South Boston,2016.0,Failed to comply w permit term,1
+3321,South Boston,2016.0,Failure to Obtain Permit,10
+3322,South Boston,2016.0,Maintenance,12
+3323,South Boston,2016.0,Means of Egress,1
+3324,South Boston,2016.0,Protection of Adj. Property,3
+3325,South Boston,2016.0,Right of Entry,5
+3326,South Boston,2016.0,Suspension or Revocation,4
+3327,South Boston,2016.0,Unlawful Acts,1
+3328,South Boston,2016.0,Unsafe and Dangerous,11
+3329,South Boston,2016.0,Validity of Permit,4
+3330,South Boston,2017.0,Approved Construction Doc.,1
+3331,South Boston,2017.0,Building or Use of Premise req,1
+3332,South Boston,2017.0,Door operations-Egress doors,1
+3333,South Boston,2017.0,Exits Maintained,1
+3334,South Boston,2017.0,Failed to comply w permit term,2
+3335,South Boston,2017.0,Failure to Obtain Permit,17
+3336,South Boston,2017.0,IEBC,1
+3337,South Boston,2017.0,Maintenance,2
+3338,South Boston,2017.0,Means of Egress,1
+3339,South Boston,2017.0,Municipal Bylaws or Ordinances,2
+3340,South Boston,2017.0,Placement of Permit,1
+3341,South Boston,2017.0,Protection of Adj. Property,6
+3342,South Boston,2017.0,Protection of Pedestrians,1
+3343,South Boston,2017.0,Unsafe Structure,4
+3344,South Boston,2017.0,Unsafe and Dangerous,16
+3345,South Boston,2017.0,Use of Premises,2
+3346,South Boston,2017.0,Validity of Permit,3
+3347,South Boston,2018.0,Acts 1956 as Amended,1
+3348,South Boston,2018.0,Certificate of Occupancy,1
+3349,South Boston,2018.0,Exits Maintained,1
+3350,South Boston,2018.0,Failed to comply w permit term,2
+3351,South Boston,2018.0,Failure to Obtain Permit,15
+3352,South Boston,2018.0,Maintenance,3
+3353,South Boston,2018.0,Minimum Requirements,1
+3354,South Boston,2018.0,National Fuel Gas Code,1
+3355,South Boston,2018.0,Notice of Violation,1
+3356,South Boston,2018.0,Protection of Adj. Property,5
+3357,South Boston,2018.0,Right of Entry,1
+3358,South Boston,2018.0,Street Numbers,2
+3359,South Boston,2018.0,Testing & Certification,1
+3360,South Boston,2018.0,Unsafe and Dangerous,16
+3361,South Boston,2018.0,Validity of Permit,1
+3362,South Boston,2019.0,Certificate of Occupancy,3
+3363,South Boston,2019.0,Elec work w/o per,1
+3364,South Boston,2019.0,Failed to comply w permit term,3
+3365,South Boston,2019.0,Failure to Obtain Permit,12
+3366,South Boston,2019.0,Handrails,1
+3367,South Boston,2019.0,Maintenance,2
+3368,South Boston,2019.0,Protection of Adj. Property,2
+3369,South Boston,2019.0,Suspension or Revocation,1
+3370,South Boston,2019.0,Testing & Certification,1
+3371,South Boston,2019.0,Unsafe and Dangerous,14
+3372,South Boston,2020.0,Certificate of Occupancy,1
+3373,South Boston,2020.0,Failed to comply w permit term,3
+3374,South Boston,2020.0,Failure to Obtain Permit,6
+3375,South Boston,2020.0,General - Stairways,1
+3376,South Boston,2020.0,Maintenance,2
+3377,South Boston,2020.0,Number of Exits or Exit Access,2
+3378,South Boston,2020.0,Protection of Adj. Property,3
+3379,South Boston,2020.0,Testing & Certification,3
+3380,South Boston,2020.0,Unsafe and Dangerous,18
+3381,South Boston,2021.0,Emergency Escape & Rescue,1
+3382,South Boston,2021.0,Failed to comply w permit term,1
+3383,South Boston,2021.0,Failure to Obtain Permit,9
+3384,South Boston,2021.0,Failure to call Inspections,1
+3385,South Boston,2021.0,Maintenance,4
+3386,South Boston,2021.0,Protection of Adj. Property,3
+3387,South Boston,2021.0,Requirements,1
+3388,South Boston,2021.0,Testing & Certification,2
+3389,South Boston,2021.0,Unlawful Continuance,1
+3390,South Boston,2021.0,Unsafe Structures,8
+3391,South Boston,2021.0,Unsafe and Dangerous,6
+3392,South Boston,2022.0,Certificate of Occupancy,1
+3393,South Boston,2022.0,Failed to comply w permit term,1
+3394,South Boston,2022.0,Failure to Obtain Permit,7
+3395,South Boston,2022.0,Landings,1
+3396,South Boston,2022.0,Maintenance,7
+3397,South Boston,2022.0,Maintenance of Means of Egress,1
+3398,South Boston,2022.0,Means of Egress,1
+3399,South Boston,2022.0,No use of premises permit:,2
+3400,South Boston,2022.0,Notice of Violation,1
+3401,South Boston,2022.0,Protection of Adj. Property,2
+3402,South Boston,2022.0,Right of Entry,1
+3403,South Boston,2022.0,Testing & Certification,4
+3404,South Boston,2022.0,Two exits or exit access doorways.,1
+3405,South Boston,2022.0,Unsafe Structures,6
+3406,South Boston,2023.0,Building or Use of Premise req,1
+3407,South Boston,2023.0,Certificate of Occupancy,1
+3408,South Boston,2023.0,Emergency Escape & Rescue,2
+3409,South Boston,2023.0,Failed to comply w permit term,2
+3410,South Boston,2023.0,Failure to Obtain Permit,22
+3411,South Boston,2023.0,Inspections,1
+3412,South Boston,2023.0,Maintenance,17
+3413,South Boston,2023.0,No use of premises permit:,1
+3414,South Boston,2023.0,Protection of Adj. Property,1
+3415,South Boston,2023.0,Requirements,1
+3416,South Boston,2023.0,Right of Entry,1
+3417,South Boston,2023.0,Street Numbers,2
+3418,South Boston,2023.0,Testing & Certification,4
+3419,South Boston,2023.0,Unsafe Structures,4
+3420,South Boston,2024.0,Certificate of Occupancy,3
+3421,South Boston,2024.0,Conductors Considered Outside the Building. Conductors shall be considered outside of a building or other structure under any of the following conditions: Sections 1-5.,1
+3422,South Boston,2024.0,Failed to comply w permit term,1
+3423,South Boston,2024.0,Failure to Obtain Permit,8
+3424,South Boston,2024.0,Maintenance,18
+3425,South Boston,2024.0,Mass State Plumbing Code,2
+3426,South Boston,2024.0,Number of Exits or Exit Access,1
+3427,South Boston,2024.0,Protection of Adj. Property,1
+3428,South Boston,2024.0,Required Plumbing Fixtures,1
+3429,South Boston,2024.0,Requirements,1
+3430,South Boston,2024.0,Testing & Certification,10
+3431,South Boston,2024.0,Unsafe Structures,4
+3432,South Boston,2024.0,Unsafe and Dangerous,4
+3433,South Boston Waterfront,2011.0,Electrical Work w/out a Permit,1
+3434,South Boston Waterfront,2012.0,Certificate of Occupancy,1
+3435,South Boston Waterfront,2012.0,Failure to Obtain Permit,3
+3436,South Boston Waterfront,2013.0,Failure to Obtain Permit,3
+3437,South Boston Waterfront,2013.0,Municipal Bylaws or Ordinances,1
+3438,South Boston Waterfront,2013.0,Periodic Inspections,1
+3439,South Boston Waterfront,2013.0,Unsafe and Dangerous,2
+3440,South Boston Waterfront,2013.0,Working Without a Permit,1
+3441,South Boston Waterfront,2014.0,Electrical Work w/out a Permit,1
+3442,South Boston Waterfront,2014.0,Failure to Obtain Permit,1
+3443,South Boston Waterfront,2014.0,Unsafe and Dangerous,4
+3444,South Boston Waterfront,2015.0,Certificate of Occupancy,2
+3445,South Boston Waterfront,2015.0,Electrical Work w/out a Permit,3
+3446,South Boston Waterfront,2015.0,Unsafe and Dangerous,1
+3447,South Boston Waterfront,2018.0,Failure to Obtain Permit,1
+3448,South Boston Waterfront,2018.0,Unsafe and Dangerous,1
+3449,South Boston Waterfront,2019.0,Corridor Continuity,3
+3450,South Boston Waterfront,2021.0,Unsafe Structures,1
+3451,South Boston Waterfront,2022.0,Maintenance,1
+3452,South Boston Waterfront,2023.0,Failure to Obtain Permit,1
+3453,South Boston Waterfront,2023.0,Unsafe Structures,1
+3455,South End,2010.0,Certificate of Inspection,1
+3456,South End,2010.0,Failed to comply w PRMT terms,2
+3457,South End,2010.0,Failure to Comply w Bldg Code,1
+3458,South End,2010.0,Failure to secure permit,1
+3459,South End,2010.0,Inspections,20
+3460,South End,2010.0,Licensed Supervisor,1
+3461,South End,2010.0,Maintenance,6
+3462,South End,2010.0,Mechanical Execution of Work,1
+3463,South End,2010.0,Protection of Adj. Property,2
+3464,South End,2010.0,Right of Entry,3
+3465,South End,2010.0,Testing & Certification,1
+3466,South End,2010.0,Unsafe Maintenance,2
+3467,South End,2010.0,Unsafe Structure,4
+3468,South End,2010.0,Unsafe and Dangerous,5
+3469,South End,2011.0,Certificate of Occupancy,1
+3470,South End,2011.0,Electrical Work w/out Permit,1
+3471,South End,2011.0,Failed to comply w permit term,2
+3472,South End,2011.0,Failure to Obtain Permit,4
+3473,South End,2011.0,Inspections,1
+3474,South End,2011.0,Maintenance,3
+3475,South End,2011.0,Means of Egress,3
+3476,South End,2011.0,Other Laws,1
+3477,South End,2011.0,Periodic Inspections,1
+3478,South End,2011.0,Rem Dangerous/Abandoned Struct,1
+3479,South End,2011.0,Right of Entry,1
+3480,South End,2011.0,Unsafe Maintenance,2
+3481,South End,2011.0,Unsafe Structures,3
+3482,South End,2011.0,Unsafe and Dangerous,1
+3483,South End,2011.0,Violation penalties,1
+3484,South End,2012.0,Application for Permit,1
+3485,South End,2012.0,Certificate of Occupancy,1
+3486,South End,2012.0,Electrical Work w/out Permit,1
+3487,South End,2012.0,Emergency Escape & Rescue,1
+3488,South End,2012.0,Failed to comply w permit term,3
+3489,South End,2012.0,Failure to Obtain Permit,6
+3490,South End,2012.0,Failure to Secure Permit,2
+3491,South End,2012.0,Inspections,2
+3492,South End,2012.0,Maintenance,4
+3493,South End,2012.0,Means of Egress,1
+3494,South End,2012.0,Minimum Number of Exits,1
+3495,South End,2012.0,Permits,2
+3496,South End,2012.0,Right of Entry,1
+3497,South End,2012.0,Testing & Certification,2
+3498,South End,2012.0,Unsafe Structure,1
+3499,South End,2012.0,Unsafe Structures,1
+3500,South End,2012.0,Unsafe and Dangerous,4
+3501,South End,2012.0,Water Accumulation,2
+3502,South End,2013.0,Building or Use of Premise req,4
+3503,South End,2013.0,Certificate of Occupancy,2
+3504,South End,2013.0,Construction Documents,1
+3505,South End,2013.0,Defective material/workmanship,1
+3506,South End,2013.0,Failed to comply w permit term,5
+3507,South End,2013.0,Failure to Obtain Permit,12
+3508,South End,2013.0,Live loads(roof),1
+3509,South End,2013.0,Periodic Inspections,1
+3510,South End,2013.0,Permits,1
+3511,South End,2013.0,Protection of Adj. Property,1
+3512,South End,2013.0,Protection of Pedestrians,1
+3513,South End,2013.0,Right of Entry,1
+3514,South End,2013.0,STOP WORK ORDER,1
+3515,South End,2013.0,Stop Work Order,1
+3516,South End,2013.0,Testing & Certification,4
+3517,South End,2013.0,Unsafe and Dangerous,9
+3518,South End,2014.0,Building or Use of Premise req,1
+3519,South End,2014.0,Certificate of Occupancy,5
+3520,South End,2014.0,Elec. Equip. & Connections,1
+3521,South End,2014.0,Exits,1
+3522,South End,2014.0,Failed to comply w permit term,2
+3523,South End,2014.0,Failure to Obtain Permit,10
+3524,South End,2014.0,Guarding of Live parts,1
+3525,South End,2014.0,Inspections,1
+3526,South End,2014.0,Mechanical Execution of Work,1
+3527,South End,2014.0,Openings to be closed.,1
+3528,South End,2014.0,Personal Doors,1
+3529,South End,2014.0,Right of Entry,4
+3530,South End,2014.0,Securing and Supporting,1
+3531,South End,2014.0,Testing & Certification,4
+3532,South End,2014.0,Unsafe and Dangerous,8
+3533,South End,2014.0,Uses not permitted,1
+3534,South End,2015.0,Certificate of Occupancy,1
+3535,South End,2015.0,Deteriorating Agents,1
+3536,South End,2015.0,Electrical Work w/out a Permit,1
+3537,South End,2015.0,Exit Passageways,1
+3538,South End,2015.0,Failed to comply w permit term,4
+3539,South End,2015.0,Failure to Obtain Permit,17
+3540,South End,2015.0,Failure to comply w permits,1
+3541,South End,2015.0,Fire Protection Systems,1
+3542,South End,2015.0,Illumination,1
+3543,South End,2015.0,Maintenance,10
+3544,South End,2015.0,Mechanical Execution of Work,3
+3545,South End,2015.0,Periodic Inspections,1
+3546,South End,2015.0,Permits to perform gas fitting,1
+3547,South End,2015.0,Power Source- Exit Signs,1
+3548,South End,2015.0,Right of Entry,1
+3549,South End,2015.0,Site Plan,2
+3550,South End,2015.0,Suspension or Revocation,1
+3551,South End,2015.0,Testing & Certification,1
+3552,South End,2015.0,Unsafe and Dangerous,15
+3553,South End,2016.0,Failed to comply w PRMT terms,1
+3554,South End,2016.0,Failed to comply w permit term,1
+3555,South End,2016.0,Failure to Obtain Permit,9
+3556,South End,2016.0,Inspection of exterior walls.,1
+3557,South End,2016.0,Maintenance,5
+3558,South End,2016.0,Periodic Inspections,2
+3559,South End,2016.0,Protection of Adj. Property,1
+3560,South End,2016.0,Right of Entry,1
+3561,South End,2016.0,Testing & Certification,1
+3562,South End,2016.0,Unsafe and Dangerous,7
+3563,South End,2017.0,Certificate of Occupancy,1
+3564,South End,2017.0,Failed to comply w permit term,6
+3565,South End,2017.0,Failure to Obtain Permit,9
+3566,South End,2017.0,Protc. of  Primary Structure,1
+3567,South End,2017.0,Protection of Adj. Property,2
+3568,South End,2017.0,Right of Entry,1
+3569,South End,2017.0,Separated Occupancies,1
+3570,South End,2017.0,Unlawful Acts,1
+3571,South End,2017.0,Unsafe and Dangerous,13
+3572,South End,2017.0,Validity of Permit,1
+3573,South End,2018.0,Certificate of Occupancy,1
+3574,South End,2018.0,Failed to comply w permit term,7
+3575,South End,2018.0,Failure to Obtain Permit,12
+3576,South End,2018.0,Maintenance,3
+3577,South End,2018.0,Means of Egress,2
+3578,South End,2018.0,No use of premises permit:,1
+3579,South End,2018.0,Protection of Adj. Property,1
+3580,South End,2018.0,Revocation of Cert. of Occ.,1
+3581,South End,2018.0,Testing & Certification,2
+3582,South End,2018.0,Unsafe and Dangerous,17
+3583,South End,2019.0,Acts 1956 as Amended,1
+3584,South End,2019.0,Failure to Obtain Permit,3
+3585,South End,2019.0,Maintenance,4
+3586,South End,2019.0,No use of premises permit:,1
+3587,South End,2019.0,Periodic Inspections,1
+3588,South End,2019.0,Protection of Adj. Property,1
+3589,South End,2019.0,Testing & Certification,6
+3590,South End,2019.0,Unsafe Structures,1
+3591,South End,2019.0,Unsafe and Dangerous,17
+3592,South End,2020.0,Emergency Disconnects,1
+3593,South End,2020.0,Failed to comply w permit term,1
+3594,South End,2020.0,Failure to Obtain Permit,1
+3595,South End,2020.0,Maintenance,4
+3596,South End,2020.0,Minimum Number of Exits,1
+3597,South End,2020.0,Municipal Bylaws or Ordinances,1
+3598,South End,2020.0,Periodic Inspections,1
+3599,South End,2020.0,Protection of Adj. Property,1
+3600,South End,2020.0,Testing & Certification,3
+3601,South End,2020.0,Unsafe and Dangerous,11
+3602,South End,2021.0,Deteriorating Agents,1
+3603,South End,2021.0,Failure to Obtain Permit,3
+3604,South End,2021.0,Inspections,1
+3605,South End,2021.0,Maintenance,2
+3606,South End,2021.0,Protection of Adj. Property,1
+3607,South End,2021.0,Testing & Certification,1
+3608,South End,2021.0,Unsafe Structures,3
+3609,South End,2021.0,Unsafe and Dangerous,1
+3610,South End,2022.0,Certificate of Occupancy,1
+3611,South End,2022.0,Failure to Obtain Permit,4
+3612,South End,2022.0,Maintenance,2
+3613,South End,2022.0,Right of Entry,1
+3614,South End,2022.0,Testing & Certification,11
+3615,South End,2022.0,Unsafe Structures,5
+3616,South End,2022.0,Unsafe and Dangerous,1
+3617,South End,2022.0,Window Wells,2
+3618,South End,2023.0,Automatic Sprinkler System,1
+3619,South End,2023.0,Certificate of Inspection,1
+3620,South End,2023.0,Certificate of Occupancy,2
+3621,South End,2023.0,Emergency Escape,1
+3622,South End,2023.0,Failure to Obtain Permit,6
+3623,South End,2023.0,Fire Protection Systems,1
+3624,South End,2023.0,Internally Illuminated Extit Signs ,1
+3625,South End,2023.0,Maintenance,8
+3626,South End,2023.0,Maintenance of Means of Egress,1
+3627,South End,2023.0,Protection of Adj. Property,1
+3628,South End,2023.0,Right of Entry,1
+3629,South End,2023.0,Testing & Certification,2
+3630,South End,2023.0,Unsafe Structures,5
+3631,South End,2024.0,Accessible Means of Egress,7
+3632,South End,2024.0,Certificate of Occupancy,1
+3633,South End,2024.0,Emergency Escape & Rescue,1
+3634,South End,2024.0,Failed to comply w permit term,2
+3635,South End,2024.0,Failure to Obtain Permit,9
+3636,South End,2024.0,Fire Alarm & Detection Systems,1
+3637,South End,2024.0,Handrails/safety,1
+3638,South End,2024.0,Maintenance,9
+3639,South End,2024.0,No use of premises permit:,1
+3640,South End,2024.0,Protection of Adj. Property,1
+3641,South End,2024.0,Testing & Certification,17
+3642,South End,2024.0,Unlawful Continuance,1
+3643,South End,2024.0,Unsafe Structures,3
+3644,West Roxbury,2010.0,Failed to comply w PRMT terms,1
+3645,West Roxbury,2010.0,Failure to secure permit,3
+3646,West Roxbury,2010.0,Inspections,1
+3647,West Roxbury,2010.0,Maintenance,2
+3648,West Roxbury,2010.0,Right of Entry,1
+3649,West Roxbury,2010.0,Unsafe Maintenance,8
+3650,West Roxbury,2010.0,Unsafe and Dangerous,6
+3651,West Roxbury,2011.0,Building or Use of Premise req,3
+3652,West Roxbury,2011.0,Electrical Work w/out Permit,1
+3653,West Roxbury,2011.0,Electrical Work w/out a Permit,5
+3654,West Roxbury,2011.0,Failure to Obtain Permit,7
+3655,West Roxbury,2011.0,Failure to secure permit,3
+3656,West Roxbury,2011.0,Inspections,2
+3657,West Roxbury,2011.0,Maintenance,5
+3658,West Roxbury,2011.0,Right of Entry,6
+3659,West Roxbury,2011.0,Suspension or Revocation,1
+3660,West Roxbury,2011.0,Unsafe Maintenance,1
+3661,West Roxbury,2011.0,Unsafe Structures,2
+3662,West Roxbury,2011.0,Unsafe and Dangerous,4
+3663,West Roxbury,2012.0,Building or Use of Premise req,1
+3664,West Roxbury,2012.0,Electrical Work w/out Permit,1
+3665,West Roxbury,2012.0,Electrical Work w/out a Permit,1
+3666,West Roxbury,2012.0,Failure to Obtain Permit,8
+3667,West Roxbury,2012.0,Failure to Secure Permit,1
+3668,West Roxbury,2012.0,Inspections,1
+3669,West Roxbury,2012.0,Maintenance,3
+3670,West Roxbury,2012.0,Mass State Plumbing Code,1
+3671,West Roxbury,2012.0,Mechanical Execution of Work,1
+3672,West Roxbury,2012.0,Periodic Inspections,1
+3673,West Roxbury,2012.0,Protection of Adj. Property,3
+3674,West Roxbury,2012.0,Right of Entry,5
+3675,West Roxbury,2012.0,Unsafe and Dangerous,8
+3676,West Roxbury,2013.0,Building or Use of Premise req,1
+3677,West Roxbury,2013.0,Failed to comply w permit term,3
+3678,West Roxbury,2013.0,Failure to Obtain Permit,8
+3679,West Roxbury,2013.0,Failure to Secure Permit,2
+3680,West Roxbury,2013.0,Right of Entry,8
+3681,West Roxbury,2013.0,Unlawful Continuance,1
+3682,West Roxbury,2013.0,Unsafe and Dangerous,5
+3683,West Roxbury,2014.0,Building or Use of Premise req,2
+3684,West Roxbury,2014.0,Certificate of Occupancy,2
+3685,West Roxbury,2014.0,Failure to Obtain Permit,13
+3686,West Roxbury,2014.0,Maintenance,1
+3687,West Roxbury,2014.0,Protection of Adj. Property,2
+3688,West Roxbury,2014.0,Right of Entry,3
+3689,West Roxbury,2014.0,Unsafe and Dangerous,8
+3690,West Roxbury,2015.0,Failure to Obtain Permit,11
+3691,West Roxbury,2015.0,Failure to call for req Insp.,2
+3692,West Roxbury,2015.0,Protection of Adj. Property,1
+3693,West Roxbury,2015.0,Stop Work Order,1
+3694,West Roxbury,2015.0,Unlawful Continuance,1
+3695,West Roxbury,2015.0,Unsafe and Dangerous,11
+3696,West Roxbury,2016.0,Certificate of Occupancy,1
+3697,West Roxbury,2016.0,Electrical Work w/out a Permit,1
+3698,West Roxbury,2016.0,Failure to Obtain Permit,13
+3699,West Roxbury,2016.0,Failure to secure permit,1
+3700,West Roxbury,2016.0,Guards,1
+3701,West Roxbury,2016.0,Maintenance,1
+3702,West Roxbury,2016.0,No use of premises permit:,1
+3703,West Roxbury,2016.0,Unsafe and Dangerous,7
+3704,West Roxbury,2017.0,Building or Use of Premise req,2
+3705,West Roxbury,2017.0,Door operations-Egress doors,1
+3706,West Roxbury,2017.0,Failed to comply w permit term,2
+3707,West Roxbury,2017.0,Failure to Obtain Permit,18
+3708,West Roxbury,2017.0,Inspections,1
+3709,West Roxbury,2017.0,Maintenance,12
+3710,West Roxbury,2017.0,No use of premises permit:,3
+3711,West Roxbury,2017.0,Right of Entry,1
+3712,West Roxbury,2017.0,Street Numbers,1
+3713,West Roxbury,2017.0,Supervision of Electricians,1
+3714,West Roxbury,2017.0,Unsafe and Dangerous,5
+3715,West Roxbury,2018.0,Building or Use of Premise req,2
+3716,West Roxbury,2018.0,Certificate of Occupancy,1
+3717,West Roxbury,2018.0,Electrical Work w/out a Permit,1
+3718,West Roxbury,2018.0,Failed to comply w permit term,1
+3719,West Roxbury,2018.0,Failure to Obtain Permit,6
+3720,West Roxbury,2018.0,Fire Protection Systems,1
+3721,West Roxbury,2018.0,Maintenance,4
+3722,West Roxbury,2018.0,Maintenance of Means of Egress,1
+3723,West Roxbury,2018.0,Protection of Adj. Property,3
+3724,West Roxbury,2018.0,Right of Entry,1
+3725,West Roxbury,2018.0,Testing & Certification,1
+3726,West Roxbury,2018.0,Unsafe and Dangerous,14
+3727,West Roxbury,2018.0,Validity of Permit,1
+3728,West Roxbury,2019.0,Acts 1956 as Amended,1
+3729,West Roxbury,2019.0,Emergency Power Illumination,1
+3730,West Roxbury,2019.0,Failure to Obtain Permit,3
+3731,West Roxbury,2019.0,Information Required,1
+3732,West Roxbury,2019.0,Maintenance,4
+3733,West Roxbury,2019.0,Maintenance of Means of Egress,1
+3734,West Roxbury,2019.0,No use of premises permit:,1
+3735,West Roxbury,2019.0,Unsafe and Dangerous,6
+3736,West Roxbury,2020.0,Building or Use of Premise req,1
+3737,West Roxbury,2020.0,Failed to comply w permit term,1
+3738,West Roxbury,2020.0,Failure to Obtain Permit,8
+3739,West Roxbury,2020.0,Maintenance,3
+3740,West Roxbury,2020.0,Unsafe and Dangerous,3
+3741,West Roxbury,2021.0,Building or Use of Premise req,3
+3742,West Roxbury,2021.0,Employee Toilet Facilities for (Non-industrial) Establishments,1
+3743,West Roxbury,2021.0,Failed to comply w permit term,1
+3744,West Roxbury,2021.0,Failure to Obtain Permit,8
+3745,West Roxbury,2021.0,Unsafe Structures,1
+3746,West Roxbury,2021.0,Unsafe and Dangerous,3
+3747,West Roxbury,2022.0,Covers & Canopies,1
+3748,West Roxbury,2022.0,Deteriorating Agents,1
+3749,West Roxbury,2022.0,Failed to comply w permit term,2
+3750,West Roxbury,2022.0,Failure to Obtain Permit,5
+3751,West Roxbury,2022.0,Maintenance,2
+3752,West Roxbury,2022.0,Maintenance of Means of Egress,1
+3753,West Roxbury,2022.0,Right of Entry,1
+3754,West Roxbury,2022.0,Testing & Certification,1
+3755,West Roxbury,2022.0,Unsafe Structures,3
+3756,West Roxbury,2023.0,Failure to Obtain Permit,3
+3757,West Roxbury,2023.0,Maintenance,2
+3758,West Roxbury,2023.0,Unsafe Structures,4
+3759,West Roxbury,2023.0,Unsafe and Dangerous,1
+3760,West Roxbury,2024.0,Accessory keeping of hens,1
+3761,West Roxbury,2024.0,Deteriorating Agents,1
+3762,West Roxbury,2024.0,Failure to Obtain Permit,2
+3763,West Roxbury,2024.0,Maintenance,9
+3764,West Roxbury,2024.0,Suspension or Revocation,1
