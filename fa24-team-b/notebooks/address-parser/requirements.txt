@@ -1,0 +1,3 @@
+deepparse
+pandas
+pytorch
