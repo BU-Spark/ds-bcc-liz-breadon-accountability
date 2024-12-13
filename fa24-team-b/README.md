@@ -104,6 +104,14 @@ The primary goals of this project are to address the following questions:
 
 ### Reproducibility Guidelines  
 
+Before anything, run the following command in the fa24-team-b directory.
+
+```bash
+pip install -r requirements.txt
+```
+
+<i>Make sure you have python 3.12.6 installed and activated</i>
+
 #### **Student Addresses: Preparation, Cleaning, and Merging**
 
 To reproduce the preparation phase of this project, follow these steps:
