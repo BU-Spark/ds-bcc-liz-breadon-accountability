@@ -64,16 +64,9 @@ The primary goals of this project are to address the following questions:
   - raw/  
   - ... (processed datasets)
 
-#### `data_prep_phase/`
-- Northeastern.ipynb  
-- address_parser.py  
-- data_move.ipynb  
-- data_prep.ipynb  
-- merge_and_clean.ipynb  
-
 #### `notebooks/`
 - **address-parser/**
-  - checkpoints/  
+  - checkpoints/
   - data-preparation.py  
   - notebook.ipynb  
   - requirements.txt  
@@ -82,10 +75,10 @@ The primary goals of this project are to address the following questions:
   - cleaner.py  
   - data-preparation.py  
   - notebook.ipynb  
+- ... rest of the notebooks
 
 #### `old-reports/`
 - old-data-cleaning-report.md
-
 
 ### Datasets Used  
 
