@@ -9,7 +9,7 @@ The primary goals of this project are to address the following questions:
 2. **Housing Conditions**: What are the living conditions of students residing in off-campus housing?  
 3. **Landlord Compliance**: What is the spectrum and severity of violations committed by landlords, and who are the most non-compliant landlords?  
 
----
+<hr/>
 
 ### Team Contributions  
 
@@ -48,12 +48,44 @@ The primary goals of this project are to address the following questions:
 - Identified the most non-compliant landlords based on SAM IDs and analyzed violations by frequency and severity.  
 - Developed an interactive dashboard in Looker Studio to allow stakeholders to filter violations by landlord and type for actionable insights.  
 
----
+<hr/>
 
-### Repository Structure  
-To be completed.  
+# Project Directory Structure
 
----
+## Root Directory: `fa24-team-b`
+
+#### `analysis/`
+- **README.md**  
+- **zainab**
+  - ... all work related to Zainab
+
+#### `data/`
+- **student-addresses/**  
+  - raw/  
+  - ... (processed datasets)
+
+#### `data_prep_phase/`
+- Northeastern.ipynb  
+- address_parser.py  
+- data_move.ipynb  
+- data_prep.ipynb  
+- merge_and_clean.ipynb  
+
+#### `notebooks/`
+- **address-parser/**
+  - checkpoints/  
+  - data-preparation.py  
+  - notebook.ipynb  
+  - requirements.txt  
+  - retraining.py  
+- **data-cleaning/**
+  - cleaner.py  
+  - data-preparation.py  
+  - notebook.ipynb  
+
+#### `old-reports/`
+- old-data-cleaning-report.md
+
 
 ### Datasets Used  
 
@@ -77,7 +109,35 @@ To be completed.
 - **Details**: Records of property violations by landlords, detailing violation types, severity, and addresses.  
 - **Coverage**: Data spans from 2016 to 2024, highlighting non-compliance issues among landlords.  
 
----
-
 ### Reproducibility Guidelines  
-To be completed.  
+
+#### **Student Addresses: Preparation, Cleaning, and Merging**
+
+To reproduce the preparation phase of this project, follow these steps:
+
+1. Execute the `data-preparation.py` script with the following command:
+
+```bash
+python3 data-preparation.py <PATH_TO_INPUT> <PATH_TO_OUTPUT>
+```
+
+2. After running the script, proceed to the associated notebook and follow the hierarchy as outlined.
+
+*Note:* If you encounter any confusion, refer to the script’s documentation for further clarification.
+
+#### **Address Parser: Preparation, Retraining, and Evaluation**
+
+Follow these steps to retrain and evaluate the address parser:
+
+1. Execute the `data-preparation.py` script with the following command:
+
+```bash
+python3 data-preparation.py <PATH_TO_INPUT> <PATH_TO_OUTPUT>
+```
+
+2. Open the relevant notebook and follow the hierarchy to complete the process.
+
+*Note:* For any uncertainties, consult the script’s inline documentation.
+
+### **General Instructions**
+The instructions above cover all the necessary steps to prepare the data before analysis or further processing. Detailed explanations are embedded within the notebooks to guide you through subsequent tasks effectively.
