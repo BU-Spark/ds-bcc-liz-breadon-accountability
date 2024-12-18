@@ -1,4 +1,5 @@
 University Accountability - Student Address Data (2016-2024)
+
 ## Project Overview
 This project aims to enhance the transparency and accountability of off-campus student housing data reported by higher education institutions. By examining and standardizing data from the past decade, the project seeks to understand the impact on housing affordability and inform land use decisions. The initiative involves collaboration with the Inspectional Services Department to restore and clarify housing violation data, develop tools to identify problematic landlords, and integrate data across city departments. This ordinance will establish clear criteria for data collection and reporting, ultimately creating a publicly accessible database to ensure compliance and promote responsible property management.
 
@@ -65,6 +66,7 @@ The raw datasets contained addresses stored in single columns or incomplete addr
 - 6c. Street Suffix
 - 6d. Unit #
 - 6e. Zip
+
 Address suffixes such as 'St', 'Ave', 'Blvd', etc., were accounted for in different cases (e.g., lowercase, uppercase).
 Address Parsing for Different Universities:
 
