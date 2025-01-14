@@ -1,0 +1,8 @@
+pandas==2.2.3
+deepparse==0.9.13
+torch==2.5.1
+rich==13.8.1
+geopandas==1.0.1
+matplotlib==3.9.2
+numpy==1.26.4
+ipywidgets==8.1.5
